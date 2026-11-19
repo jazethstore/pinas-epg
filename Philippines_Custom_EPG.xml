@@ -1,0 +1,580 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv generator-info-name="Custom Philippines EPG" generator-info-url="https://epg.pw/">
+  <channel id="575517">
+    <display-name lang="Philippines">GMA</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="575517" start="20261119150000 +0000" stop="20261120000000 +0000">
+    <title lang="zh">The Kinnaree Conspiracy</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <channel id="464769">
+    <display-name lang="US">GMA Pinoy TV</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="464769" start="20261119002000 +0000" stop="20261119005000 +0000">
+    <title lang="zh">Maria Clara at Ibarra</title>
+    <desc>Klay, a Gen Z nursing student, is transported into José Rizal's novels after reading Noli Me Tángere.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119005000 +0000" stop="20261119011500 +0000">
+    <title lang="zh">Fast Talk with Boy Abunda</title>
+    <desc>Host Boy Abunda gives a rundown and an analysis of the latest showbiz-related updates while interviewing celebrity guests.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119011500 +0000" stop="20261119014500 +0000">
+    <title lang="zh">Family Feud Philippines</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119014500 +0000" stop="20261119031500 +0000">
+    <title lang="zh">24 Oras</title>
+    <desc>Up-to-the-minute news around the world.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119031500 +0000" stop="20261119040000 +0000">
+    <title lang="zh">The Master Cutter</title>
+    <desc>Follows a former scout ranger-turned-tailor who discovers his biological daughter is tied to a criminal syndicate.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119040000 +0000" stop="20261119044500 +0000">
+    <title lang="zh">Task Force Firewall</title>
+    <desc>A highly skilled group of individuals serve as cyber protectors against modern digital threats.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119044500 +0000" stop="20261119052000 +0000">
+    <title lang="zh">Delivery Boi</title>
+    <desc>Boi, a delivery rider, faces numerous challenges on the road to support his loved ones and achieve his dreams, including finding his biological father.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119052000 +0000" stop="20261119055500 +0000">
+    <title lang="zh">Born to Shine</title>
+    <desc>Jennie, a daughter of a former P-pop girl group member, sets out to pursue the same career as her mother despite her opposition.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119055500 +0000" stop="20261119063000 +0000">
+    <title lang="zh">Maria Clara at Ibarra</title>
+    <desc>Klay, a Gen Z nursing student, is transported into José Rizal's novels after reading Noli Me Tángere.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119063000 +0000" stop="20261119070000 +0000">
+    <title lang="zh">Fast Talk with Boy Abunda</title>
+    <desc>Host Boy Abunda gives a rundown and an analysis of the latest showbiz-related updates while interviewing celebrity guests.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119070000 +0000" stop="20261119090000 +0000">
+    <title lang="zh">It's Showtime</title>
+    <desc>Artists and celebrities showcase their talents and deliver enthralling performances while competing in a series of challenges.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119090000 +0000" stop="20261119094000 +0000">
+    <title lang="zh">Family Feud Philippines</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119094000 +0000" stop="20261119101500 +0000">
+    <title lang="zh">Tadhana</title>
+    <desc>A weekly drama anthology series hosted by Kapuso Primetime Queen Marian Rivera-Dantes.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119101500 +0000" stop="20261119110000 +0000">
+    <title lang="zh">The Master Cutter</title>
+    <desc>Follows a former scout ranger-turned-tailor who discovers his biological daughter is tied to a criminal syndicate.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119110000 +0000" stop="20261119114500 +0000">
+    <title lang="zh">Task Force Firewall</title>
+    <desc>A highly skilled group of individuals serve as cyber protectors against modern digital threats.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119114500 +0000" stop="20261119121500 +0000">
+    <title lang="zh">Born to Shine</title>
+    <desc>Jennie, a daughter of a former P-pop girl group member, sets out to pursue the same career as her mother despite her opposition.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119121500 +0000" stop="20261119141500 +0000">
+    <title lang="zh">Unang Hirit</title>
+    <desc>Offers humor and information on various special interests, including news and entertainment.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119141500 +0000" stop="20261119155000 +0000">
+    <title lang="zh">24 Oras</title>
+    <desc>Up-to-the-minute news around the world.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119155000 +0000" stop="20261119162000 +0000">
+    <title lang="zh">Fast Talk with Boy Abunda</title>
+    <desc>Host Boy Abunda gives a rundown and an analysis of the latest showbiz-related updates while interviewing celebrity guests.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119162000 +0000" stop="20261119170000 +0000">
+    <title lang="zh">Family Feud Philippines</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119170000 +0000" stop="20261119174000 +0000">
+    <title lang="zh">Delivery Boi</title>
+    <desc>Boi, a delivery rider, faces numerous challenges on the road to support his loved ones and achieve his dreams, including finding his biological father.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119174000 +0000" stop="20261119181500 +0000">
+    <title lang="zh">Maria Clara at Ibarra</title>
+    <desc>Klay, a Gen Z nursing student, is transported into José Rizal's novels after reading Noli Me Tángere.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119181500 +0000" stop="20261119190000 +0000">
+    <title lang="zh">Regal Studio Presents</title>
+    <desc>A collection of stories which showcase different romantic and uplifting moments featuring renowned young actors in the Philippines.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119190000 +0000" stop="20261119200000 +0000">
+    <title lang="zh">Tiktoclock: Happy Hour Na</title>
+    <desc>Talented Filipinos compete against each other in a series of fun games and activities to showcase their talent and win the prize.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119200000 +0000" stop="20261119220000 +0000">
+    <title lang="zh">It's Showtime</title>
+    <desc>Artists and celebrities showcase their talents and deliver enthralling performances while competing in a series of challenges.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119220000 +0000" stop="20261119224000 +0000">
+    <title lang="zh">Usap-usapan: What We Know So Far</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119224000 +0000" stop="20261119232000 +0000">
+    <title lang="zh">Saksi</title>
+    <desc>Delivering breaking stories and covering live reports.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119232000 +0000" stop="20261119235000 +0000">
+    <title lang="zh">Delivery Boi</title>
+    <desc>Boi, a delivery rider, faces numerous challenges on the road to support his loved ones and achieve his dreams, including finding his biological father.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119235000 +0000" stop="20261120000000 +0000">
+    <title lang="zh">Born to Shine</title>
+    <desc>Jennie, a daughter of a former P-pop girl group member, sets out to pursue the same career as her mother despite her opposition.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261120002000 +0000" stop="20261120005000 +0000">
+    <title lang="zh">Maria Clara at Ibarra</title>
+    <desc>Klay, a Gen Z nursing student, is transported into José Rizal's novels after reading Noli Me Tángere.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120005000 +0000" stop="20261120011500 +0000">
+    <title lang="zh">Fast Talk with Boy Abunda</title>
+    <desc>Host Boy Abunda gives a rundown and an analysis of the latest showbiz-related updates while interviewing celebrity guests.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120011500 +0000" stop="20261120014500 +0000">
+    <title lang="zh">Family Feud Philippines</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120014500 +0000" stop="20261120031500 +0000">
+    <title lang="zh">24 Oras</title>
+    <desc>Up-to-the-minute news around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120031500 +0000" stop="20261120040000 +0000">
+    <title lang="zh">The Master Cutter</title>
+    <desc>Follows a former scout ranger-turned-tailor who discovers his biological daughter is tied to a criminal syndicate.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120040000 +0000" stop="20261120044500 +0000">
+    <title lang="zh">Task Force Firewall</title>
+    <desc>A highly skilled group of individuals serve as cyber protectors against modern digital threats.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120044500 +0000" stop="20261120052000 +0000">
+    <title lang="zh">Delivery Boi</title>
+    <desc>Boi, a delivery rider, faces numerous challenges on the road to support his loved ones and achieve his dreams, including finding his biological father.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120052000 +0000" stop="20261120055500 +0000">
+    <title lang="zh">Born to Shine</title>
+    <desc>Jennie, a daughter of a former P-pop girl group member, sets out to pursue the same career as her mother despite her opposition.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120055500 +0000" stop="20261120063000 +0000">
+    <title lang="zh">Maria Clara at Ibarra</title>
+    <desc>Klay, a Gen Z nursing student, is transported into José Rizal's novels after reading Noli Me Tángere.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120063000 +0000" stop="20261120070000 +0000">
+    <title lang="zh">Fast Talk with Boy Abunda</title>
+    <desc>Host Boy Abunda gives a rundown and an analysis of the latest showbiz-related updates while interviewing celebrity guests.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120070000 +0000" stop="20261120090000 +0000">
+    <title lang="zh">It's Showtime</title>
+    <desc>Artists and celebrities showcase their talents and deliver enthralling performances while competing in a series of challenges.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120090000 +0000" stop="20261120094000 +0000">
+    <title lang="zh">Family Feud Philippines</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120094000 +0000" stop="20261120101500 +0000">
+    <title lang="zh">Reporter's Notebook</title>
+    <desc>Investigative reporting.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120101500 +0000" stop="20261120110000 +0000">
+    <title lang="zh">The Master Cutter</title>
+    <desc>Follows a former scout ranger-turned-tailor who discovers his biological daughter is tied to a criminal syndicate.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120110000 +0000" stop="20261120114500 +0000">
+    <title lang="zh">Task Force Firewall</title>
+    <desc>A highly skilled group of individuals serve as cyber protectors against modern digital threats.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120114500 +0000" stop="20261120121500 +0000">
+    <title lang="zh">Born to Shine</title>
+    <desc>Jennie, a daughter of a former P-pop girl group member, sets out to pursue the same career as her mother despite her opposition.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120121500 +0000" stop="20261120141500 +0000">
+    <title lang="zh">Unang Hirit</title>
+    <desc>Offers humor and information on various special interests, including news and entertainment.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120141500 +0000" stop="20261120155000 +0000">
+    <title lang="zh">24 Oras</title>
+    <desc>Up-to-the-minute news around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120155000 +0000" stop="20261120162000 +0000">
+    <title lang="zh">Fast Talk with Boy Abunda</title>
+    <desc>Host Boy Abunda gives a rundown and an analysis of the latest showbiz-related updates while interviewing celebrity guests.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120162000 +0000" stop="20261120170000 +0000">
+    <title lang="zh">Family Feud Philippines</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120170000 +0000" stop="20261120174000 +0000">
+    <title lang="zh">Delivery Boi</title>
+    <desc>Boi, a delivery rider, faces numerous challenges on the road to support his loved ones and achieve his dreams, including finding his biological father.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120174000 +0000" stop="20261120181500 +0000">
+    <title lang="zh">Maria Clara at Ibarra</title>
+    <desc>Klay, a Gen Z nursing student, is transported into José Rizal's novels after reading Noli Me Tángere.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120181500 +0000" stop="20261120190000 +0000">
+    <title lang="zh">Barangay Love Stories</title>
+    <desc>The artist adapts true stories and personal experiences shared by Filipinos.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120190000 +0000" stop="20261120200000 +0000">
+    <title lang="zh">Tiktoclock: Happy Hour Na</title>
+    <desc>Talented Filipinos compete against each other in a series of fun games and activities to showcase their talent and win the prize.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120200000 +0000" stop="20261120220000 +0000">
+    <title lang="zh">It's Showtime</title>
+    <desc>Artists and celebrities showcase their talents and deliver enthralling performances while competing in a series of challenges.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120220000 +0000" stop="20261120224000 +0000">
+    <title lang="zh">Usap-usapan: What We Know So Far</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120224000 +0000" stop="20261120232000 +0000">
+    <title lang="zh">Saksi</title>
+    <desc>Delivering breaking stories and covering live reports.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120232000 +0000" stop="20261120235000 +0000">
+    <title lang="zh">Delivery Boi</title>
+    <desc>Boi, a delivery rider, faces numerous challenges on the road to support his loved ones and achieve his dreams, including finding his biological father.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120235000 +0000" stop="20261121000000 +0000">
+    <title lang="zh">Born to Shine</title>
+    <desc>Jennie, a daughter of a former P-pop girl group member, sets out to pursue the same career as her mother despite her opposition.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <channel id="474984">
+    <display-name lang="US">[TFC] The Filipino Channel HD</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="474984" start="20261119002500 +0000" stop="20261119010000 +0000">
+    <title lang="zh">Someone, Someday</title>
+    <desc>A dating app CEO unknowingly befriends someone out for revenge, jeopardizing her company, her family and her dream of finding romance.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119010000 +0000" stop="20261119013500 +0000">
+    <title lang="zh">The Loyalty Game</title>
+    <desc>A seemingly perfect couple's marriage unravels when the wife hires loyalty testers to uncover her husband's hidden secrets and deceptions.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119013500 +0000" stop="20261119015500 +0000">
+    <title lang="zh">TV Patrol Express</title>
+    <desc>The anchors deliver the latest news and updates happening across the Philippines.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119015500 +0000" stop="20261119023000 +0000">
+    <title lang="zh">Ano Na Bev?</title>
+    <desc>The host invites prominent personalities from different fields to discuss their journey towards excellence and become an inspiration to many.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119023000 +0000" stop="20261119040000 +0000">
+    <title lang="zh">TV Patrol Global Edition</title>
+    <desc>The host presents a detailed report of news stories about political, economic, social and cultural topics from all around the region.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119040000 +0000" stop="20261119044000 +0000">
+    <title lang="zh">Sigabo</title>
+    <desc>After serving eight years in prison, a spunky man is granted parole; but his long-awaited freedom comes at a price he is forced into a covert government program that recruits convicts for dangerous, high-stakes missions.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119044000 +0000" stop="20261119052000 +0000">
+    <title lang="zh">Someone, Someday</title>
+    <desc>A dating app CEO unknowingly befriends someone out for revenge, jeopardizing her company, her family and her dream of finding romance.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119052000 +0000" stop="20261119060000 +0000">
+    <title lang="zh">The Loyalty Game</title>
+    <desc>A seemingly perfect couple's marriage unravels when the wife hires loyalty testers to uncover her husband's hidden secrets and deceptions.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119060000 +0000" stop="20261119080000 +0000">
+    <title lang="zh">It's Showtime</title>
+    <desc>Pinoys strut and display their unique talents for the world.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119080000 +0000" stop="20261119093000 +0000">
+    <title lang="zh">Direct Response</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119093000 +0000" stop="20261119113000 +0000">
+    <title lang="zh">Watch List</title>
+    <desc>A widow becomes a police informant to protect her three children from drug lords in the Philippines.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119113000 +0000" stop="20261119121500 +0000">
+    <title lang="zh">La Vida Lena</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119121500 +0000" stop="20261119130000 +0000">
+    <title lang="zh">The General's Daughter</title>
+    <desc>A story of three generations of love and betrayal, and how the sins of the past continue to haunt two families whose lives are destined to be intertwined.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119130000 +0000" stop="20261119140000 +0000">
+    <title lang="zh">Gising Pilipinas</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119140000 +0000" stop="20261119150000 +0000">
+    <title lang="zh">Tandem Ng Bayan</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119150000 +0000" stop="20261119153000 +0000">
+    <title lang="zh">Kapamilya Daily Mass</title>
+    <desc>The priest delivers messages from the Bible as he celebrates the Holy Eucharist with devoted Catholics from across the country.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119153000 +0000" stop="20261119170000 +0000">
+    <title lang="zh">TV Patrol Global Edition</title>
+    <desc>The host presents a detailed report of news stories about political, economic, social and cultural topics from all around the region.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119170000 +0000" stop="20261119174000 +0000">
+    <title lang="zh">The Iron Heart</title>
+    <desc>An undercover agent, Apollo, seeks to dismantle Tatsulok, the syndicate that killed his love Cassandra; the story explores standing up for justice and love's redemptive power.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119174000 +0000" stop="20261119182000 +0000">
+    <title lang="zh">The General's Daughter</title>
+    <desc>A story of three generations of love and betrayal, and how the sins of the past continue to haunt two families whose lives are destined to be intertwined.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119182000 +0000" stop="20261119190000 +0000">
+    <title lang="zh">Got to Believe</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119190000 +0000" stop="20261119193000 +0000">
+    <title lang="zh">TFC Kids' Zone</title>
+    <desc>A compilation of cartoons, rhymes and moral stories that aim to impart values and lessons to children.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119193000 +0000" stop="20261119200000 +0000">
+    <title lang="zh">Oh MY Gan!</title>
+    <desc>Journalist Ganiel Krishnan speaks with celebrities and public figures about learnings from their professional and personal life.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119200000 +0000" stop="20261119220000 +0000">
+    <title lang="zh">It's Showtime</title>
+    <desc>Pinoys strut and display their unique talents for the world.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119220000 +0000" stop="20261119224000 +0000">
+    <title lang="zh">Goin' Bulilit</title>
+    <desc>A sketch comedy featuring a roster of child actors and actresses portraying adult roles in various comedic situations.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119224000 +0000" stop="20261119231500 +0000">
+    <title lang="zh">La Vida Lena</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119231500 +0000" stop="20261119235000 +0000">
+    <title lang="zh">Got to Believe</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119235000 +0000" stop="20261120000000 +0000">
+    <title lang="zh">Sigabo</title>
+    <desc>After serving eight years in prison, a spunky man is granted parole; but his long-awaited freedom comes at a price he is forced into a covert government program that recruits convicts for dangerous, high-stakes missions.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261120002500 +0000" stop="20261120010000 +0000">
+    <title lang="zh">Someone, Someday</title>
+    <desc>A dating app CEO unknowingly befriends someone out for revenge, jeopardizing her company, her family and her dream of finding romance.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120010000 +0000" stop="20261120013500 +0000">
+    <title lang="zh">The Loyalty Game</title>
+    <desc>A seemingly perfect couple's marriage unravels when the wife hires loyalty testers to uncover her husband's hidden secrets and deceptions.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120013500 +0000" stop="20261120015500 +0000">
+    <title lang="zh">TV Patrol Express</title>
+    <desc>The anchors deliver the latest news and updates happening across the Philippines.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120015500 +0000" stop="20261120023000 +0000">
+    <title lang="zh">Pamilya Talk With Tita Jing</title>
+    <desc>Jing Castañeda invites renowned personalities from different fields and discusses various topics related to family and business.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120023000 +0000" stop="20261120040000 +0000">
+    <title lang="zh">TV Patrol Global Edition</title>
+    <desc>The host presents a detailed report of news stories about political, economic, social and cultural topics from all around the region.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120040000 +0000" stop="20261120044000 +0000">
+    <title lang="zh">Sigabo</title>
+    <desc>After serving eight years in prison, a spunky man is granted parole; but his long-awaited freedom comes at a price he is forced into a covert government program that recruits convicts for dangerous, high-stakes missions.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120044000 +0000" stop="20261120052000 +0000">
+    <title lang="zh">Someone, Someday</title>
+    <desc>A dating app CEO unknowingly befriends someone out for revenge, jeopardizing her company, her family and her dream of finding romance.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120052000 +0000" stop="20261120060000 +0000">
+    <title lang="zh">The Loyalty Game</title>
+    <desc>A seemingly perfect couple's marriage unravels when the wife hires loyalty testers to uncover her husband's hidden secrets and deceptions.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120060000 +0000" stop="20261120080000 +0000">
+    <title lang="zh">It's Showtime</title>
+    <desc>Pinoys strut and display their unique talents for the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120080000 +0000" stop="20261120093000 +0000">
+    <title lang="zh">Direct Response</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120093000 +0000" stop="20261120113000 +0000">
+    <title lang="zh">Takbo, Talon, Tili</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120113000 +0000" stop="20261120121500 +0000">
+    <title lang="zh">La Vida Lena</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120121500 +0000" stop="20261120130000 +0000">
+    <title lang="zh">The General's Daughter</title>
+    <desc>A story of three generations of love and betrayal, and how the sins of the past continue to haunt two families whose lives are destined to be intertwined.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120130000 +0000" stop="20261120140000 +0000">
+    <title lang="zh">Gising Pilipinas</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120140000 +0000" stop="20261120150000 +0000">
+    <title lang="zh">Tandem Ng Bayan</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120150000 +0000" stop="20261120153000 +0000">
+    <title lang="zh">Kapamilya Daily Mass</title>
+    <desc>The priest delivers messages from the Bible as he celebrates the Holy Eucharist with devoted Catholics from across the country.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120153000 +0000" stop="20261120170000 +0000">
+    <title lang="zh">TV Patrol Global Edition</title>
+    <desc>The host presents a detailed report of news stories about political, economic, social and cultural topics from all around the region.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120170000 +0000" stop="20261120174000 +0000">
+    <title lang="zh">The Iron Heart</title>
+    <desc>An undercover agent, Apollo, seeks to dismantle Tatsulok, the syndicate that killed his love Cassandra; the story explores standing up for justice and love's redemptive power.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120174000 +0000" stop="20261120182000 +0000">
+    <title lang="zh">The General's Daughter</title>
+    <desc>A story of three generations of love and betrayal, and how the sins of the past continue to haunt two families whose lives are destined to be intertwined.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120182000 +0000" stop="20261120190000 +0000">
+    <title lang="zh">Got to Believe</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120190000 +0000" stop="20261120193000 +0000">
+    <title lang="zh">TFC Kids' Zone</title>
+    <desc>A compilation of cartoons, rhymes and moral stories that aim to impart values and lessons to children.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120193000 +0000" stop="20261120200000 +0000">
+    <title lang="zh">Oh MY Gan!</title>
+    <desc>Journalist Ganiel Krishnan speaks with celebrities and public figures about learnings from their professional and personal life.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120200000 +0000" stop="20261120220000 +0000">
+    <title lang="zh">It's Showtime</title>
+    <desc>Pinoys strut and display their unique talents for the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120220000 +0000" stop="20261120224000 +0000">
+    <title lang="zh">Goin' Bulilit</title>
+    <desc>A sketch comedy featuring a roster of child actors and actresses portraying adult roles in various comedic situations.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120224000 +0000" stop="20261120231500 +0000">
+    <title lang="zh">La Vida Lena</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120231500 +0000" stop="20261120235000 +0000">
+    <title lang="zh">Got to Believe</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120235000 +0000" stop="20261121000000 +0000">
+    <title lang="zh">Sigabo</title>
+    <desc>After serving eight years in prison, a spunky man is granted parole; but his long-awaited freedom comes at a price he is forced into a covert government program that recruits convicts for dangerous, high-stakes missions.</desc>
+    <date>2026-11-20</date>
+  </programme>
+</tv>
