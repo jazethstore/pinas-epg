@@ -1,0 +1,2031 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv generator-info-name="Combined Philippines EPG" generator-info-url="https://epg.pw/">
+  <channel id="575517">
+    <display-name lang="en">GMA 7</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="464769">
+    <display-name lang="US">GMA Pinoy TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="474984">
+    <display-name lang="US">[TFC] The Filipino Channel HD</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="484097">
+    <display-name lang="PH">Jeepney TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="575514">
+    <display-name lang="PH">Kapamilya Channel</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="575516">
+    <display-name lang="PH">PBO</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="575523">
+    <display-name lang="PH">Cinema One</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="579509">
+    <display-name lang="PH">Kapatid Channel</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="583758">
+    <display-name lang="PH">TV5 HD</display-name>
+    <icon src="" />
+    <display-name lang="en">Kapatid TV5</display-name>
+  </channel>
+  <channel id="465227">
+    <display-name lang="en">Sari Sari Channel</display-name>
+    <display-name lang="en">Sari-Sari</display-name>
+  </channel>
+  <programme channel="575517" start="20261118133000 -0800" stop="20261118160000 -0800">
+    <title lang="en">Unang Hirit</title>
+    <desc>GMA 7 local Philippine broadcast schedule converted from Philippine Time to Los Angeles time.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="575517" start="20261118160000 -0800" stop="20261118163000 -0800">
+    <title lang="en">Kapuso Mo, Jessica Soho</title>
+    <desc>GMA 7 local Philippine broadcast schedule converted from Philippine Time to Los Angeles time.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119002000 +0000" stop="20261119005000 +0000">
+    <title lang="zh">Maria Clara at Ibarra</title>
+    <desc>Klay, a Gen Z nursing student, is transported into José Rizal's novels after reading Noli Me Tángere.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119002500 +0000" stop="20261119010000 +0000">
+    <title lang="zh">Someone, Someday</title>
+    <desc>A dating app CEO unknowingly befriends someone out for revenge, jeopardizing her company, her family and her dream of finding romance.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="575517" start="20261118163000 -0800" stop="20261118173000 -0800">
+    <title lang="en">Pinas Sarap</title>
+    <desc>GMA 7 local Philippine broadcast schedule converted from Philippine Time to Los Angeles time.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119005000 +0000" stop="20261119011500 +0000">
+    <title lang="zh">Fast Talk with Boy Abunda</title>
+    <desc>Host Boy Abunda gives a rundown and an analysis of the latest showbiz-related updates while interviewing celebrity guests.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119010000 +0000" stop="20261119013500 +0000">
+    <title lang="zh">The Loyalty Game</title>
+    <desc>A seemingly perfect couple's marriage unravels when the wife hires loyalty testers to uncover her husband's hidden secrets and deceptions.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119011500 +0000" stop="20261119014500 +0000">
+    <title lang="zh">Family Feud Philippines</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="575517" start="20261118173000 -0800" stop="20261118190000 -0800">
+    <title lang="en">Chika Cart</title>
+    <desc>GMA 7 local Philippine broadcast schedule converted from Philippine Time to Los Angeles time.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119013500 +0000" stop="20261119015500 +0000">
+    <title lang="zh">TV Patrol Express</title>
+    <desc>The anchors deliver the latest news and updates happening across the Philippines.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119014500 +0000" stop="20261119031500 +0000">
+    <title lang="zh">24 Oras</title>
+    <desc>Up-to-the-minute news around the world.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119015500 +0000" stop="20261119023000 +0000">
+    <title lang="zh">Ano Na Bev?</title>
+    <desc>The host invites prominent personalities from different fields to discuss their journey towards excellence and become an inspiration to many.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119023000 +0000" stop="20261119040000 +0000">
+    <title lang="zh">TV Patrol Global Edition</title>
+    <desc>The host presents a detailed report of news stories about political, economic, social and cultural topics from all around the region.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="575517" start="20261118190000 -0800" stop="20261118200000 -0800">
+    <title lang="en">Tiktoclock</title>
+    <desc>GMA 7 local Philippine broadcast schedule converted from Philippine Time to Los Angeles time.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119031500 +0000" stop="20261119040000 +0000">
+    <title lang="zh">The Master Cutter</title>
+    <desc>Follows a former scout ranger-turned-tailor who discovers his biological daughter is tied to a criminal syndicate.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119040000 +0000" stop="20261119044500 +0000">
+    <title lang="zh">Task Force Firewall</title>
+    <desc>A highly skilled group of individuals serve as cyber protectors against modern digital threats.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119040000 +0000" stop="20261119044000 +0000">
+    <title lang="zh">Sigabo</title>
+    <desc>After serving eight years in prison, a spunky man is granted parole; but his long-awaited freedom comes at a price he is forced into a covert government program that recruits convicts for dangerous, high-stakes missions.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="575517" start="20261118200000 -0800" stop="20261118223000 -0800">
+    <title lang="en">It's Showtime!</title>
+    <desc>GMA 7 local Philippine broadcast schedule converted from Philippine Time to Los Angeles time.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119044000 +0000" stop="20261119052000 +0000">
+    <title lang="zh">Someone, Someday</title>
+    <desc>A dating app CEO unknowingly befriends someone out for revenge, jeopardizing her company, her family and her dream of finding romance.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119044500 +0000" stop="20261119052000 +0000">
+    <title lang="zh">Delivery Boi</title>
+    <desc>Boi, a delivery rider, faces numerous challenges on the road to support his loved ones and achieve his dreams, including finding his biological father.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119052000 +0000" stop="20261119055500 +0000">
+    <title lang="zh">Born to Shine</title>
+    <desc>Jennie, a daughter of a former P-pop girl group member, sets out to pursue the same career as her mother despite her opposition.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119052000 +0000" stop="20261119060000 +0000">
+    <title lang="zh">The Loyalty Game</title>
+    <desc>A seemingly perfect couple's marriage unravels when the wife hires loyalty testers to uncover her husband's hidden secrets and deceptions.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119055500 +0000" stop="20261119063000 +0000">
+    <title lang="zh">Maria Clara at Ibarra</title>
+    <desc>Klay, a Gen Z nursing student, is transported into José Rizal's novels after reading Noli Me Tángere.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119060000 +0000" stop="20261119080000 +0000">
+    <title lang="zh">It's Showtime</title>
+    <desc>Pinoys strut and display their unique talents for the world.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119063000 +0000" stop="20261119070000 +0000">
+    <title lang="zh">Fast Talk with Boy Abunda</title>
+    <desc>Host Boy Abunda gives a rundown and an analysis of the latest showbiz-related updates while interviewing celebrity guests.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="575517" start="20261118223000 -0800" stop="20261118232000 -0800">
+    <title lang="en">Born To Shine</title>
+    <desc>GMA 7 local Philippine broadcast schedule converted from Philippine Time to Los Angeles time.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119070000 +0000" stop="20261119090000 +0000">
+    <title lang="zh">It's Showtime</title>
+    <desc>Artists and celebrities showcase their talents and deliver enthralling performances while competing in a series of challenges.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="575517" start="20261118232000 -0800" stop="20261119000500 -0800">
+    <title lang="en">Delivery Boi</title>
+    <desc>GMA 7 local Philippine broadcast schedule converted from Philippine Time to Los Angeles time.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119080000 +0000" stop="20261119093000 +0000">
+    <title lang="zh">Direct Response</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="575517" start="20261119000500 -0800" stop="20261119003000 -0800">
+    <title lang="en">Fast Talk With Boy Abunda</title>
+    <desc>GMA 7 local Philippine broadcast schedule converted from Philippine Time to Los Angeles time.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="575517" start="20261119003000 -0800" stop="20261119011000 -0800">
+    <title lang="en">Maria Clara at Ibarra</title>
+    <desc>GMA 7 local Philippine broadcast schedule converted from Philippine Time to Los Angeles time.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119090000 +0000" stop="20261119094000 +0000">
+    <title lang="zh">Family Feud Philippines</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="575517" start="20261119011000 -0800" stop="20261119014000 -0800">
+    <title lang="en">Encantadia 2016</title>
+    <desc>GMA 7 local Philippine broadcast schedule converted from Philippine Time to Los Angeles time.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119093000 +0000" stop="20261119113000 +0000">
+    <title lang="zh">Watch List</title>
+    <desc>A widow becomes a police informant to protect her three children from drug lords in the Philippines.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119094000 +0000" stop="20261119101500 +0000">
+    <title lang="zh">Tadhana</title>
+    <desc>A weekly drama anthology series hosted by Kapuso Primetime Queen Marian Rivera-Dantes.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="575517" start="20261119014000 -0800" stop="20261119023000 -0800">
+    <title lang="en">Family Feud Philippines</title>
+    <desc>GMA 7 local Philippine broadcast schedule converted from Philippine Time to Los Angeles time.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119101500 +0000" stop="20261119110000 +0000">
+    <title lang="zh">The Master Cutter</title>
+    <desc>Follows a former scout ranger-turned-tailor who discovers his biological daughter is tied to a criminal syndicate.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="575517" start="20261119023000 -0800" stop="20261119040000 -0800">
+    <title lang="en">24 Oras</title>
+    <desc>GMA 7 local Philippine broadcast schedule converted from Philippine Time to Los Angeles time.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119110000 +0000" stop="20261119114500 +0000">
+    <title lang="zh">Task Force Firewall</title>
+    <desc>A highly skilled group of individuals serve as cyber protectors against modern digital threats.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119113000 +0000" stop="20261119121500 +0000">
+    <title lang="zh">La Vida Lena</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119114500 +0000" stop="20261119121500 +0000">
+    <title lang="zh">Born to Shine</title>
+    <desc>Jennie, a daughter of a former P-pop girl group member, sets out to pursue the same career as her mother despite her opposition.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="575517" start="20261119040000 -0800" stop="20261119045000 -0800">
+    <title lang="en">The Master Cutter</title>
+    <desc>GMA 7 local Philippine broadcast schedule converted from Philippine Time to Los Angeles time.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119121500 +0000" stop="20261119141500 +0000">
+    <title lang="zh">Unang Hirit</title>
+    <desc>Offers humor and information on various special interests, including news and entertainment.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119121500 +0000" stop="20261119130000 +0000">
+    <title lang="zh">The General's Daughter</title>
+    <desc>A story of three generations of love and betrayal, and how the sins of the past continue to haunt two families whose lives are destined to be intertwined.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="575517" start="20261119045000 -0800" stop="20261119053500 -0800">
+    <title lang="en">Taskforce Firewall</title>
+    <desc>GMA 7 local Philippine broadcast schedule converted from Philippine Time to Los Angeles time.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119130000 +0000" stop="20261119140000 +0000">
+    <title lang="zh">Gising Pilipinas</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="575517" start="20261119053500 -0800" stop="20261119062000 -0800">
+    <title lang="en">Pinoy Big Brother Celebrity Collab Edition 3.0</title>
+    <desc>GMA 7 local Philippine broadcast schedule converted from Philippine Time to Los Angeles time.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119140000 +0000" stop="20261119150000 +0000">
+    <title lang="zh">Tandem Ng Bayan</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119141500 +0000" stop="20261119155000 +0000">
+    <title lang="zh">24 Oras</title>
+    <desc>Up-to-the-minute news around the world.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="575517" start="20261119062000 -0800" stop="20261119070500 -0800">
+    <title lang="en">Saksi</title>
+    <desc>GMA 7 local Philippine broadcast schedule converted from Philippine Time to Los Angeles time.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119150000 +0000" stop="20261119153000 +0000">
+    <title lang="zh">Kapamilya Daily Mass</title>
+    <desc>The priest delivers messages from the Bible as he celebrates the Holy Eucharist with devoted Catholics from across the country.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="575517" start="20261119070500 -0800" stop="20261119073500 -0800">
+    <title lang="en">State of the Nation</title>
+    <desc>GMA 7 local Philippine broadcast schedule converted from Philippine Time to Los Angeles time.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119153000 +0000" stop="20261119170000 +0000">
+    <title lang="zh">TV Patrol Global Edition</title>
+    <desc>The host presents a detailed report of news stories about political, economic, social and cultural topics from all around the region.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="575517" start="20261119073500 -0800" stop="20261119075900 -0800">
+    <title lang="en">Chika Cart</title>
+    <desc>GMA 7 local Philippine broadcast schedule converted from Philippine Time to Los Angeles time.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119155000 +0000" stop="20261119162000 +0000">
+    <title lang="zh">Fast Talk with Boy Abunda</title>
+    <desc>Host Boy Abunda gives a rundown and an analysis of the latest showbiz-related updates while interviewing celebrity guests.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119162000 +0000" stop="20261119170000 +0000">
+    <title lang="zh">Family Feud Philippines</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="465227" start="20261120003000 +0800" stop="20261120010000 +0800">
+    <title lang="en">Bet Mo Ba</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="464769" start="20261119170000 +0000" stop="20261119174000 +0000">
+    <title lang="zh">Delivery Boi</title>
+    <desc>Boi, a delivery rider, faces numerous challenges on the road to support his loved ones and achieve his dreams, including finding his biological father.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119170000 +0000" stop="20261119174000 +0000">
+    <title lang="zh">The Iron Heart</title>
+    <desc>An undercover agent, Apollo, seeks to dismantle Tatsulok, the syndicate that killed his love Cassandra; the story explores standing up for justice and love's redemptive power.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="465227" start="20261120010000 +0800" stop="20261120014500 +0800">
+    <title lang="en">Ang Kwarto Sa May Hagdanan</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="464769" start="20261119174000 +0000" stop="20261119181500 +0000">
+    <title lang="zh">Maria Clara at Ibarra</title>
+    <desc>Klay, a Gen Z nursing student, is transported into José Rizal's novels after reading Noli Me Tángere.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119174000 +0000" stop="20261119182000 +0000">
+    <title lang="zh">The General's Daughter</title>
+    <desc>A story of three generations of love and betrayal, and how the sins of the past continue to haunt two families whose lives are destined to be intertwined.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="465227" start="20261120014500 +0800" stop="20261120023000 +0800">
+    <title lang="en">Diary of a 30 Something</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="464769" start="20261119181500 +0000" stop="20261119190000 +0000">
+    <title lang="zh">Regal Studio Presents</title>
+    <desc>A collection of stories which showcase different romantic and uplifting moments featuring renowned young actors in the Philippines.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119182000 +0000" stop="20261119190000 +0000">
+    <title lang="zh">Got to Believe</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="465227" start="20261120023000 +0800" stop="20261120031500 +0800">
+    <title lang="en">Will You Marry Me</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="464769" start="20261119190000 +0000" stop="20261119200000 +0000">
+    <title lang="zh">Tiktoclock: Happy Hour Na</title>
+    <desc>Talented Filipinos compete against each other in a series of fun games and activities to showcase their talent and win the prize.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119190000 +0000" stop="20261119193000 +0000">
+    <title lang="zh">TFC Kids' Zone</title>
+    <desc>A compilation of cartoons, rhymes and moral stories that aim to impart values and lessons to children.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="465227" start="20261120031500 +0800" stop="20261120040000 +0800">
+    <title lang="en">Class 3-C Has a Secret</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="474984" start="20261119193000 +0000" stop="20261119200000 +0000">
+    <title lang="zh">Oh MY Gan!</title>
+    <desc>Journalist Ganiel Krishnan speaks with celebrities and public figures about learnings from their professional and personal life.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119200000 +0000" stop="20261119220000 +0000">
+    <title lang="zh">It's Showtime</title>
+    <desc>Artists and celebrities showcase their talents and deliver enthralling performances while competing in a series of challenges.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119200000 +0000" stop="20261119220000 +0000">
+    <title lang="zh">It's Showtime</title>
+    <desc>Pinoys strut and display their unique talents for the world.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="465227" start="20261120040000 +0800" stop="20261120044500 +0800">
+    <title lang="en">From the Beautiful Country</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="465227" start="20261120044500 +0800" stop="20261120053000 +0800">
+    <title lang="en">Job Order</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="465227" start="20261120053000 +0800" stop="20261120063000 +0800">
+    <title lang="en">Jon Santos</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="464769" start="20261119220000 +0000" stop="20261119224000 +0000">
+    <title lang="zh">Usap-usapan: What We Know So Far</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119220000 +0000" stop="20261119224000 +0000">
+    <title lang="zh">Goin' Bulilit</title>
+    <desc>A sketch comedy featuring a roster of child actors and actresses portraying adult roles in various comedic situations.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="465227" start="20261120063000 +0800" stop="20261120070000 +0800">
+    <title lang="en">Bet Mo Ba</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="464769" start="20261119224000 +0000" stop="20261119232000 +0000">
+    <title lang="zh">Saksi</title>
+    <desc>Delivering breaking stories and covering live reports.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119224000 +0000" stop="20261119231500 +0000">
+    <title lang="zh">La Vida Lena</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="465227" start="20261120070000 +0800" stop="20261120074500 +0800">
+    <title lang="en">Ang Kwarto Sa May Hagdanan</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="474984" start="20261119231500 +0000" stop="20261119235000 +0000">
+    <title lang="zh">Got to Believe</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="464769" start="20261119232000 +0000" stop="20261119235000 +0000">
+    <title lang="zh">Delivery Boi</title>
+    <desc>Boi, a delivery rider, faces numerous challenges on the road to support his loved ones and achieve his dreams, including finding his biological father.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="465227" start="20261120074500 +0800" stop="20261120083000 +0800">
+    <title lang="en">Diary of a 30 Something</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="464769" start="20261119235000 +0000" stop="20261120000000 +0000">
+    <title lang="zh">Born to Shine</title>
+    <desc>Jennie, a daughter of a former P-pop girl group member, sets out to pursue the same career as her mother despite her opposition.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="474984" start="20261119235000 +0000" stop="20261120000000 +0000">
+    <title lang="zh">Sigabo</title>
+    <desc>After serving eight years in prison, a spunky man is granted parole; but his long-awaited freedom comes at a price he is forced into a covert government program that recruits convicts for dangerous, high-stakes missions.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="484097" start="20261120000000 +0000" stop="20261120004500 +0000">
+    <title lang="zh">Since I Found You</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261120000000 +0000" stop="20261120003000 +0000">
+    <title lang="zh">Mga Kwentong Epik</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261120000000 +0000" stop="20261120010000 +0000">
+    <title lang="zh">Oras Ng Himala</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464769" start="20261120002000 +0000" stop="20261120005000 +0000">
+    <title lang="zh">Maria Clara at Ibarra</title>
+    <desc>Klay, a Gen Z nursing student, is transported into José Rizal's novels after reading Noli Me Tángere.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120002500 +0000" stop="20261120010000 +0000">
+    <title lang="zh">Someone, Someday</title>
+    <desc>A dating app CEO unknowingly befriends someone out for revenge, jeopardizing her company, her family and her dream of finding romance.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="579509" start="20261120003000 +0000" stop="20261120013000 +0000">
+    <title lang="zh">Afterlife</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261120083000 +0800" stop="20261120091500 +0800">
+    <title lang="en">Will You Marry Me</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="484097" start="20261120004500 +0000" stop="20261120012000 +0000">
+    <title lang="zh">Huwag Kang Mangamba</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464769" start="20261120005000 +0000" stop="20261120011500 +0000">
+    <title lang="zh">Fast Talk with Boy Abunda</title>
+    <desc>Host Boy Abunda gives a rundown and an analysis of the latest showbiz-related updates while interviewing celebrity guests.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120010000 +0000" stop="20261120013500 +0000">
+    <title lang="zh">The Loyalty Game</title>
+    <desc>A seemingly perfect couple's marriage unravels when the wife hires loyalty testers to uncover her husband's hidden secrets and deceptions.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="583758" start="20261120010000 +0000" stop="20261120042800 +0000">
+    <title lang="zh">Sign Off</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464769" start="20261120011500 +0000" stop="20261120014500 +0000">
+    <title lang="zh">Family Feud Philippines</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465227" start="20261120091500 +0800" stop="20261120100000 +0800">
+    <title lang="en">Class 3-C Has a Secret</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="484097" start="20261120012000 +0000" stop="20261120020000 +0000">
+    <title lang="zh">Darating Ang Umaga</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261120013000 +0000" stop="20261120023000 +0000">
+    <title lang="zh">Face to Face</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="474984" start="20261120013500 +0000" stop="20261120015500 +0000">
+    <title lang="zh">TV Patrol Express</title>
+    <desc>The anchors deliver the latest news and updates happening across the Philippines.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120014500 +0000" stop="20261120031500 +0000">
+    <title lang="zh">24 Oras</title>
+    <desc>Up-to-the-minute news around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120015500 +0000" stop="20261120023000 +0000">
+    <title lang="zh">Pamilya Talk With Tita Jing</title>
+    <desc>Jing Castañeda invites renowned personalities from different fields and discusses various topics related to family and business.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="484097" start="20261120020000 +0000" stop="20261120024500 +0000">
+    <title lang="zh">Imortal</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261120100000 +0800" stop="20261120104500 +0800">
+    <title lang="en">From the Beautiful Country</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="474984" start="20261120023000 +0000" stop="20261120040000 +0000">
+    <title lang="zh">TV Patrol Global Edition</title>
+    <desc>The host presents a detailed report of news stories about political, economic, social and cultural topics from all around the region.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="579509" start="20261120023000 +0000" stop="20261120033000 +0000">
+    <title lang="zh">From Helen's Kitchen</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="484097" start="20261120024500 +0000" stop="20261120033000 +0000">
+    <title lang="zh">Dream Dad</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261120104500 +0800" stop="20261120113000 +0800">
+    <title lang="en">Job Order</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="464769" start="20261120031500 +0000" stop="20261120040000 +0000">
+    <title lang="zh">The Master Cutter</title>
+    <desc>Follows a former scout ranger-turned-tailor who discovers his biological daughter is tied to a criminal syndicate.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="579509" start="20261120033000 +0000" stop="20261120043000 +0000">
+    <title lang="zh">Lumuhod Ka Sa Lupa</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261120113000 +0800" stop="20261120123000 +0800">
+    <title lang="en">Jon Santos</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="464769" start="20261120040000 +0000" stop="20261120044500 +0000">
+    <title lang="zh">Task Force Firewall</title>
+    <desc>A highly skilled group of individuals serve as cyber protectors against modern digital threats.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120040000 +0000" stop="20261120044000 +0000">
+    <title lang="zh">Sigabo</title>
+    <desc>After serving eight years in prison, a spunky man is granted parole; but his long-awaited freedom comes at a price he is forced into a covert government program that recruits convicts for dangerous, high-stakes missions.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="583758" start="20261120042800 +0000" stop="20261120043000 +0000">
+    <title lang="zh">Sign On</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261120043000 +0000" stop="20261120053000 +0000">
+    <title lang="zh">Totoy Bato</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261120043000 +0000" stop="20261120053000 +0000">
+    <title lang="zh">Mga Kwentong Mx3</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261120123000 +0800" stop="20261120130000 +0800">
+    <title lang="en">Bet Mo Ba</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="474984" start="20261120044000 +0000" stop="20261120052000 +0000">
+    <title lang="zh">Someone, Someday</title>
+    <desc>A dating app CEO unknowingly befriends someone out for revenge, jeopardizing her company, her family and her dream of finding romance.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120044500 +0000" stop="20261120052000 +0000">
+    <title lang="zh">Delivery Boi</title>
+    <desc>Boi, a delivery rider, faces numerous challenges on the road to support his loved ones and achieve his dreams, including finding his biological father.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465227" start="20261120130000 +0800" stop="20261120134500 +0800">
+    <title lang="en">Ang Kwarto Sa May Hagdanan</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="464769" start="20261120052000 +0000" stop="20261120055500 +0000">
+    <title lang="zh">Born to Shine</title>
+    <desc>Jennie, a daughter of a former P-pop girl group member, sets out to pursue the same career as her mother despite her opposition.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120052000 +0000" stop="20261120060000 +0000">
+    <title lang="zh">The Loyalty Game</title>
+    <desc>A seemingly perfect couple's marriage unravels when the wife hires loyalty testers to uncover her husband's hidden secrets and deceptions.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="579509" start="20261120053000 +0000" stop="20261120080000 +0000">
+    <title lang="zh">LIVE Frontline sa Umaga</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261120053000 +0000" stop="20261120080000 +0000">
+    <title lang="zh">Frontline Sa Umaga</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261120134500 +0800" stop="20261120143000 +0800">
+    <title lang="en">Diary of a 30 Something</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="464769" start="20261120055500 +0000" stop="20261120063000 +0000">
+    <title lang="zh">Maria Clara at Ibarra</title>
+    <desc>Klay, a Gen Z nursing student, is transported into José Rizal's novels after reading Noli Me Tángere.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120060000 +0000" stop="20261120080000 +0000">
+    <title lang="zh">It's Showtime</title>
+    <desc>Pinoys strut and display their unique talents for the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120063000 +0000" stop="20261120070000 +0000">
+    <title lang="zh">Fast Talk with Boy Abunda</title>
+    <desc>Host Boy Abunda gives a rundown and an analysis of the latest showbiz-related updates while interviewing celebrity guests.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465227" start="20261120143000 +0800" stop="20261120151500 +0800">
+    <title lang="en">Will You Marry Me</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="464769" start="20261120070000 +0000" stop="20261120090000 +0000">
+    <title lang="zh">It's Showtime</title>
+    <desc>Artists and celebrities showcase their talents and deliver enthralling performances while competing in a series of challenges.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465227" start="20261120151500 +0800" stop="20261120160000 +0800">
+    <title lang="en">Class 3-C Has a Secret</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="474984" start="20261120080000 +0000" stop="20261120093000 +0000">
+    <title lang="zh">Direct Response</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="579509" start="20261120080000 +0000" stop="20261120090000 +0000">
+    <title lang="zh">Usapang Real Life</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261120080000 +0000" stop="20261120083000 +0000">
+    <title lang="zh">Chibi Maruko Chan</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261120160000 +0800" stop="20261120164500 +0800">
+    <title lang="en">From the Beautiful Country</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="583758" start="20261120083000 +0000" stop="20261120103000 +0000">
+    <title lang="zh">Blockbuster Sa Umaga: My Sassy Girl 2</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261120164500 +0800" stop="20261120173000 +0800">
+    <title lang="en">Job Order</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="464769" start="20261120090000 +0000" stop="20261120094000 +0000">
+    <title lang="zh">Family Feud Philippines</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="579509" start="20261120090000 +0000" stop="20261120093000 +0000">
+    <title lang="zh">Mom Café</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="474984" start="20261120093000 +0000" stop="20261120113000 +0000">
+    <title lang="zh">Takbo, Talon, Tili</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="579509" start="20261120093000 +0000" stop="20261120100000 +0000">
+    <title lang="zh">Kiddie Cuisine</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261120173000 +0800" stop="20261120183000 +0800">
+    <title lang="en">Jon Santos</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="464769" start="20261120094000 +0000" stop="20261120101500 +0000">
+    <title lang="zh">Reporter's Notebook</title>
+    <desc>Investigative reporting.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="579509" start="20261120100000 +0000" stop="20261120110000 +0000">
+    <title lang="zh">From Helen's Kitchen</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464769" start="20261120101500 +0000" stop="20261120110000 +0000">
+    <title lang="zh">The Master Cutter</title>
+    <desc>Follows a former scout ranger-turned-tailor who discovers his biological daughter is tied to a criminal syndicate.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="583758" start="20261120103000 +0000" stop="20261120110000 +0000">
+    <title lang="zh">Frontline Express</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261120183000 +0800" stop="20261120190000 +0800">
+    <title lang="en">Bet Mo Ba</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="464769" start="20261120110000 +0000" stop="20261120114500 +0000">
+    <title lang="zh">Task Force Firewall</title>
+    <desc>A highly skilled group of individuals serve as cyber protectors against modern digital threats.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="579509" start="20261120110000 +0000" stop="20261120120000 +0000">
+    <title lang="zh">Lumuhod Ka Sa Lupa</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261120110000 +0000" stop="20261120120000 +0000">
+    <title lang="zh">Gandang Mornings With Ate Koring</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261120190000 +0800" stop="20261120194500 +0800">
+    <title lang="en">10 Signatures to Bargain With God</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="474984" start="20261120113000 +0000" stop="20261120121500 +0000">
+    <title lang="zh">La Vida Lena</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120114500 +0000" stop="20261120121500 +0000">
+    <title lang="zh">Born to Shine</title>
+    <desc>Jennie, a daughter of a former P-pop girl group member, sets out to pursue the same career as her mother despite her opposition.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465227" start="20261120194500 +0800" stop="20261120203000 +0800">
+    <title lang="en">Di Na Muli</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="579509" start="20261120120000 +0000" stop="20261120143000 +0000">
+    <title lang="zh">LIVE Eat Bulaga</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261120120000 +0000" stop="20261120143000 +0000">
+    <title lang="zh">E.A.T. Bulaga</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464769" start="20261120121500 +0000" stop="20261120141500 +0000">
+    <title lang="zh">Unang Hirit</title>
+    <desc>Offers humor and information on various special interests, including news and entertainment.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120121500 +0000" stop="20261120130000 +0000">
+    <title lang="zh">The General's Daughter</title>
+    <desc>A story of three generations of love and betrayal, and how the sins of the past continue to haunt two families whose lives are destined to be intertwined.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465227" start="20261120203000 +0800" stop="20261120210000 +0800">
+    <title lang="en">Dobol or Samting</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="474984" start="20261120130000 +0000" stop="20261120140000 +0000">
+    <title lang="zh">Gising Pilipinas</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465227" start="20261120210000 +0800" stop="20261120213000 +0800">
+    <title lang="en">Jadine</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="465227" start="20261120213000 +0800" stop="20261120220000 +0800">
+    <title lang="en">Pantaxa</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="474984" start="20261120140000 +0000" stop="20261120150000 +0000">
+    <title lang="zh">Tandem Ng Bayan</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465227" start="20261120220000 +0800" stop="20261120224500 +0800">
+    <title lang="en">Operation Break The Casanova's Heart</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="464769" start="20261120141500 +0000" stop="20261120155000 +0000">
+    <title lang="zh">24 Oras</title>
+    <desc>Up-to-the-minute news around the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="579509" start="20261120143000 +0000" stop="20261120153000 +0000">
+    <title lang="zh">Afterlife</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261120143000 +0000" stop="20261120151500 +0000">
+    <title lang="zh">Mommy Guard</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261120224500 +0800" stop="20261120233000 +0800">
+    <title lang="en">Where Is Franco?</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="474984" start="20261120150000 +0000" stop="20261120153000 +0000">
+    <title lang="zh">Kapamilya Daily Mass</title>
+    <desc>The priest delivers messages from the Bible as he celebrates the Holy Eucharist with devoted Catholics from across the country.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="583758" start="20261120151500 +0000" stop="20261120160000 +0000">
+    <title lang="zh">Frontline Express</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="474984" start="20261120153000 +0000" stop="20261120170000 +0000">
+    <title lang="zh">TV Patrol Global Edition</title>
+    <desc>The host presents a detailed report of news stories about political, economic, social and cultural topics from all around the region.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="579509" start="20261120153000 +0000" stop="20261120173000 +0000">
+    <title lang="zh">The Eternity Between Seconds</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261120233000 +0800" stop="20261121001500 +0800">
+    <title lang="en">Puto</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="464769" start="20261120155000 +0000" stop="20261120162000 +0000">
+    <title lang="zh">Fast Talk with Boy Abunda</title>
+    <desc>Host Boy Abunda gives a rundown and an analysis of the latest showbiz-related updates while interviewing celebrity guests.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="583758" start="20261120160000 +0000" stop="20261120164500 +0000">
+    <title lang="zh">Suntok Sa Buwan</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261121001500 +0800" stop="20261121010000 +0800">
+    <title lang="en">The Kasambahays</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="464769" start="20261120162000 +0000" stop="20261120170000 +0000">
+    <title lang="zh">Family Feud Philippines</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="583758" start="20261120164500 +0000" stop="20261120173000 +0000">
+    <title lang="zh">Knight Rider</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464769" start="20261120170000 +0000" stop="20261120174000 +0000">
+    <title lang="zh">Delivery Boi</title>
+    <desc>Boi, a delivery rider, faces numerous challenges on the road to support his loved ones and achieve his dreams, including finding his biological father.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120170000 +0000" stop="20261120174000 +0000">
+    <title lang="zh">The Iron Heart</title>
+    <desc>An undercover agent, Apollo, seeks to dismantle Tatsulok, the syndicate that killed his love Cassandra; the story explores standing up for justice and love's redemptive power.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465227" start="20261121010000 +0800" stop="20261121014500 +0800">
+    <title lang="en">10 Signatures to Bargain With God</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="579509" start="20261120173000 +0000" stop="20261120183000 +0000">
+    <title lang="zh">Face to Face</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261120173000 +0000" stop="20261120180000 +0000">
+    <title lang="zh">Felina: Prinsesa Ng Mga Pusa</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464769" start="20261120174000 +0000" stop="20261120181500 +0000">
+    <title lang="zh">Maria Clara at Ibarra</title>
+    <desc>Klay, a Gen Z nursing student, is transported into José Rizal's novels after reading Noli Me Tángere.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120174000 +0000" stop="20261120182000 +0000">
+    <title lang="zh">The General's Daughter</title>
+    <desc>A story of three generations of love and betrayal, and how the sins of the past continue to haunt two families whose lives are destined to be intertwined.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465227" start="20261121014500 +0800" stop="20261121023000 +0800">
+    <title lang="en">Di Na Muli</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="583758" start="20261120180000 +0000" stop="20261120183000 +0000">
+    <title lang="zh">Una Sa Lahat</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="464769" start="20261120181500 +0000" stop="20261120190000 +0000">
+    <title lang="zh">Barangay Love Stories</title>
+    <desc>The artist adapts true stories and personal experiences shared by Filipinos.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120182000 +0000" stop="20261120190000 +0000">
+    <title lang="zh">Got to Believe</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="579509" start="20261120183000 +0000" stop="20261120200000 +0000">
+    <title lang="zh">LIVE Frontline Pilipinas</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261120183000 +0000" stop="20261120200000 +0000">
+    <title lang="zh">Frontline Pilipinas</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261121023000 +0800" stop="20261121030000 +0800">
+    <title lang="en">Dobol or Samting</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="464769" start="20261120190000 +0000" stop="20261120200000 +0000">
+    <title lang="zh">Tiktoclock: Happy Hour Na</title>
+    <desc>Talented Filipinos compete against each other in a series of fun games and activities to showcase their talent and win the prize.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120190000 +0000" stop="20261120193000 +0000">
+    <title lang="zh">TFC Kids' Zone</title>
+    <desc>A compilation of cartoons, rhymes and moral stories that aim to impart values and lessons to children.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465227" start="20261121030000 +0800" stop="20261121033000 +0800">
+    <title lang="en">Jadine</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="474984" start="20261120193000 +0000" stop="20261120200000 +0000">
+    <title lang="zh">Oh MY Gan!</title>
+    <desc>Journalist Ganiel Krishnan speaks with celebrities and public figures about learnings from their professional and personal life.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="465227" start="20261121033000 +0800" stop="20261121040000 +0800">
+    <title lang="en">Pantaxa</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="464769" start="20261120200000 +0000" stop="20261120220000 +0000">
+    <title lang="zh">It's Showtime</title>
+    <desc>Artists and celebrities showcase their talents and deliver enthralling performances while competing in a series of challenges.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120200000 +0000" stop="20261120220000 +0000">
+    <title lang="zh">It's Showtime</title>
+    <desc>Pinoys strut and display their unique talents for the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="579509" start="20261120200000 +0000" stop="20261120203000 +0000">
+    <title lang="zh">Mga Kwentong Epik</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261120200000 +0000" stop="20261120204500 +0000">
+    <title lang="zh">Sigabo</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261121040000 +0800" stop="20261121044500 +0800">
+    <title lang="en">Operation Break The Casanova's Heart</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="579509" start="20261120203000 +0000" stop="20261120210000 +0000">
+    <title lang="zh">Nina Nino</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261120204500 +0000" stop="20261120213000 +0000">
+    <title lang="zh">Someone Someday</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261121044500 +0800" stop="20261121053000 +0800">
+    <title lang="en">Where Is Franco?</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="579509" start="20261120210000 +0000" stop="20261120220000 +0000">
+    <title lang="zh">Lumuhod Ka Sa Lupa</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261120213000 +0000" stop="20261120221500 +0000">
+    <title lang="zh">The Loyalty Game</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261121053000 +0800" stop="20261121061500 +0800">
+    <title lang="en">Puto</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="464769" start="20261120220000 +0000" stop="20261120224000 +0000">
+    <title lang="zh">Usap-usapan: What We Know So Far</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120220000 +0000" stop="20261120224000 +0000">
+    <title lang="zh">Goin' Bulilit</title>
+    <desc>A sketch comedy featuring a roster of child actors and actresses portraying adult roles in various comedic situations.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="579509" start="20261120220000 +0000" stop="20261120230000 +0000">
+    <title lang="zh">Totoy Bato</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261120221500 +0000" stop="20261120224500 +0000">
+    <title lang="zh">Frontline Tonight</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261121061500 +0800" stop="20261121070000 +0800">
+    <title lang="en">The Kasambahays</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="464769" start="20261120224000 +0000" stop="20261120232000 +0000">
+    <title lang="zh">Saksi</title>
+    <desc>Delivering breaking stories and covering live reports.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120224000 +0000" stop="20261120231500 +0000">
+    <title lang="zh">La Vida Lena</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="583758" start="20261120224500 +0000" stop="20261120233000 +0000">
+    <title lang="zh">Mga Nagbabagang Bulaklak</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261120230000 +0000" stop="20261121000000 +0000">
+    <title lang="zh">Sa Totoo Lang</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261121070000 +0800" stop="20261121074500 +0800">
+    <title lang="en">10 Signatures to Bargain With God</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="474984" start="20261120231500 +0000" stop="20261120235000 +0000">
+    <title lang="zh">Got to Believe</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="464769" start="20261120232000 +0000" stop="20261120235000 +0000">
+    <title lang="zh">Delivery Boi</title>
+    <desc>Boi, a delivery rider, faces numerous challenges on the road to support his loved ones and achieve his dreams, including finding his biological father.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="583758" start="20261120233000 +0000" stop="20261121000000 +0000">
+    <title lang="zh">Marimar Catch-Up</title>
+    <desc />
+    <date>20261120</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261121074500 +0800" stop="20261121083000 +0800">
+    <title lang="en">Di Na Muli</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="464769" start="20261120235000 +0000" stop="20261121000000 +0000">
+    <title lang="zh">Born to Shine</title>
+    <desc>Jennie, a daughter of a former P-pop girl group member, sets out to pursue the same career as her mother despite her opposition.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="474984" start="20261120235000 +0000" stop="20261121000000 +0000">
+    <title lang="zh">Sigabo</title>
+    <desc>After serving eight years in prison, a spunky man is granted parole; but his long-awaited freedom comes at a price he is forced into a covert government program that recruits convicts for dangerous, high-stakes missions.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="579509" start="20261121000000 +0000" stop="20261121003000 +0000">
+    <title lang="zh">Mga Kwentong Epik</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261121000000 +0000" stop="20261121010000 +0000">
+    <title lang="zh">Oras Ng Himala</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261121003000 +0000" stop="20261121043000 +0000">
+    <title lang="zh">Face 2 Face Marathon</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261121083000 +0800" stop="20261121090000 +0800">
+    <title lang="en">Dobol or Samting</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="583758" start="20261121010000 +0000" stop="20261121065800 +0000">
+    <title lang="zh">Sign Off</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261121090000 +0800" stop="20261121093000 +0800">
+    <title lang="en">Jadine</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="465227" start="20261121093000 +0800" stop="20261121100000 +0800">
+    <title lang="en">Pantaxa</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="465227" start="20261121100000 +0800" stop="20261121104500 +0800">
+    <title lang="en">Operation Break The Casanova's Heart</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="465227" start="20261121104500 +0800" stop="20261121113000 +0800">
+    <title lang="en">Where Is Franco?</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="465227" start="20261121113000 +0800" stop="20261121121500 +0800">
+    <title lang="en">Puto</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="465227" start="20261121121500 +0800" stop="20261121130000 +0800">
+    <title lang="en">The Kasambahays</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="579509" start="20261121043000 +0000" stop="20261121063000 +0000">
+    <title lang="zh">The Eternity Between Seconds</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261121130000 +0800" stop="20261121134500 +0800">
+    <title lang="en">10 Signatures to Bargain With God</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="465227" start="20261121134500 +0800" stop="20261121143000 +0800">
+    <title lang="en">Di Na Muli</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="579509" start="20261121063000 +0000" stop="20261121073000 +0000">
+    <title lang="zh">Woman In Action</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261121143000 +0800" stop="20261121150000 +0800">
+    <title lang="en">Dobol or Samting</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="583758" start="20261121065800 +0000" stop="20261121070000 +0000">
+    <title lang="zh">Sign On</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261121070000 +0000" stop="20261121080000 +0000">
+    <title lang="zh">Prinsipe Cedie</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261121150000 +0800" stop="20261121153000 +0800">
+    <title lang="en">Jadine</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="579509" start="20261121073000 +0000" stop="20261121083000 +0000">
+    <title lang="zh">Go Local</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261121153000 +0800" stop="20261121160000 +0800">
+    <title lang="en">Pantaxa</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="583758" start="20261121080000 +0000" stop="20261121090000 +0000">
+    <title lang="zh">Trolls: The Beat Goes On</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261121160000 +0800" stop="20261121164500 +0800">
+    <title lang="en">Operation Break The Casanova's Heart</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="579509" start="20261121083000 +0000" stop="20261121103000 +0000">
+    <title lang="zh">Nina Nino Marathon</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261121164500 +0800" stop="20261121173000 +0800">
+    <title lang="en">Where Is Franco?</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="583758" start="20261121090000 +0000" stop="20261121093000 +0000">
+    <title lang="zh">Dragons Race To The Edge</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261121093000 +0000" stop="20261121112500 +0000">
+    <title lang="zh">Blockbuster Sa Umaga: A Mermaid's Tale</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261121173000 +0800" stop="20261121181500 +0800">
+    <title lang="en">Puto</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="465227" start="20261121181500 +0800" stop="20261121190000 +0800">
+    <title lang="en">The Kasambahays</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="579509" start="20261121103000 +0000" stop="20261121113000 +0000">
+    <title lang="zh">John En Ellen</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261121190000 +0800" stop="20261121194500 +0800">
+    <title lang="en">10 Signatures to Bargain With God</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="583758" start="20261121112500 +0000" stop="20261121143000 +0000">
+    <title lang="zh">E.A.T. Bulaga</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261121113000 +0000" stop="20261121143000 +0000">
+    <title lang="zh">LIVE Eat Bulaga</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261121194500 +0800" stop="20261121203000 +0800">
+    <title lang="en">10 Signatures to Bargain With God</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="465227" start="20261121203000 +0800" stop="20261121211500 +0800">
+    <title lang="en">Di Na Muli</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="465227" start="20261121211500 +0800" stop="20261121220000 +0800">
+    <title lang="en">Di Na Muli</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="465227" start="20261121220000 +0800" stop="20261121223000 +0800">
+    <title lang="en">Dobol or Samting</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="579509" start="20261121143000 +0000" stop="20261121150000 +0000">
+    <title lang="zh">Kwentong Gilas</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261121143000 +0000" stop="20261121151500 +0000">
+    <title lang="zh">Frontline Express</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261121223000 +0800" stop="20261121230000 +0800">
+    <title lang="en">Dobol or Samting</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="579509" start="20261121150000 +0000" stop="20261121160000 +0000">
+    <title lang="zh">Ate Ng Ate Ko</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261121230000 +0800" stop="20261121233000 +0800">
+    <title lang="en">Jadine</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="583758" start="20261121151500 +0000" stop="20261121170000 +0000">
+    <title lang="zh">Cine Cinco Hit Na Hit: The Mummy Returns</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="465227" start="20261121233000 +0800" stop="20261122000000 +0800">
+    <title lang="en">Jadine</title>
+    <desc>EPG.pw Sari Sari Channel schedule; Asia/Manila time.</desc>
+  </programme>
+  <programme channel="579509" start="20261121160000 +0000" stop="20261121170000 +0000">
+    <title lang="zh">Kapatid Mo, Raffy Tulfo</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261121170000 +0000" stop="20261121180000 +0000">
+    <title lang="zh">LIVE Frontline Weekend</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261121170000 +0000" stop="20261121180000 +0000">
+    <title lang="zh">Frontline Weekend</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261121180000 +0000" stop="20261121193000 +0000">
+    <title lang="zh">LIVE Vibe!</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261121180000 +0000" stop="20261121193000 +0000">
+    <title lang="zh">Vibe Plus</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261121193000 +0000" stop="20261121200000 +0000">
+    <title lang="zh">Create</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261121193000 +0000" stop="20261121203000 +0000">
+    <title lang="zh">Deal Or No Deal</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261121200000 +0000" stop="20261121203000 +0000">
+    <title lang="zh">Mga Kwentong Epik</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261121203000 +0000" stop="20261121223000 +0000">
+    <title lang="zh">Kalel 15</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261121203000 +0000" stop="20261121213000 +0000">
+    <title lang="zh">Mmk Hugot From The Vault</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261121213000 +0000" stop="20261121223000 +0000">
+    <title lang="zh">Matteo G Primetime</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261121223000 +0000" stop="20261121233000 +0000">
+    <title lang="zh">Basketball Almanac</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261121223000 +0000" stop="20261121233000 +0000">
+    <title lang="zh">American Idol</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261121233000 +0000" stop="20261122000000 +0000">
+    <title lang="zh">Kwentong Gilas</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261121233000 +0000" stop="20261122000000 +0000">
+    <title lang="zh">In Touch With Dr. Charles Stanley</title>
+    <desc />
+    <date>20261121</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261122000000 +0000" stop="20261122010000 +0000">
+    <title lang="zh">John En Ellen</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261122000000 +0000" stop="20261122003000 +0000">
+    <title lang="zh">Men's Room</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261122003000 +0000" stop="20261122013000 +0000">
+    <title lang="zh">Oras Ng Himala</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261122010000 +0000" stop="20261122020000 +0000">
+    <title lang="zh">Kapatid Mo, Raffy Tulfo</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261122013000 +0000" stop="20261122052800 +0000">
+    <title lang="zh">Sign Off</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261122020000 +0000" stop="20261122030000 +0000">
+    <title lang="zh">Go Local</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261122030000 +0000" stop="20261122050000 +0000">
+    <title lang="zh">Kalel 15</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261122050000 +0000" stop="20261122060000 +0000">
+    <title lang="zh">Ate Ng Ate Ko</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261122052800 +0000" stop="20261122053000 +0000">
+    <title lang="zh">Sign On</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261122053000 +0000" stop="20261122060000 +0000">
+    <title lang="zh">In Touch With Dr. Charles Stanley</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261122060000 +0000" stop="20261122070000 +0000">
+    <title lang="zh">Gus Abelgas Forensics</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261122060000 +0000" stop="20261122070000 +0000">
+    <title lang="zh">Sunday Mass</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261122070000 +0000" stop="20261122080000 +0000">
+    <title lang="zh">Woman In Action</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261122070000 +0000" stop="20261122080000 +0000">
+    <title lang="zh">Oras Ng Katotohanan</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261122080000 +0000" stop="20261122090000 +0000">
+    <title lang="zh">Go Local</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261122080000 +0000" stop="20261122090000 +0000">
+    <title lang="zh">Trolls: The Beat Goes On</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261122090000 +0000" stop="20261122100000 +0000">
+    <title lang="zh">Sunday Mass</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261122090000 +0000" stop="20261122100000 +0000">
+    <title lang="zh">Dragons Race To The Edge</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261122100000 +0000" stop="20261122110000 +0000">
+    <title lang="zh">Masaganang Buhay</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261122100000 +0000" stop="20261122120000 +0000">
+    <title lang="zh">Blockbuster Sa Umaga: Guy Ritchie's The Covenant</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261122110000 +0000" stop="20261122113000 +0000">
+    <title lang="zh">Create</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261122113000 +0000" stop="20261122120000 +0000">
+    <title lang="zh">Kwentong Gilas</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261122120000 +0000" stop="20261122140000 +0000">
+    <title lang="zh">Kalel 15</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261122120000 +0000" stop="20261122134500 +0000">
+    <title lang="zh">Vibe Playback</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261122134500 +0000" stop="20261122153000 +0000">
+    <title lang="zh">Cine Cinco Astig Sunday: Belly Of The Beast</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261122140000 +0000" stop="20261122150000 +0000">
+    <title lang="zh">Ate Ng Ate Ko</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261122150000 +0000" stop="20261122160000 +0000">
+    <title lang="zh">John En Ellen</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261122153000 +0000" stop="20261122160000 +0000">
+    <title lang="zh">Julius Babao Unplugged</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261122160000 +0000" stop="20261122170000 +0000">
+    <title lang="zh">Pinoy Explorer</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261122160000 +0000" stop="20261122170000 +0000">
+    <title lang="zh">Rated Korina</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261122170000 +0000" stop="20261122180000 +0000">
+    <title lang="zh">LIVE Frontline Weekend</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261122170000 +0000" stop="20261122180000 +0000">
+    <title lang="zh">Frontline Weekend</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261122180000 +0000" stop="20261122183000 +0000">
+    <title lang="zh">Gus Abelgas Forensics</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261122180000 +0000" stop="20261122190000 +0000">
+    <title lang="zh">Kapatid Mo, Idol Raffy Tulfo</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261122183000 +0000" stop="20261122200000 +0000">
+    <title lang="zh">Kalel 15</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261122190000 +0000" stop="20261122204500 +0000">
+    <title lang="zh">Asap Xp</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261122200000 +0000" stop="20261122210000 +0000">
+    <title lang="zh">Woman In Action</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261122204500 +0000" stop="20261122214500 +0000">
+    <title lang="zh">Deal Or No Deal</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261122210000 +0000" stop="20261122220000 +0000">
+    <title lang="zh">Kapatid Mo, Raffy Tulfo</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261122214500 +0000" stop="20261122224500 +0000">
+    <title lang="zh">Mmk Hugot From The Vault</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="579509" start="20261122220000 +0000" stop="20261123000000 +0000">
+    <title lang="zh">Ate Ng Ate Ko</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261122224500 +0000" stop="20261123003000 +0000">
+    <title lang="zh">Kapatid Sunday Special: The Magician</title>
+    <desc />
+    <date>20261122</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261123003000 +0000" stop="20261123013000 +0000">
+    <title lang="zh">Oras Ng Himala</title>
+    <desc />
+    <date>20261123</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261123013000 +0000" stop="20261123042800 +0000">
+    <title lang="zh">Sign Off</title>
+    <desc />
+    <date>20261123</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261123042800 +0000" stop="20261123043000 +0000">
+    <title lang="zh">Sign On</title>
+    <desc />
+    <date>20261123</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261123043000 +0000" stop="20261123053000 +0000">
+    <title lang="zh">Mga Kwentong Mx3</title>
+    <desc />
+    <date>20261123</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="583758" start="20261123053000 +0000" stop="20261124000000 +0000">
+    <title lang="zh">Frontline Sa Umaga</title>
+    <desc />
+    <date>20261123</date>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+</tv>
