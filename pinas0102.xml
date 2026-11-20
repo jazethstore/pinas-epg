@@ -1,0 +1,802 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="Custom Philippines 10-Channel EPG" generator-info-url="https://epg.pw/">
+  <channel id="gmapinoytv_asia">
+    <display-name lang="en">GMA Pinoy TV</display-name>
+  </channel>
+  <channel id="tfc">
+    <display-name lang="en">TFC</display-name>
+  </channel>
+  <channel id="cinemaone">
+    <display-name lang="en">Cinema One</display-name>
+  </channel>
+  <channel id="kapatidtv5">
+    <display-name lang="en">Kapatid TV5</display-name>
+  </channel>
+  <channel id="anc_singapore">
+    <display-name>ANC</display-name>
+  </channel>
+  <channel id="gma_news_tv_410428">
+    <display-name>GMA News TV</display-name>
+  </channel>
+  <channel id="gma_life_tv_410427"><display-name>GMA Life TV</display-name></channel><programme channel="tfc" start="20261118162500 -0800" stop="20261118170000 -0800">
+    <title lang="zh">Someone, Someday</title>
+    <desc>A dating app CEO unknowingly befriends someone out for revenge, jeopardizing her company, her family and her dream of finding romance.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="tfc" start="20261118170000 -0800" stop="20261118173500 -0800">
+    <title lang="zh">The Loyalty Game</title>
+    <desc>A seemingly perfect couple's marriage unravels when the wife hires loyalty testers to uncover her husband's hidden secrets and deceptions.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="tfc" start="20261118173500 -0800" stop="20261118175500 -0800">
+    <title lang="zh">TV Patrol Express</title>
+    <desc>The anchors deliver the latest news and updates happening across the Philippines.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="tfc" start="20261118175500 -0800" stop="20261118183000 -0800">
+    <title lang="zh">Ano Na Bev?</title>
+    <desc>The host invites prominent personalities from different fields to discuss their journey towards excellence and become an inspiration to many.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="tfc" start="20261118183000 -0800" stop="20261118200000 -0800">
+    <title lang="zh">TV Patrol Global Edition</title>
+    <desc>The host presents a detailed report of news stories about political, economic, social and cultural topics from all around the region.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="tfc" start="20261118200000 -0800" stop="20261118204000 -0800">
+    <title lang="zh">Sigabo</title>
+    <desc>After serving eight years in prison, a spunky man is granted parole; but his long-awaited freedom comes at a price he is forced into a covert government program that recruits convicts for dangerous, high-stakes missions.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="tfc" start="20261118204000 -0800" stop="20261118212000 -0800">
+    <title lang="zh">Someone, Someday</title>
+    <desc>A dating app CEO unknowingly befriends someone out for revenge, jeopardizing her company, her family and her dream of finding romance.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="tfc" start="20261118212000 -0800" stop="20261118220000 -0800">
+    <title lang="zh">The Loyalty Game</title>
+    <desc>A seemingly perfect couple's marriage unravels when the wife hires loyalty testers to uncover her husband's hidden secrets and deceptions.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="tfc" start="20261118220000 -0800" stop="20261119000000 -0800">
+    <title lang="zh">It's Showtime</title>
+    <desc>Pinoys strut and display their unique talents for the world.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="tfc" start="20261119000000 -0800" stop="20261119013000 -0800">
+    <title lang="zh">Direct Response</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="tfc" start="20261119013000 -0800" stop="20261119033000 -0800">
+    <title lang="zh">Watch List</title>
+    <desc>A widow becomes a police informant to protect her three children from drug lords in the Philippines.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="tfc" start="20261119033000 -0800" stop="20261119041500 -0800">
+    <title lang="zh">La Vida Lena</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="tfc" start="20261119041500 -0800" stop="20261119050000 -0800">
+    <title lang="zh">The General's Daughter</title>
+    <desc>A story of three generations of love and betrayal, and how the sins of the past continue to haunt two families whose lives are destined to be intertwined.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="tfc" start="20261119050000 -0800" stop="20261119060000 -0800">
+    <title lang="zh">Gising Pilipinas</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="kapatidtv5" start="20261119060000 -0800" stop="20261119070000 -0800">
+    <title lang="en">Frontline Pilipinas</title>
+  </programme>
+  <programme channel="tfc" start="20261119060000 -0800" stop="20261119070000 -0800">
+    <title lang="zh">Tandem Ng Bayan</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="kapatidtv5" start="20261119070000 -0800" stop="20261119080000 -0800">
+    <title lang="en">Kusina ni Mamang</title>
+  </programme>
+  <programme channel="tfc" start="20261119070000 -0800" stop="20261119073000 -0800">
+    <title lang="zh">Kapamilya Daily Mass</title>
+    <desc>The priest delivers messages from the Bible as he celebrates the Holy Eucharist with devoted Catholics from across the country.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="tfc" start="20261119073000 -0800" stop="20261119090000 -0800">
+    <title lang="zh">TV Patrol Global Edition</title>
+    <desc>The host presents a detailed report of news stories about political, economic, social and cultural topics from all around the region.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="kapatidtv5" start="20261119080000 -0800" stop="20261119100000 -0800">
+    <title lang="en">Wanted</title>
+  </programme>
+  <programme channel="tfc" start="20261119090000 -0800" stop="20261119094000 -0800">
+    <title lang="zh">The Iron Heart</title>
+    <desc>An undercover agent, Apollo, seeks to dismantle Tatsulok, the syndicate that killed his love Cassandra; the story explores standing up for justice and love's redemptive power.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="tfc" start="20261119094000 -0800" stop="20261119102000 -0800">
+    <title lang="zh">The General's Daughter</title>
+    <desc>A story of three generations of love and betrayal, and how the sins of the past continue to haunt two families whose lives are destined to be intertwined.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="kapatidtv5" start="20261119100000 -0800" stop="20261119110000 -0800">
+    <title lang="en">One Balita Pilipinas</title>
+  </programme>
+  <programme channel="tfc" start="20261119102000 -0800" stop="20261119110000 -0800">
+    <title lang="zh">Got to Believe</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="kapatidtv5" start="20261119110000 -0800" stop="20261119113000 -0800">
+    <title lang="en">Totoy Bato</title>
+  </programme>
+  <programme channel="tfc" start="20261119110000 -0800" stop="20261119113000 -0800">
+    <title lang="zh">TFC Kids' Zone</title>
+    <desc>A compilation of cartoons, rhymes and moral stories that aim to impart values and lessons to children.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="kapatidtv5" start="20261119113000 -0800" stop="20261119120000 -0800">
+    <title lang="en">Nina Nino</title>
+  </programme>
+  <programme channel="tfc" start="20261119113000 -0800" stop="20261119120000 -0800">
+    <title lang="zh">Oh MY Gan!</title>
+    <desc>Journalist Ganiel Krishnan speaks with celebrities and public figures about learnings from their professional and personal life.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="kapatidtv5" start="20261119120000 -0800" stop="20261119143000 -0800">
+    <title lang="en">Eat Bulaga</title>
+  </programme>
+  <programme channel="tfc" start="20261119120000 -0800" stop="20261119140000 -0800">
+    <title lang="zh">It's Showtime</title>
+    <desc>Pinoys strut and display their unique talents for the world.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="tfc" start="20261119140000 -0800" stop="20261119144000 -0800">
+    <title lang="zh">Goin' Bulilit</title>
+    <desc>A sketch comedy featuring a roster of child actors and actresses portraying adult roles in various comedic situations.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="kapatidtv5" start="20261119143000 -0800" stop="20261119164500 -0800">
+    <title lang="en">PBA Games</title>
+  </programme>
+  <programme channel="tfc" start="20261119144000 -0800" stop="20261119151500 -0800">
+    <title lang="zh">La Vida Lena</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="tfc" start="20261119151500 -0800" stop="20261119155000 -0800">
+    <title lang="zh">Got to Believe</title>
+    <desc />
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="tfc" start="20261119155000 -0800" stop="20261119160000 -0800">
+    <title lang="zh">Sigabo</title>
+    <desc>After serving eight years in prison, a spunky man is granted parole; but his long-awaited freedom comes at a price he is forced into a covert government program that recruits convicts for dangerous, high-stakes missions.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="tfc" start="20261119162500 -0800" stop="20261119170000 -0800">
+    <title lang="zh">Someone, Someday</title>
+    <desc>A dating app CEO unknowingly befriends someone out for revenge, jeopardizing her company, her family and her dream of finding romance.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="kapatidtv5" start="20261119164500 -0800" stop="20261119174500 -0800">
+    <title lang="en">Frontline Pilipinas</title>
+  </programme>
+  <programme channel="tfc" start="20261119170000 -0800" stop="20261119173500 -0800">
+    <title lang="zh">The Loyalty Game</title>
+    <desc>A seemingly perfect couple's marriage unravels when the wife hires loyalty testers to uncover her husband's hidden secrets and deceptions.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="tfc" start="20261119173500 -0800" stop="20261119175500 -0800">
+    <title lang="zh">TV Patrol Express</title>
+    <desc>The anchors deliver the latest news and updates happening across the Philippines.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="kapatidtv5" start="20261119174500 -0800" stop="20261119200000 -0800">
+    <title lang="en">PBA Games</title>
+  </programme>
+  <programme channel="tfc" start="20261119175500 -0800" stop="20261119183000 -0800">
+    <title lang="zh">Pamilya Talk With Tita Jing</title>
+    <desc>Jing Castañeda invites renowned personalities from different fields and discusses various topics related to family and business.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="tfc" start="20261119183000 -0800" stop="20261119200000 -0800">
+    <title lang="zh">TV Patrol Global Edition</title>
+    <desc>The host presents a detailed report of news stories about political, economic, social and cultural topics from all around the region.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="kapatidtv5" start="20261119200000 -0800" stop="20261119203000 -0800">
+    <title lang="en">Maine Goals</title>
+  </programme>
+  <programme channel="tfc" start="20261119200000 -0800" stop="20261119204000 -0800">
+    <title lang="zh">Sigabo</title>
+    <desc>After serving eight years in prison, a spunky man is granted parole; but his long-awaited freedom comes at a price he is forced into a covert government program that recruits convicts for dangerous, high-stakes missions.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="kapatidtv5" start="20261119203000 -0800" stop="20261119230000 -0800">
+    <title lang="en">Eat Bulaga</title>
+  </programme>
+  <programme channel="tfc" start="20261119204000 -0800" stop="20261119212000 -0800">
+    <title lang="zh">Someone, Someday</title>
+    <desc>A dating app CEO unknowingly befriends someone out for revenge, jeopardizing her company, her family and her dream of finding romance.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="tfc" start="20261119212000 -0800" stop="20261119220000 -0800">
+    <title lang="zh">The Loyalty Game</title>
+    <desc>A seemingly perfect couple's marriage unravels when the wife hires loyalty testers to uncover her husband's hidden secrets and deceptions.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="cinemaone" start="20261119220000 -0800" stop="20261120000000 -0800">
+    <title lang="en">Tuhog</title>
+    <desc>Cinema One (EPG.PW channel 465199); converted from source schedule to Los Angeles time.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="tfc" start="20261119220000 -0800" stop="20261120000000 -0800">
+    <title lang="zh">It's Showtime</title>
+    <desc>Pinoys strut and display their unique talents for the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme start="20261119223000 -0800" stop="20261119232000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Tiktoclock: Happy Hour Na</title>
+  </programme>
+  <programme channel="kapatidtv5" start="20261119230000 -0800" stop="20261119233000 -0800">
+    <title lang="en">Totoy Bato</title>
+  </programme>
+  <programme start="20261119232000 -0800" stop="20261119235000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Maria Clara at Ibarra</title>
+  </programme>
+  <programme channel="kapatidtv5" start="20261119233000 -0800" stop="20261120010000 -0800">
+    <title lang="en">Ted Failon and DJ Chacha</title>
+  </programme>
+  <programme start="20261119235000 -0800" stop="20261120002000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Born to Shine</title>
+  </programme>
+  <programme channel="cinemaone" start="20261120000000 -0800" stop="20261120040000 -0800">
+    <title lang="en">Greggy en' Boogie: Sakyan Mo Na Lang, Anna</title>
+    <desc>Cinema One (EPG.PW channel 465199); converted from source schedule to Los Angeles time.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="tfc" start="20261120000000 -0800" stop="20261120013000 -0800">
+    <title lang="zh">Direct Response</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme start="20261120002000 -0800" stop="20261120010000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Delivery Boi</title>
+  </programme>
+  <programme start="20261120010000 -0800" stop="20261120014000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Task Force Firewall</title>
+  </programme>
+  <programme channel="kapatidtv5" start="20261120010000 -0800" stop="20261120050000 -0800">
+    <title lang="en">PBA Games</title>
+  </programme>
+  <programme channel="tfc" start="20261120013000 -0800" stop="20261120033000 -0800">
+    <title lang="zh">Takbo, Talon, Tili</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme start="20261120014000 -0800" stop="20261120021500 -0800" channel="gmapinoytv_asia">
+    <title lang="en">The Master Cutter</title>
+  </programme>
+  <programme start="20261120021500 -0800" stop="20261120024500 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Family Feud</title>
+  </programme>
+  <programme start="20261120024500 -0800" stop="20261120031500 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Fast Talk with Boy Abunda</title>
+  </programme>
+  <programme start="20261120031500 -0800" stop="20261120045000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">24 Oras</title>
+  </programme>
+  <programme channel="tfc" start="20261120033000 -0800" stop="20261120041500 -0800">
+    <title lang="zh">La Vida Lena</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="cinemaone" start="20261120040000 -0800" stop="20261120060000 -0800">
+    <title lang="en">Magic to Win 5</title>
+    <desc>Cinema One (EPG.PW channel 465199); converted from source schedule to Los Angeles time.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="tfc" start="20261120041500 -0800" stop="20261120050000 -0800">
+    <title lang="zh">The General's Daughter</title>
+    <desc>A story of three generations of love and betrayal, and how the sins of the past continue to haunt two families whose lives are destined to be intertwined.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme start="20261120045000 -0800" stop="20261120053000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">The Master Cutter</title>
+  </programme>
+  <programme channel="kapatidtv5" start="20261120050000 -0800" stop="20261120060000 -0800">
+    <title lang="en">PBA Games</title>
+  </programme>
+  <programme channel="tfc" start="20261120050000 -0800" stop="20261120060000 -0800">
+    <title lang="zh">Gising Pilipinas</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme start="20261120053000 -0800" stop="20261120061000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Task Force Firewall</title>
+  </programme>
+  <programme channel="cinemaone" start="20261120060000 -0800" stop="20261120080000 -0800">
+    <title lang="en">Bata Batuta</title>
+    <desc>Cinema One (EPG.PW channel 465199); converted from source schedule to Los Angeles time.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="tfc" start="20261120060000 -0800" stop="20261120070000 -0800">
+    <title lang="zh">Tandem Ng Bayan</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme start="20261120061000 -0800" stop="20261120064000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Born to Shine</title>
+  </programme>
+  <programme start="20261120064000 -0800" stop="20261120072000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Family Feud</title>
+  </programme>
+  <programme channel="tfc" start="20261120070000 -0800" stop="20261120073000 -0800">
+    <title lang="zh">Kapamilya Daily Mass</title>
+    <desc>The priest delivers messages from the Bible as he celebrates the Holy Eucharist with devoted Catholics from across the country.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme start="20261120072000 -0800" stop="20261120080000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Fast Talk with Boy Abunda</title>
+  </programme>
+  <programme channel="tfc" start="20261120073000 -0800" stop="20261120090000 -0800">
+    <title lang="zh">TV Patrol Global Edition</title>
+    <desc>The host presents a detailed report of news stories about political, economic, social and cultural topics from all around the region.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="anc_singapore" start="20261120080000 -0800" stop="20261120083000 -0800">
+    <title lang="en">The World Tonight</title>
+  </programme>
+  <programme channel="cinemaone" start="20261120080000 -0800" stop="20261120100000 -0800">
+    <title lang="en">Esperanza: The Movie</title>
+    <desc>Cinema One (EPG.PW channel 465199); converted from source schedule to Los Angeles time.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261120080000 -0800" stop="20261120084500 -0800"><title>Chika Cart</title></programme><programme start="20261120080000 -0800" stop="20261120083500 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Maria Clara at Ibarra</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261120083000 -0800" stop="20261120090000 -0800">
+    <title lang="en">Beyond The Exchange</title>
+  </programme>
+  <programme start="20261120083500 -0800" stop="20261120091000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Delivery Boi</title>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261120084500 -0800" stop="20261120094500 -0800"><title>Bubble Gang Fun Size</title></programme><programme channel="gma_news_tv_410428" start="20261120084500 -0800" stop="20261120091500 -0800">
+    <title lang="en">State Of The Nation</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261120090000 -0800" stop="20261120100000 -0800">
+    <title lang="en">Headstart</title>
+  </programme>
+  <programme channel="tfc" start="20261120090000 -0800" stop="20261120094000 -0800">
+    <title lang="zh">The Iron Heart</title>
+    <desc>An undercover agent, Apollo, seeks to dismantle Tatsulok, the syndicate that killed his love Cassandra; the story explores standing up for justice and love's redemptive power.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme start="20261120091000 -0800" stop="20261120095000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">The Master Cutter</title>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261120091500 -0800" stop="20261120100000 -0800">
+    <title lang="en">Born Impact</title>
+  </programme>
+  <programme channel="tfc" start="20261120094000 -0800" stop="20261120102000 -0800">
+    <title lang="zh">The General's Daughter</title>
+    <desc>A story of three generations of love and betrayal, and how the sins of the past continue to haunt two families whose lives are destined to be intertwined.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261120094500 -0800" stop="20261120103000 -0800"><title>Idol Sa Kusina</title></programme><programme start="20261120095000 -0800" stop="20261120103000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Task Force Firewall</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261120100000 -0800" stop="20261120103000 -0800">
+    <title lang="en">Global Us</title>
+  </programme>
+  <programme channel="cinemaone" start="20261120100000 -0800" stop="20261120120000 -0800">
+    <title lang="en">Type Kita... Walang Kontra</title>
+    <desc>Cinema One (EPG.PW channel 465199); converted from source schedule to Los Angeles time.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261120100000 -0800" stop="20261120103000 -0800">
+    <title lang="en">Saksi</title>
+  </programme>
+  <programme channel="tfc" start="20261120102000 -0800" stop="20261120110000 -0800">
+    <title lang="zh">Got to Believe</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="anc_singapore" start="20261120103000 -0800" stop="20261120110000 -0800">
+    <title lang="en">Arts.21</title>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261120103000 -0800" stop="20261120123000 -0800"><title>Reel Life</title></programme><programme channel="gma_news_tv_410428" start="20261120103000 -0800" stop="20261120110000 -0800">
+    <title lang="en">Usap</title>
+  </programme>
+  <programme start="20261120103000 -0800" stop="20261120123000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261120110000 -0800" stop="20261120113000 -0800">
+    <title lang="en">Eic On The Move</title>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261120110000 -0800" stop="20261120113000 -0800">
+    <title lang="en">Balitang Bisdak</title>
+  </programme>
+  <programme channel="tfc" start="20261120110000 -0800" stop="20261120113000 -0800">
+    <title lang="zh">TFC Kids' Zone</title>
+    <desc>A compilation of cartoons, rhymes and moral stories that aim to impart values and lessons to children.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="anc_singapore" start="20261120113000 -0800" stop="20261120120000 -0800">
+    <title lang="en">Tomorrow Today</title>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261120113000 -0800" stop="20261120120000 -0800">
+    <title lang="en">One North Central Luzon</title>
+  </programme>
+  <programme channel="tfc" start="20261120113000 -0800" stop="20261120120000 -0800">
+    <title lang="zh">Oh MY Gan!</title>
+    <desc>Journalist Ganiel Krishnan speaks with celebrities and public figures about learnings from their professional and personal life.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="anc_singapore" start="20261120120000 -0800" stop="20261120130000 -0800">
+    <title lang="en">Beached</title>
+  </programme>
+  <programme channel="cinemaone" start="20261120120000 -0800" stop="20261120140000 -0800">
+    <title lang="en">Mercury Is Mine</title>
+    <desc>Cinema One (EPG.PW channel 465199); converted from source schedule to Los Angeles time.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261120120000 -0800" stop="20261120124500 -0800">
+    <title lang="en">One Mindanao</title>
+  </programme>
+  <programme channel="tfc" start="20261120120000 -0800" stop="20261120140000 -0800">
+    <title lang="zh">It's Showtime</title>
+    <desc>Pinoys strut and display their unique talents for the world.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261120123000 -0800" stop="20261120131500 -0800"><title>My Father's Wife</title></programme><programme start="20261120123000 -0800" stop="20261120130000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Usap-usapan: What We Know So Far</title>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261120124500 -0800" stop="20261120133000 -0800">
+    <title lang="en">Ratsada Balita</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261120130000 -0800" stop="20261120133000 -0800">
+    <title lang="en">Potluck</title>
+  </programme>
+  <programme start="20261120130000 -0800" stop="20261120134500 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Saksi</title>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261120131500 -0800" stop="20261120141500 -0800"><title>Balitanghali</title></programme><programme channel="anc_singapore" start="20261120133000 -0800" stop="20261120140000 -0800">
+    <title lang="en">Executive Class</title>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261120133000 -0800" stop="20261120141500 -0800">
+    <title lang="en">State Of The Nation</title>
+  </programme>
+  <programme start="20261120134500 -0800" stop="20261120141500 -0800" channel="gmapinoytv_asia">
+    <title lang="en">The 700 Club Asia</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261120140000 -0800" stop="20261120150000 -0800">
+    <title lang="en">Market Edge</title>
+  </programme>
+  <programme channel="cinemaone" start="20261120140000 -0800" stop="20261120160000 -0800">
+    <title lang="en">Tuhog</title>
+    <desc>Cinema One (EPG.PW channel 465199); converted from source schedule to Los Angeles time.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="tfc" start="20261120140000 -0800" stop="20261120144000 -0800">
+    <title lang="zh">Goin' Bulilit</title>
+    <desc>A sketch comedy featuring a roster of child actors and actresses portraying adult roles in various comedic situations.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261120141500 -0800" stop="20261120150000 -0800"><title>Chika Cart</title></programme><programme channel="gma_news_tv_410428" start="20261120141500 -0800" stop="20261120144500 -0800">
+    <title lang="en">Saksi</title>
+  </programme>
+  <programme start="20261120141500 -0800" stop="20261120171500 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Task Force Firewall Marathon</title>
+  </programme>
+  <programme channel="tfc" start="20261120144000 -0800" stop="20261120151500 -0800">
+    <title lang="zh">La Vida Lena</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261120144500 -0800" stop="20261120153000 -0800">
+    <title lang="en">Born Impact</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261120150000 -0800" stop="20261120153000 -0800">
+    <title lang="en">Business Outlook</title>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261120150000 -0800" stop="20261120154500 -0800"><title>I</title></programme><programme channel="tfc" start="20261120151500 -0800" stop="20261120155000 -0800">
+    <title lang="zh">Got to Believe</title>
+    <desc />
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="anc_singapore" start="20261120153000 -0800" stop="20261120163000 -0800">
+    <title lang="en">Asian Air Safari</title>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261120153000 -0800" stop="20261120184500 -0800">
+    <title lang="en">Dobol B TV</title>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261120154500 -0800" stop="20261120161500 -0800"><title>Idol Sa Kusina</title></programme><programme channel="tfc" start="20261120155000 -0800" stop="20261120160000 -0800">
+    <title lang="zh">Sigabo</title>
+    <desc>After serving eight years in prison, a spunky man is granted parole; but his long-awaited freedom comes at a price he is forced into a covert government program that recruits convicts for dangerous, high-stakes missions.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="cinemaone" start="20261120160000 -0800" stop="20261120180000 -0800">
+    <title lang="en">Kusina Kings</title>
+    <desc>Cinema One (EPG.PW channel 465199); converted from source schedule to Los Angeles time.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261120161500 -0800" stop="20261120171500 -0800"><title>Bubble Gang Fun Size</title></programme><programme channel="anc_singapore" start="20261120163000 -0800" stop="20261120170000 -0800">
+    <title lang="en">Chasing Flavors</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261120170000 -0800" stop="20261120173000 -0800">
+    <title lang="en">Market Edge</title>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261120171500 -0800" stop="20261120181500 -0800"><title>Balitanghali</title></programme><programme start="20261120171500 -0800" stop="20261120174500 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Born to Shine</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261120173000 -0800" stop="20261120180000 -0800">
+    <title lang="en">Casa Daza</title>
+  </programme>
+  <programme start="20261120174500 -0800" stop="20261120181500 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Reporter's Notebook</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261120180000 -0800" stop="20261120183000 -0800">
+    <title lang="en">Banker After Dark</title>
+  </programme>
+  <programme channel="cinemaone" start="20261120180000 -0800" stop="20261120200000 -0800">
+    <title lang="en">Pinay Pie</title>
+    <desc>Cinema One (EPG.PW channel 465199); converted from source schedule to Los Angeles time.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261120181500 -0800" stop="20261120190000 -0800"><title>Chika Cart</title></programme><programme start="20261120181500 -0800" stop="20261120200000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Kapuso Mo Jessica Soho</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261120183000 -0800" stop="20261120190000 -0800">
+    <title lang="en">In Good Shape</title>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261120184500 -0800" stop="20261120193000 -0800">
+    <title lang="en">Imbestigador</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261120190000 -0800" stop="20261120193000 -0800">
+    <title lang="en">Dayaw</title>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261120190000 -0800" stop="20261120194500 -0800"><title>My Father's Wife</title></programme><programme channel="anc_singapore" start="20261120193000 -0800" stop="20261120200000 -0800">
+    <title lang="en">Global Us</title>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261120193000 -0800" stop="20261120200000 -0800">
+    <title lang="en">Usap</title>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261120194500 -0800" stop="20261120203000 -0800"><title>Idol Sa Kusina</title></programme><programme channel="anc_singapore" start="20261120200000 -0800" stop="20261120210000 -0800">
+    <title lang="en">Headstart</title>
+  </programme>
+  <programme channel="cinemaone" start="20261120200000 -0800" stop="20261120220000 -0800">
+    <title lang="en">Type Kita... Walang Kontra</title>
+    <desc>Cinema One (EPG.PW channel 465199); converted from source schedule to Los Angeles time.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261120200000 -0800" stop="20261120210000 -0800">
+    <title lang="en">Pickle Yard Conference League Season 2</title>
+  </programme>
+  <programme start="20261120200000 -0800" stop="20261120223000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261120203000 -0800" stop="20261120211500 -0800"><title>I</title></programme><programme channel="anc_singapore" start="20261120210000 -0800" stop="20261120213000 -0800">
+    <title lang="en">Beyond The Exchange</title>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261120210000 -0800" stop="20261120213000 -0800">
+    <title lang="en">Rescue</title>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261120211500 -0800" stop="20261120221500 -0800"><title>Bubble Gang Fun Size</title></programme><programme channel="anc_singapore" start="20261120213000 -0800" stop="20261120220000 -0800">
+    <title lang="en">Juan Conversations</title>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261120213000 -0800" stop="20261120220000 -0800">
+    <title lang="en">Born Impact</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261120220000 -0800" stop="20261120223000 -0800">
+    <title lang="en">Asian Air Safari</title>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261120220000 -0800" stop="20261120221500 -0800">
+    <title lang="en">Pinoy Klasiks</title>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261120221500 -0800" stop="20261120231500 -0800"><title>Weekend Getaway</title></programme><programme channel="gma_news_tv_410428" start="20261120221500 -0800" stop="20261120230000 -0800">
+    <title lang="en">Pinoy Crime Stories</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261120223000 -0800" stop="20261120230000 -0800">
+    <title lang="en">Hot Copy On Headstart</title>
+  </programme>
+  <programme start="20261120223000 -0800" stop="20261120231000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Barangay Love Stories</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261120230000 -0800" stop="20261120233000 -0800">
+    <title lang="en">Startup</title>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261120230000 -0800" stop="20261120234500 -0800">
+    <title lang="en">Investigative Documentaries</title>
+  </programme>
+  <programme start="20261120231000 -0800" stop="20261120235000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Tadhana</title>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261120231500 -0800" stop="20261120234500 -0800"><title>Turbo Zone</title></programme><programme channel="anc_singapore" start="20261120233000 -0800" stop="20261121000000 -0800">
+    <title lang="en">Eic On The Move</title>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261120234500 -0800" stop="20261121001500 -0800"><title>Sarap 'di Ba?</title></programme><programme channel="gma_news_tv_410428" start="20261120234500 -0800" stop="20261121001500 -0800">
+    <title lang="en">Usap</title>
+  </programme>
+  <programme start="20261120235000 -0800" stop="20261121002000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Born to Shine</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261121000000 -0800" stop="20261121003000 -0800">
+    <title lang="en">Casa Daza</title>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261121001500 -0800" stop="20261121010000 -0800"><title>Born To Be Wild</title></programme><programme channel="gma_news_tv_410428" start="20261121001500 -0800" stop="20261121011500 -0800">
+    <title lang="en">Brigada</title>
+  </programme>
+  <programme start="20261121002000 -0800" stop="20261121012000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Magpakailanman</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261121003000 -0800" stop="20261121010000 -0800">
+    <title lang="en">Ano Na Bev</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261121010000 -0800" stop="20261121020000 -0800">
+    <title lang="en">Foodprints</title>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261121010000 -0800" stop="20261121014500 -0800"><title>Wish Ko Lang</title></programme><programme channel="gma_news_tv_410428" start="20261121011500 -0800" stop="20261121020000 -0800">
+    <title lang="en">Good News</title>
+  </programme>
+  <programme start="20261121012000 -0800" stop="20261121020000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Regal Studio Presents</title>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261121014500 -0800" stop="20261121034500 -0800"><title>Reel Life Weekend 'That Boy In The Dark'</title></programme><programme channel="anc_singapore" start="20261121020000 -0800" stop="20261121023000 -0800">
+    <title lang="en">Dwellings</title>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261121020000 -0800" stop="20261121030000 -0800">
+    <title lang="en">Pickle Yard Conference League Season 2</title>
+  </programme>
+  <programme start="20261121020000 -0800" stop="20261121024000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Resibo: Walang Lusot ang May Atraso</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261121023000 -0800" stop="20261121030000 -0800">
+    <title lang="en">Metro Home</title>
+  </programme>
+  <programme start="20261121024000 -0800" stop="20261121031500 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Reporter's Notebook</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261121030000 -0800" stop="20261121033000 -0800">
+    <title lang="en">Beyond The Exchange</title>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261121030000 -0800" stop="20261121034500 -0800">
+    <title lang="en">Balitang Bisdak</title>
+  </programme>
+  <programme start="20261121031500 -0800" stop="20261121040000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">24 Oras Weekend</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261121033000 -0800" stop="20261121040000 -0800">
+    <title lang="en">The Loida Lewis Podcast</title>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261121034500 -0800" stop="20261121043000 -0800"><title>Daig Kayo Ng Lola Ko</title></programme><programme channel="gma_news_tv_410428" start="20261121034500 -0800" stop="20261121043000 -0800">
+    <title lang="en">One North Central Luzon</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261121040000 -0800" stop="20261121043000 -0800">
+    <title lang="en">ANC Presents</title>
+  </programme>
+  <programme start="20261121040000 -0800" stop="20261121050000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Pepito Manaloto, Tuloy Ang Kuwento</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261121043000 -0800" stop="20261121050000 -0800">
+    <title lang="en">Juan Conversations</title>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261121043000 -0800" stop="20261121051500 -0800"><title>Wish Ko Lang</title></programme><programme channel="gma_news_tv_410428" start="20261121043000 -0800" stop="20261121051500 -0800">
+    <title lang="en">One Mindanao</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261121050000 -0800" stop="20261121053000 -0800">
+    <title lang="en">Arts.21</title>
+  </programme>
+  <programme start="20261121050000 -0800" stop="20261121054000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">BBLGang</title>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261121051500 -0800" stop="20261121060000 -0800"><title>Biyahe Ni Drew</title></programme><programme channel="gma_news_tv_410428" start="20261121051500 -0800" stop="20261121054500 -0800">
+    <title lang="en">Ratsada Balita</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261121053000 -0800" stop="20261121060000 -0800">
+    <title lang="en">Executive Class</title>
+  </programme>
+  <programme start="20261121054000 -0800" stop="20261121061000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Regal Studio Presents</title>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261121054500 -0800" stop="20261121064500 -0800">
+    <title lang="en">Pera Paraan</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261121060000 -0800" stop="20261121063000 -0800">
+    <title lang="en">24x24</title>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261121060000 -0800" stop="20261121064500 -0800"><title>I Juander</title></programme><programme start="20261121061000 -0800" stop="20261121064000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Born to Shine</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261121063000 -0800" stop="20261121070000 -0800">
+    <title lang="en">24x24</title>
+  </programme>
+  <programme start="20261121064000 -0800" stop="20261121072000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">TBATS On the Go</title>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261121064500 -0800" stop="20261121071500 -0800"><title>Tunay Na Buhay</title></programme><programme channel="gma_news_tv_410428" start="20261121064500 -0800" stop="20261121073000 -0800">
+    <title lang="en">Pinoy Crime Stories</title>
+  </programme>
+  <programme channel="anc_singapore" start="20261121070000 -0800" stop="20261121080000 -0800">
+    <title lang="en">The Crawl</title>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261121071500 -0800" stop="20261121080000 -0800"><title>Karelasyon</title></programme><programme start="20261121072000 -0800" stop="20261121080000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">I-Witness</title>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261121073000 -0800" stop="20261121080000 -0800">
+    <title lang="en">Agripreneur</title>
+  </programme>
+<programme start="20261121080000 -0800" stop="20261121084500 -0800" channel="gmapinoytv_asia">
+    <title lang="en">24 Oras Weekend</title>
+  </programme>
+  <programme start="20261121084500 -0800" stop="20261121093000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">BBLGang</title>
+  </programme>
+  <programme start="20261121093000 -0800" stop="20261121103000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Pepito Manaloto, Tuloy Ang Kuwento</title>
+  </programme>
+  <programme start="20261121103000 -0800" stop="20261121111500 -0800" channel="gmapinoytv_asia">
+    <title lang="en">TBATS On the Go</title>
+  </programme>
+  <programme start="20261121111500 -0800" stop="20261121131500 -0800" channel="gmapinoytv_asia">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20261121131500 -0800" stop="20261121141500 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Magpakailanman</title>
+  </programme>
+  <programme start="20261121141500 -0800" stop="20261121144500 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Barangay Love Stories</title>
+  </programme>
+  <programme start="20261121144500 -0800" stop="20261121150000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Amazing Earth</title>
+  </programme>
+  <programme start="20261121150000 -0800" stop="20261121180000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">The Master Cutter Marathon</title>
+  </programme>
+  <programme start="20261121180000 -0800" stop="20261121190000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Family TV Mass</title>
+  </programme>
+  <programme start="20261121190000 -0800" stop="20261121210000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">GMA Pinoy Blockbuster: "May Isang Tsuper ng Taxi"</title>
+  </programme>
+  <programme start="20261121210000 -0800" stop="20261121230000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">All-Out Sundays</title>
+  </programme>
+  <programme start="20261121230000 -0800" stop="20261121233500 -0800" channel="gmapinoytv_asia">
+    <title lang="en">BBLGang</title>
+  </programme>
+  <programme start="20261121233500 -0800" stop="20261122002500 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Pepito Manaloto, Tuloy Ang Kuwento</title>
+  </programme>
+  <programme start="20261122002500 -0800" stop="20261122010000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">TBATS On the Go</title>
+  </programme>
+  <programme start="20261122010000 -0800" stop="20261122013000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">I-Witness</title>
+  </programme>
+  <programme start="20261122013000 -0800" stop="20261122031500 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Kapuso Mo Jessica Soho</title>
+  </programme>
+  <programme start="20261122031500 -0800" stop="20261122040000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">24 Oras Weekend</title>
+  </programme>
+  <programme start="20261122040000 -0800" stop="20261122041500 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Amazing Earth</title>
+  </programme>
+  <programme start="20261122041500 -0800" stop="20261122051500 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Magpakailanman</title>
+  </programme>
+  <programme start="20261122051500 -0800" stop="20261122061500 -0800" channel="gmapinoytv_asia">
+    <title lang="en">The Voice Kids</title>
+  </programme>
+  <programme start="20261122061500 -0800" stop="20261122070000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Barangay Love Stories</title>
+  </programme>
+  <programme start="20261122070000 -0800" stop="20261122080000 -0800" channel="gmapinoytv_asia">
+    <title lang="en">Tadhana</title>
+  </programme>
+  </tv>
