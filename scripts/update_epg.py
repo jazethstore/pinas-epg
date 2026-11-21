@@ -56,9 +56,9 @@ def clickthecity_schedule(url):
         raw = response.read().decode("utf-8", errors="replace")
 
     page_text = unescape(re.sub(r"<[^>]+>", " ", raw))
-    page_text = re.sub(r"\\s+", " ", page_text)
+    page_text = re.sub(r"\s+", " ", page_text)
     date_match = re.search(
-        r"(?:programming guide for|schedule for) ([A-Za-z]+ \\d{1,2}, \\d{4})",
+        r"(?:programming guide for|schedule for) ([A-Za-z]+ \d{1,2}, \d{4})",
         page_text, re.I
     )
     if not date_match:
@@ -67,12 +67,12 @@ def clickthecity_schedule(url):
 
     entries = []
     # Prefer individual list items so each programme title remains intact.
-    for item in re.findall(r"<li\\b[^>]*>(.*?)</li>", raw, re.I | re.S):
+    for item in re.findall(r"<li\b[^>]*>(.*?)</li>", raw, re.I | re.S):
         text = unescape(re.sub(r"<[^>]+>", " ", item))
-        text = re.sub(r"\\s+", " ", text).strip()
-        match = re.match(r"(\\d{1,2}:\\d{2}\\s*[AP]M)\\s*[–—-]\\s*(.+)$", text, re.I)
+        text = re.sub(r"\s+", " ", text).strip()
+        match = re.match(r"(\d{1,2}:\d{2}\s*[AP]M)\s*[–—-]\s*(.+)$", text, re.I)
         if match:
-            title = re.sub(r"\\s+", " ", match.group(2)).strip(" .")
+            title = re.sub(r"\s+", " ", match.group(2)).strip(" .")
             if title and not title.lower().startswith("view full"):
                 entries.append((match.group(1), title))
 
@@ -80,11 +80,11 @@ def clickthecity_schedule(url):
     if len(entries) < 5:
         entries = []
         pattern = re.compile(
-            r"(\\d{1,2}:\\d{2}\\s*[AP]M)\\s*[–—-]\\s*(.*?)"
-            r"(?=\\s+\\d{1,2}:\\d{2}\\s*[AP]M\\s*[–—-]|$)", re.I
+            r"(\d{1,2}:\d{2}\s*[AP]M)\s*[–—-]\s*(.*?)"
+            r"(?=\s+\d{1,2}:\d{2}\s*[AP]M\s*[–—-]|$)", re.I
         )
         for match in pattern.finditer(page_text):
-            title = re.sub(r"\\s+", " ", match.group(2)).strip(" .")
+            title = re.sub(r"\s+", " ", match.group(2)).strip(" .")
             title = re.split(r"View Full Philippine TV Schedule", title, flags=re.I)[0].strip()
             if title:
                 entries.append((match.group(1), title))
