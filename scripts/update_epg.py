@@ -303,6 +303,57 @@ def refresh_freeepg_channels(root, target_map):
         print(f"{target_id}: refreshed {len(rows)} programmes from FreeEPG ({source_id}).")
     return counts
 
+
+def refresh_allepgneedko_gma_channels(root):
+    """Use the combined PH EPG as a secondary source for the three GMA feeds."""
+    url = "https://raw.githubusercontent.com/kupsbabaero-ux/allepgneedko-mo/main/epg/epg.xml"
+    req = Request(url, headers={"User-Agent": "pinas-epg-updater/1.0"})
+    with urlopen(req, timeout=120) as response:
+        feed = ET.fromstring(response.read())
+
+    source_map = {
+        "491164": "gma_news_tv_410428",
+        "491168": "gmapinoytv_asia",
+        "491154": "gma_life_tv_410427",
+    }
+    now_local = datetime.now(timezone.utc).astimezone(LA)
+    horizon_local = now_local + timedelta(days=14)
+    counts = {}
+
+    for source_id, target_id in source_map.items():
+        rows = []
+        for source_program in feed.findall(f"programme[@channel='{source_id}']"):
+            start = parse_dt(source_program.get("start"))
+            stop = parse_dt(source_program.get("stop"))
+            title = " ".join((source_program.findtext("title") or "").split())
+            if not start or not stop or stop <= now_local or start >= horizon_local or stop <= start or not title:
+                continue
+
+            program = ET.fromstring(ET.tostring(source_program, encoding="utf-8"))
+            program.set("channel", target_id)
+            program.set("start", fmt_dt(start))
+            program.set("stop", fmt_dt(stop))
+            rows.append(program)
+
+        # Never replace a working schedule with a sparse or empty source.
+        if len(rows) < 8:
+            print(f"{target_id}: combined PH EPG supplied only {len(rows)} future programmes; keeping current schedule.")
+            counts[target_id] = 0
+            continue
+
+        first_start = min(parse_dt(p.get("start")) for p in rows)
+        last_stop = max(parse_dt(p.get("stop")) for p in rows)
+        for old in list(root.findall(f"programme[@channel='{target_id}']")):
+            old_start = parse_dt(old.get("start"))
+            old_stop = parse_dt(old.get("stop"))
+            if old_start and old_stop and old_start < last_stop and old_stop > first_start:
+                root.remove(old)
+        root.extend(rows)
+        counts[target_id] = len(rows)
+        print(f"{target_id}: refreshed {len(rows)} programmes from allepgneedko-mo; Manila timestamps converted to Los Angeles.")
+
+    return counts
+
 def fill_tfc_unlisted_gaps(root):
     # Preserve known programme titles. For long gaps in the third-party feed,
     # use a clearly labelled generic block rather than leaving the guide blank.
@@ -546,6 +597,13 @@ def main():
         applied_targets.update(target for target, count in freeepg_counts.items() if count >= 8)
     except Exception as freeepg_exc:
         print(f"FreeEPG Philippines feed unavailable; retained existing schedules for the six missing channels: {freeepg_exc}")
+
+    # Secondary combined-EPG source for GMA News, GMA Pinoy TV and GMA Life TV.
+    try:
+        alternate_counts = refresh_allepgneedko_gma_channels(current)
+        applied_targets.update(target for target, count in alternate_counts.items() if count >= 8)
+    except Exception as alternate_exc:
+        print(f"Combined PH EPG source unavailable; retained current GMA schedules: {alternate_exc}")
 
     filler_count = fill_tfc_unlisted_gaps(current)
     print(f"TFC: added {filler_count} clearly labelled blocks where the EPG source has no title.")
