@@ -784,37 +784,11 @@
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-21</date>
   </programme>
-  <programme channel="one_ph" start="20261121100000 -0800" stop="20261121113000 -0800">
-    <title lang="zh">LIVE Vibe</title>
-    <desc />
-    <date>20261121</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="tfc" start="20261121100000 -0800" stop="20261121110000 -0800">
-    <title lang="zh">Viral Scandal</title>
-    <desc>A young woman's quiet life is disrupted when she unwillingly becomes the subject of a viral internet scandal.</desc>
-    <date>2026-11-21</date>
-  </programme>
   <programme start="20261121103000 -0800" stop="20261121111500 -0800" channel="gmapinoytv_asia">
     <title lang="en">TBATS On the Go</title>
   </programme>
-  <programme channel="tfc" start="20261121110000 -0800" stop="20261121120000 -0800">
-    <title lang="zh">Tulong Ko Pasa Mo</title>
-    <desc>An advocacy radio program providing help, helping others and paying it forward; hosted by bestselling authors and motivational speakers, Vic and Avelynn Garcia.</desc>
-    <date>2026-11-21</date>
-  </programme>
   <programme start="20261121111500 -0800" stop="20261121131500 -0800" channel="gmapinoytv_asia">
     <title lang="en">It's Showtime</title>
-  </programme>
-  <programme channel="one_ph" start="20261121113000 -0800" stop="20261121123000 -0800">
-    <title lang="zh">Julius Babao Unplugged</title>
-    <desc />
-    <date>20261121</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
   </programme>
   <programme channel="cinemaone" start="20261121120000 -0800" stop="20261121140000 -0800">
     <title lang="zh">Isa Pa With Feelings</title>
