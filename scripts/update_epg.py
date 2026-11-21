@@ -18,7 +18,6 @@ ALIASES = {
     "gmapinoytv_asia": ["GMA Pinoy TV", "GMA Pinoy"],
     "tfc": ["TFC", "The Filipino Channel"],
     "cinemaone": ["Cinema One", "Cinema 1"],
-    "kapatidtv5": ["Kapatid TV5", "TV5"],
     "anc_singapore": ["ANC", "ABS-CBN News Channel"],
     "gma_news_tv_410428": ["GMA News TV", "GTV"],
     "gma_life_tv_410427": ["GMA Life TV", "GMA Life"],
