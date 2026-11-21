@@ -53,7 +53,7 @@ def fmt_dt(dt):
     return dt.strftime("%Y%m%d%H%M%S %z")
 
 
-def clickthecity_schedule(url):
+def clickthecity_schedule(url, minimum_rows=8):
     req = Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; PinasEPG/1.0)"})
     with urlopen(req, timeout=45) as response:
         raw = response.read().decode("utf-8", errors="replace")
@@ -93,8 +93,11 @@ def clickthecity_schedule(url):
             if title:
                 entries.append((match.group(1), title))
 
-    if len(entries) < 8:
-        raise RuntimeError(f"ClickTheCity returned only {len(entries)} programme rows")
+    if len(entries) < minimum_rows:
+        raise RuntimeError(f"ClickTheCity returned only {len(entries)} programme rows (need {minimum_rows})")
+    manila_today = datetime.now(ZoneInfo("Asia/Manila")).date()
+    if schedule_date < manila_today - timedelta(days=1):
+        raise RuntimeError(f"ClickTheCity page is stale ({schedule_date}); Manila date is {manila_today}")
 
     la_entries = []
     seen = set()
@@ -112,9 +115,9 @@ def clickthecity_schedule(url):
     return la_entries
 
 
-def replace_clickthecity_channel(root, channel_id, url):
-    entries = clickthecity_schedule(url)
-    if len(entries) < 8:
+def replace_clickthecity_channel(root, channel_id, url, minimum_rows=8):
+    entries = clickthecity_schedule(url, minimum_rows=minimum_rows)
+    if len(entries) < minimum_rows:
         raise RuntimeError(f"Not enough schedule data for {channel_id}")
 
     programmes = root.findall(f"programme[@channel='{channel_id}']")
@@ -434,6 +437,20 @@ def main():
                 print(f"{channel_id}: ClickTheCity unavailable; used {len(fallback)} EPG.PW fallback programmes.")
             else:
                 print(f"{channel_id}: kept previous schedule; ClickTheCity refresh failed: {exc}")
+
+    # ClickTheCity channel pages for Kapamilya Channel and Solar Flix.
+    # These pages sometimes expose only a short list; accept four or more
+    # current-day listings, but reject pages whose schedule date is stale.
+    for channel_id, url in (
+        ("kapamilya_channel", "https://www.clickthecity.com/tv/channels/kapamilya-channel"),
+        ("solar_flix", "https://www.clickthecity.com/tv/channels/solar-flix"),
+    ):
+        try:
+            count = replace_clickthecity_channel(current, channel_id, url, minimum_rows=4)
+            applied_targets.add(channel_id)
+            print(f"{channel_id}: refreshed {count} ClickTheCity programmes.")
+        except Exception as click_exc:
+            print(f"{channel_id}: ClickTheCity page unavailable/stale/incomplete; keeping existing schedule: {click_exc}")
 
     # EPG.PW now exposes dated schedules for several channels that were
     # previously empty. Query each channel's date-specific endpoint directly.
