@@ -514,19 +514,6 @@
   <programme channel="anc_singapore" start="20261121000000 -0800" stop="20261121003000 -0800">
     <title lang="en">Casa Daza</title>
   </programme>
-  <programme channel="one_ph" start="20261121000000 -0800" stop="20261121020000 -0800">
-    <title lang="zh">Power and Play</title>
-    <desc />
-    <date>20261121</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="tfc" start="20261121000000 -0800" stop="20261121013000 -0800">
-    <title lang="zh">Direct Response</title>
-    <desc />
-    <date>2026-11-21</date>
-  </programme>
   <programme channel="cinemaone" start="20261121000000 -0800" stop="20261121020000 -0800">
     <title lang="zh">Here Comes The Bride</title>
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
@@ -576,11 +563,6 @@
   </programme>
   <programme start="20261121013000 -0800" stop="20261121021500 -0800" channel="gma7">
     <title lang="en">24 Oras Weekend</title>
-  </programme>
-  <programme channel="tfc" start="20261121013000 -0800" stop="20261121020000 -0800">
-    <title lang="zh">Philippines' Most Haunted</title>
-    <desc>A horror documentary series that brings together Filipino folklore, firsthand testimonies and paranormal investigations.</desc>
-    <date>2026-11-21</date>
   </programme>
   <programme channel="gma_life_tv_410427" start="20261121014500 -0800" stop="20261121034500 -0800">
     <title>Reel Life Weekend 'That Boy In The Dark'</title>
