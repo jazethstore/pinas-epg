@@ -4,15 +4,19 @@
     <display-name lang="en">GMA Pinoy TV</display-name>
   </channel>
   <channel id="tfc">
+    <icon src="https://commons.wikimedia.org/wiki/Special:FilePath/The_Filipino_Channel_(TFC)_logo.png" />
     <display-name lang="en">TFC</display-name>
   </channel>
   <channel id="cinemaone">
+    <icon src="https://commons.wikimedia.org/wiki/Special:FilePath/Cinema_One_logo.png" />
     <display-name lang="en">Cinema One</display-name>
   </channel>
   <channel id="kapatidtv5">
+    <icon src="https://commons.wikimedia.org/wiki/Special:FilePath/TV5_Logo_(2021).png" />
     <display-name lang="en">Kapatid TV5</display-name>
   </channel>
   <channel id="anc_singapore">
+    <icon src="https://commons.wikimedia.org/wiki/Special:FilePath/ANClogo2014.svg" />
     <display-name>ANC</display-name>
   </channel>
   <channel id="gma_news_tv_410428">
@@ -1060,6 +1064,7 @@
     <title lang="en">Tadhana</title>
   </programme>
   <channel id="kapamilya_channel">
+    <icon src="https://commons.wikimedia.org/wiki/Special:FilePath/Kapamilya_channel.png" />
     <display-name lang="en">Kapamilya Channel</display-name>
   </channel>
   <programme channel="kapamilya_channel" start="20261120133000 -0800" stop="20261120140000 -0800">
