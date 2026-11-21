@@ -93,12 +93,6 @@ def clickthecity_schedule(url):
                 entries.append((match.group(1), title))
 
     if len(entries) < 8:
-        print(
-            f"ClickTheCity debug: html_bytes={len(raw)}, "
-            f"has_am={'AM' in raw}, has_schedule_word={'schedule' in raw.lower()}, "
-            f"has_first_known_title={'Sanggano' in raw}, "
-            f"html_head={raw[:700]!r}"
-        )
         raise RuntimeError(f"ClickTheCity returned only {len(entries)} programme rows")
 
     la_entries = []
@@ -196,6 +190,7 @@ def main():
     # The old all-channels EPG.PW endpoint now returns 404. Try it as an
     # optional source, but do not let that take down the daily refresh.
     matched = {}
+    applied_targets = set()
     total_new = 0
     feed = None
     feed_url = "https://epg.pw/xmltv/epg_PH.xml"
@@ -242,13 +237,14 @@ def main():
             replacement[target_id].append(program)
 
         total_new = sum(len(items) for items in replacement.values())
-        if len(matched) >= 5 and total_new >= 100:
+        if len(matched) >= 5 and total_new >= 50:
             for target_id, items in replacement.items():
-                if target_id in {"pbo", "cinemaone"}:
-                    continue  # ClickTheCity is preferred; these are fallbacks only.
+                if target_id in {"pbo", "cinemaone"} or len(items) < 4:
+                    continue  # ClickTheCity is preferred; do not erase sparse channels.
                 for old in list(current.findall(f"programme[@channel='{target_id}']")):
                     current.remove(old)
                 current.extend(items)
+                applied_targets.add(target_id)
         else:
             print(f"General feed validation failed ({len(matched)} matches, {total_new} programmes); keeping existing schedules.")
 
@@ -274,6 +270,7 @@ def main():
             for old in list(current.findall("programme[@channel='tfc']")):
                 current.remove(old)
             current.extend(tfc_rows)
+            applied_targets.add("tfc")
             print(f"TFC: refreshed {len(tfc_rows)} entries from channel 474984.")
         else:
             print(f"TFC channel feed returned only {len(tfc_rows)} entries; retained existing TFC schedule.")
@@ -288,6 +285,7 @@ def main():
     ):
         try:
             count = replace_clickthecity_channel(current, channel_id, url)
+            applied_targets.add(channel_id)
             print(f"{channel_id}: refreshed {count} ClickTheCity programmes")
         except Exception as exc:
             fallback = replacement.get(channel_id, []) if feed is not None else []
@@ -295,6 +293,7 @@ def main():
                 for old in list(current.findall(f"programme[@channel='{channel_id}']")):
                     current.remove(old)
                 current.extend(fallback)
+                applied_targets.add(channel_id)
                 print(f"{channel_id}: ClickTheCity unavailable; used {len(fallback)} EPG.PW fallback programmes.")
             else:
                 print(f"{channel_id}: kept previous schedule; ClickTheCity refresh failed: {exc}")
@@ -317,7 +316,7 @@ def main():
 
     print(f"General channels matched: {len(matched)}; future programmes loaded: {total_new}.")
     for target_id in ALIASES:
-        print(f"{target_id}: {'updated' if target_id in matched else 'kept existing schedule'}")
+        print(f"{target_id}: {'updated' if target_id in applied_targets else 'kept existing schedule'}")
 
 if __name__ == "__main__":
     main()
