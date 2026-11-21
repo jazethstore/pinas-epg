@@ -433,11 +433,6 @@
     <title lang="en">Hatulan Bilibid Boys 2</title>
     <desc>ClickTheCity PBO schedule for Nov 21, 2026; Philippine times converted to Los Angeles</desc>
   </programme>
-  <programme channel="tfc" start="20261120212000 -0800" stop="20261121000000 -0800">
-    <title lang="zh">The Loyalty Game</title>
-    <desc>A seemingly perfect couple's marriage unravels when the wife hires loyalty testers to uncover her husband's hidden secrets and deceptions.</desc>
-    <date>2026-11-21</date>
-  </programme>
   <programme channel="anc_singapore" start="20261120213000 -0800" stop="20261120220000 -0800">
     <title lang="en">Juan Conversations</title>
   </programme>
@@ -482,14 +477,6 @@
   </programme>
   <programme channel="gma_news_tv_410428" start="20261120230000 -0800" stop="20261120234500 -0800">
     <title lang="en">Investigative Documentaries</title>
-  </programme>
-  <programme channel="one_ph" start="20261120230000 -0800" stop="20261121000000 -0800">
-    <title lang="zh">From Helen's Kitchen</title>
-    <desc />
-    <date>20261121</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
   </programme>
   <programme start="20261120231000 -0800" stop="20261120235000 -0800" channel="gmapinoytv_asia">
     <title lang="en">Tadhana</title>
