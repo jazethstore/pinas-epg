@@ -435,6 +435,24 @@ def main():
             else:
                 print(f"{channel_id}: kept previous schedule; ClickTheCity refresh failed: {exc}")
 
+    # EPG.PW now exposes dated schedules for several channels that were
+    # previously empty. Query each channel's date-specific endpoint directly.
+    epgpw_missing_channels = {
+        "gma7": "575517",
+        "gma_life_tv_410427": "410427",
+        "gma_news_tv_410428": "410428",
+        "kapamilya_channel": "575514",
+        "solar_flix": "575515",
+        "pbo": "575516",
+    }
+    for target_id, source_id in epgpw_missing_channels.items():
+        try:
+            count = refresh_epgpw_date_channel(current, target_id, source_id)
+            applied_targets.add(target_id)
+            print(f"{target_id}: refreshed {count} entries from dated EPG.PW channel {source_id}.")
+        except Exception as epgpw_exc:
+            print(f"{target_id}: dated EPG.PW channel {source_id} unavailable/incomplete; keeping current schedule: {epgpw_exc}")
+
     # FreeEPG is a secondary source for channels missing from the old EPG.PW
     # all-channel feed. Match by its documented XMLTV channel identifiers.
     freeepg_targets = {
