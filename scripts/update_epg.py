@@ -75,6 +75,14 @@ def clickthecity_schedule(url, minimum_rows=8):
             })
             with urlopen(req, timeout=45) as response:
                 candidate_raw = response.read().decode("utf-8", errors="replace")
+            if "channels/pbo" in url:
+                print(f"ClickTheCity diagnostic {candidate}: bytes={len(candidate_raw)} title={re.search(r'<title[^>]*>(.*?)</title>', candidate_raw, re.I|re.S).group(1)[:160] if re.search(r'<title[^>]*>(.*?)</title>', candidate_raw, re.I|re.S) else 'NO TITLE'}")
+                scripts = re.findall(r'<script[^>]+src=["']([^"']+)', candidate_raw, re.I)
+                print("ClickTheCity script src:", scripts[:30])
+                for marker in ("Mang Kepweng", "programme", "schedule", "__NEXT_DATA__", "__NUXT__", "application/ld+json"):
+                    pos = candidate_raw.lower().find(marker.lower())
+                    if pos >= 0:
+                        print(f"ClickTheCity marker {marker}: {candidate_raw[max(0,pos-300):pos+900]}")
             # Keep trying if the response is only an error/interstitial page.
             if re.search(r"\d{1,2}:\d{2}\s*[AP]M", candidate_raw, re.I):
                 raw = candidate_raw
