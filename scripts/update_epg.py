@@ -18,6 +18,8 @@ LA = ZoneInfo("America/Los_Angeles")
 ALIASES = {
     "gmapinoytv_asia": ["GMA Pinoy TV", "GMA Pinoy"],
     "tfc": ["TFC", "The Filipino Channel"],
+    "cinemaone": ["Cinema One", "Cinema 1"],
+    "pbo": ["PBO", "Pinoy Box Office"],
     "anc_singapore": ["ANC", "ABS-CBN News Channel"],
     "gma_news_tv_410428": ["GMA News TV", "GTV"],
     "gma_life_tv_410427": ["GMA Life TV", "GMA Life"],
@@ -190,7 +192,7 @@ def main():
     matched = {}
     total_new = 0
     feed = None
-    feed_url = "https://epg.pw/api/epg.xml?lang=en&timezone=" + tz_b64
+    feed_url = "https://epg.pw/xmltv/epg_PH.xml"
     try:
         req = Request(feed_url, headers={"User-Agent": "pinas-epg-updater/1.0"})
         with urlopen(req, timeout=90) as response:
@@ -236,6 +238,8 @@ def main():
         total_new = sum(len(items) for items in replacement.values())
         if len(matched) >= 5 and total_new >= 100:
             for target_id, items in replacement.items():
+                if target_id in {"pbo", "cinemaone"}:
+                    continue  # ClickTheCity is preferred; these are fallbacks only.
                 for old in list(current.findall(f"programme[@channel='{target_id}']")):
                     current.remove(old)
                 current.extend(items)
@@ -280,7 +284,14 @@ def main():
             count = replace_clickthecity_channel(current, channel_id, url)
             print(f"{channel_id}: refreshed {count} ClickTheCity programmes")
         except Exception as exc:
-            print(f"{channel_id}: kept previous schedule; ClickTheCity refresh failed: {exc}")
+            fallback = replacement.get(channel_id, []) if feed is not None else []
+            if len(fallback) >= 8:
+                for old in list(current.findall(f"programme[@channel='{channel_id}']")):
+                    current.remove(old)
+                current.extend(fallback)
+                print(f"{channel_id}: ClickTheCity unavailable; used {len(fallback)} EPG.PW fallback programmes.")
+            else:
+                print(f"{channel_id}: kept previous schedule; ClickTheCity refresh failed: {exc}")
 
     filler_count = fill_tfc_unlisted_gaps(current)
     print(f"TFC: added {filler_count} clearly labelled blocks where the EPG source has no title.")
