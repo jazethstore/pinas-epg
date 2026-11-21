@@ -58,7 +58,9 @@ def clickthecity_schedule(url, minimum_rows=8):
     fetch_errors = []
     # ClickTheCity may serve different HTML to automation clients. Try its
     # primary host with browser-like headers, then the beta host.
-    candidate_urls = [url]
+    # ClickTheCity often blocks direct automation requests or serves an app shell.
+    # Jina Reader provides a text rendering of the public page as a fallback.
+    candidate_urls = ["https://r.jina.ai/http://" + url.removeprefix("https://").removeprefix("http://") , url]
     if "www.clickthecity.com" in url:
         candidate_urls.append(url.replace("www.clickthecity.com", "beta.clickthecity.com"))
     for candidate in candidate_urls:
