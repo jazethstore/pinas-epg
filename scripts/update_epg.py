@@ -57,13 +57,13 @@ def clickthecity_schedule(url):
 
     page_text = unescape(re.sub(r"<[^>]+>", " ", raw))
     page_text = re.sub(r"\s+", " ", page_text)
-    date_match = re.search(
-        r"(?:programming guide for|schedule for) ([A-Za-z]+ \d{1,2}, \d{4})",
-        page_text, re.I
-    )
-    if not date_match:
-        raise RuntimeError("ClickTheCity schedule date was not found")
-    schedule_date = datetime.strptime(date_match.group(1), "%B %d, %Y").date()
+    date_match = re.search(r"([A-Za-z]+ \d{1,2}, \d{4})", page_text, re.I)
+    if date_match:
+        schedule_date = datetime.strptime(date_match.group(1), "%B %d, %Y").date()
+    else:
+        # ClickTheCity sometimes omits date metadata from its server-rendered HTML.
+        # Its channel pages show today's schedule, so use the Philippines date.
+        schedule_date = datetime.now(ZoneInfo("Asia/Manila")).date()
 
     entries = []
     # Prefer individual list items so each programme title remains intact.
@@ -85,6 +85,7 @@ def clickthecity_schedule(url):
         )
         for match in pattern.finditer(page_text):
             title = re.sub(r"\s+", " ", match.group(2)).strip(" .")
+            title = re.sub(r"\s+\d+\.$", "", title)
             title = re.split(r"View Full Philippine TV Schedule", title, flags=re.I)[0].strip()
             if title:
                 entries.append((match.group(1), title))
