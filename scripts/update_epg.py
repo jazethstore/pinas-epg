@@ -98,6 +98,14 @@ def main():
         program.set("stop", fmt_dt(stop))
         replacement[target_id].append(program)
 
+    # Normalize malformed XMLTV timestamps before validating or publishing.
+    # Some manually imported schedule rows can contain two extra trailing zeroes.
+    for program in current.findall("programme"):
+        for attr in ("start", "stop"):
+            value = program.get(attr, "")
+            if re.fullmatch(r"\\d{16}\\s*[+-]\\d{4}", value):
+                program.set(attr, value[:14] + " " + value[-5:])
+
     # Require a substantial live feed before changing anything.
     total_new = sum(len(items) for items in replacement.values())
     if len(matched) < 5 or total_new < 100:
