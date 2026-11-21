@@ -11,10 +11,6 @@
     <icon src="https://commons.wikimedia.org/wiki/Special:FilePath/Cinema_One_logo.png" />
     <display-name lang="en">Cinema One</display-name>
   </channel>
-  <channel id="kapatidtv5">
-    <icon src="https://commons.wikimedia.org/wiki/Special:FilePath/TV5_Logo_(2021).png" />
-    <display-name lang="en">Kapatid TV5</display-name>
-  </channel>
   <channel id="anc_singapore">
     <icon src="https://commons.wikimedia.org/wiki/Special:FilePath/ANClogo2014.svg" />
     <display-name>ANC</display-name>
@@ -104,16 +100,10 @@
     <desc />
     <date>2026-11-19</date>
   </programme>
-  <programme channel="kapatidtv5" start="20261119060000 -0800" stop="20261119070000 -0800">
-    <title lang="en">Frontline Pilipinas</title>
-  </programme>
   <programme channel="tfc" start="20261119060000 -0800" stop="20261119070000 -0800">
     <title lang="zh">Tandem Ng Bayan</title>
     <desc />
     <date>2026-11-19</date>
-  </programme>
-  <programme channel="kapatidtv5" start="20261119070000 -0800" stop="20261119080000 -0800">
-    <title lang="en">Kusina ni Mamang</title>
   </programme>
   <programme channel="tfc" start="20261119070000 -0800" stop="20261119073000 -0800">
     <title lang="zh">Kapamilya Daily Mass</title>
@@ -125,9 +115,6 @@
     <desc>The host presents a detailed report of news stories about political, economic, social and cultural topics from all around the region.</desc>
     <date>2026-11-19</date>
   </programme>
-  <programme channel="kapatidtv5" start="20261119080000 -0800" stop="20261119100000 -0800">
-    <title lang="en">Wanted</title>
-  </programme>
   <programme channel="tfc" start="20261119090000 -0800" stop="20261119094000 -0800">
     <title lang="zh">The Iron Heart</title>
     <desc>An undercover agent, Apollo, seeks to dismantle Tatsulok, the syndicate that killed his love Cassandra; the story explores standing up for justice and love's redemptive power.</desc>
@@ -138,32 +125,20 @@
     <desc>A story of three generations of love and betrayal, and how the sins of the past continue to haunt two families whose lives are destined to be intertwined.</desc>
     <date>2026-11-19</date>
   </programme>
-  <programme channel="kapatidtv5" start="20261119100000 -0800" stop="20261119110000 -0800">
-    <title lang="en">One Balita Pilipinas</title>
-  </programme>
   <programme channel="tfc" start="20261119102000 -0800" stop="20261119110000 -0800">
     <title lang="zh">Got to Believe</title>
     <desc />
     <date>2026-11-19</date>
-  </programme>
-  <programme channel="kapatidtv5" start="20261119110000 -0800" stop="20261119113000 -0800">
-    <title lang="en">Totoy Bato</title>
   </programme>
   <programme channel="tfc" start="20261119110000 -0800" stop="20261119113000 -0800">
     <title lang="zh">TFC Kids' Zone</title>
     <desc>A compilation of cartoons, rhymes and moral stories that aim to impart values and lessons to children.</desc>
     <date>2026-11-19</date>
   </programme>
-  <programme channel="kapatidtv5" start="20261119113000 -0800" stop="20261119120000 -0800">
-    <title lang="en">Nina Nino</title>
-  </programme>
   <programme channel="tfc" start="20261119113000 -0800" stop="20261119120000 -0800">
     <title lang="zh">Oh MY Gan!</title>
     <desc>Journalist Ganiel Krishnan speaks with celebrities and public figures about learnings from their professional and personal life.</desc>
     <date>2026-11-19</date>
-  </programme>
-  <programme channel="kapatidtv5" start="20261119120000 -0800" stop="20261119143000 -0800">
-    <title lang="en">Eat Bulaga</title>
   </programme>
   <programme channel="tfc" start="20261119120000 -0800" stop="20261119140000 -0800">
     <title lang="zh">It's Showtime</title>
@@ -174,9 +149,6 @@
     <title lang="zh">Goin' Bulilit</title>
     <desc>A sketch comedy featuring a roster of child actors and actresses portraying adult roles in various comedic situations.</desc>
     <date>2026-11-19</date>
-  </programme>
-  <programme channel="kapatidtv5" start="20261119143000 -0800" stop="20261119164500 -0800">
-    <title lang="en">PBA Games</title>
   </programme>
   <programme channel="tfc" start="20261119144000 -0800" stop="20261119151500 -0800">
     <title lang="zh">La Vida Lena</title>
@@ -198,9 +170,6 @@
     <desc>A dating app CEO unknowingly befriends someone out for revenge, jeopardizing her company, her family and her dream of finding romance.</desc>
     <date>2026-11-20</date>
   </programme>
-  <programme channel="kapatidtv5" start="20261119164500 -0800" stop="20261119174500 -0800">
-    <title lang="en">Frontline Pilipinas</title>
-  </programme>
   <programme channel="tfc" start="20261119170000 -0800" stop="20261119173500 -0800">
     <title lang="zh">The Loyalty Game</title>
     <desc>A seemingly perfect couple's marriage unravels when the wife hires loyalty testers to uncover her husband's hidden secrets and deceptions.</desc>
@@ -210,9 +179,6 @@
     <title lang="zh">TV Patrol Express</title>
     <desc>The anchors deliver the latest news and updates happening across the Philippines.</desc>
     <date>2026-11-20</date>
-  </programme>
-  <programme channel="kapatidtv5" start="20261119174500 -0800" stop="20261119200000 -0800">
-    <title lang="en">PBA Games</title>
   </programme>
   <programme channel="tfc" start="20261119175500 -0800" stop="20261119183000 -0800">
     <title lang="zh">Pamilya Talk With Tita Jing</title>
@@ -224,16 +190,10 @@
     <desc>The host presents a detailed report of news stories about political, economic, social and cultural topics from all around the region.</desc>
     <date>2026-11-20</date>
   </programme>
-  <programme channel="kapatidtv5" start="20261119200000 -0800" stop="20261119203000 -0800">
-    <title lang="en">Maine Goals</title>
-  </programme>
   <programme channel="tfc" start="20261119200000 -0800" stop="20261119204000 -0800">
     <title lang="zh">Sigabo</title>
     <desc>After serving eight years in prison, a spunky man is granted parole; but his long-awaited freedom comes at a price he is forced into a covert government program that recruits convicts for dangerous, high-stakes missions.</desc>
     <date>2026-11-20</date>
-  </programme>
-  <programme channel="kapatidtv5" start="20261119203000 -0800" stop="20261119230000 -0800">
-    <title lang="en">Eat Bulaga</title>
   </programme>
   <programme channel="tfc" start="20261119204000 -0800" stop="20261119212000 -0800">
     <title lang="zh">Someone, Someday</title>
@@ -258,14 +218,8 @@
   <programme start="20261119223000 -0800" stop="20261119232000 -0800" channel="gmapinoytv_asia">
     <title lang="en">Tiktoclock: Happy Hour Na</title>
   </programme>
-  <programme channel="kapatidtv5" start="20261119230000 -0800" stop="20261119233000 -0800">
-    <title lang="en">Totoy Bato</title>
-  </programme>
   <programme start="20261119232000 -0800" stop="20261119235000 -0800" channel="gmapinoytv_asia">
     <title lang="en">Maria Clara at Ibarra</title>
-  </programme>
-  <programme channel="kapatidtv5" start="20261119233000 -0800" stop="20261120010000 -0800">
-    <title lang="en">Ted Failon and DJ Chacha</title>
   </programme>
   <programme start="20261119235000 -0800" stop="20261120002000 -0800" channel="gmapinoytv_asia">
     <title lang="en">Born to Shine</title>
@@ -372,9 +326,6 @@
   <programme start="20261120080000 -0800" stop="20261120083500 -0800" channel="gmapinoytv_asia">
     <title lang="en">Maria Clara at Ibarra</title>
   </programme>
-  <programme channel="kapatidtv5" start="20261120080000 -0800" stop="20261120100000 -0800">
-    <title lang="en">Wanted</title>
-  </programme>
   <programme channel="anc_singapore" start="20261120083000 -0800" stop="20261120090000 -0800">
     <title lang="en">Beyond The Exchange</title>
   </programme>
@@ -423,9 +374,6 @@
   <programme channel="gma_news_tv_410428" start="20261120100000 -0800" stop="20261120103000 -0800">
     <title lang="en">Saksi</title>
   </programme>
-  <programme channel="kapatidtv5" start="20261120100000 -0800" stop="20261120110000 -0800">
-    <title lang="en">One Balita Pilipinas</title>
-  </programme>
   <programme channel="tfc" start="20261120102000 -0800" stop="20261120110000 -0800">
     <title lang="zh">Got to Believe</title>
     <desc />
@@ -449,9 +397,6 @@
   <programme channel="gma_news_tv_410428" start="20261120110000 -0800" stop="20261120113000 -0800">
     <title lang="en">Balitang Bisdak</title>
   </programme>
-  <programme channel="kapatidtv5" start="20261120110000 -0800" stop="20261120113000 -0800">
-    <title lang="en">Totoy Bato</title>
-  </programme>
   <programme channel="tfc" start="20261120110000 -0800" stop="20261120113000 -0800">
     <title lang="zh">TFC Kids' Zone</title>
     <desc>A compilation of cartoons, rhymes and moral stories that aim to impart values and lessons to children.</desc>
@@ -462,9 +407,6 @@
   </programme>
   <programme channel="gma_news_tv_410428" start="20261120113000 -0800" stop="20261120120000 -0800">
     <title lang="en">One North Central Luzon</title>
-  </programme>
-  <programme channel="kapatidtv5" start="20261120113000 -0800" stop="20261120120000 -0800">
-    <title lang="en">Nina Nino</title>
   </programme>
   <programme channel="tfc" start="20261120113000 -0800" stop="20261120120000 -0800">
     <title lang="zh">Oh MY Gan!</title>
@@ -481,9 +423,6 @@
   </programme>
   <programme channel="gma_news_tv_410428" start="20261120120000 -0800" stop="20261120124500 -0800">
     <title lang="en">One Mindanao</title>
-  </programme>
-  <programme channel="kapatidtv5" start="20261120120000 -0800" stop="20261120143000 -0800">
-    <title lang="en">Eat Bulaga</title>
   </programme>
   <programme start="20261120120000 -0800" channel="solar_flix" stop="20261120140000 -0800">
     <title lang="en">Kuwatog</title>
@@ -564,9 +503,6 @@
   <programme start="20261120143000 -0800" stop="20261120150000 -0800" channel="gma7">
     <title lang="en">GameKeepers</title>
   </programme>
-  <programme channel="kapatidtv5" start="20261120143000 -0800" stop="20261120164500 -0800">
-    <title lang="en">PBA Games</title>
-  </programme>
   <programme channel="tfc" start="20261120144000 -0800" stop="20261120151500 -0800">
     <title lang="zh">La Vida Lena</title>
     <desc />
@@ -631,9 +567,6 @@
   <programme start="20261120163000 -0800" stop="20261120170000 -0800" channel="gma7">
     <title lang="en">Oscar's Oasis</title>
   </programme>
-  <programme channel="kapatidtv5" start="20261120164500 -0800" stop="20261120174500 -0800">
-    <title lang="en">Frontline Pilipinas</title>
-  </programme>
   <programme channel="anc_singapore" start="20261120170000 -0800" stop="20261120173000 -0800">
     <title lang="en">Market Edge</title>
   </programme>
@@ -658,9 +591,6 @@
   </programme>
   <programme start="20261120174500 -0800" stop="20261120181500 -0800" channel="gmapinoytv_asia">
     <title lang="en">Reporter's Notebook</title>
-  </programme>
-  <programme channel="kapatidtv5" start="20261120174500 -0800">
-    <title lang="en">PBA Games</title>
   </programme>
   <programme channel="anc_singapore" start="20261120180000 -0800" stop="20261120183000 -0800">
     <title lang="en">Banker After Dark</title>
