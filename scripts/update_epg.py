@@ -9,6 +9,7 @@ from html import unescape
 from zoneinfo import ZoneInfo
 from urllib.request import Request, urlopen
 import base64
+import gzip
 import os
 import re
 import xml.etree.ElementTree as ET
@@ -190,6 +191,55 @@ def refresh_epgpw_date_channel(root, target_channel_id, source_channel_id):
     root.extend(rows)
     return len(rows)
 
+
+
+def refresh_freeepg_channels(root, target_map):
+    """Refresh selected Philippine channels from FreeEPG's public XMLTV feed."""
+    url = "https://free-epg.de/api/epg/ph.xml.gz"
+    req = Request(url, headers={"User-Agent": "pinas-epg-updater/1.0"})
+    with urlopen(req, timeout=90) as response:
+        payload = response.read()
+    try:
+        payload = gzip.decompress(payload)
+    except OSError:
+        # Accept an uncompressed XML response if the server changes encoding.
+        pass
+    feed = ET.fromstring(payload)
+
+    counts = {}
+    now_local = datetime.now(timezone.utc).astimezone(LA)
+    horizon_local = now_local + timedelta(days=14)
+    for source_id, target_id in target_map.items():
+        rows = []
+        for program in feed.findall(f"programme[@channel='{source_id}']"):
+            start = parse_dt(program.get("start"))
+            stop = parse_dt(program.get("stop"))
+            title = " ".join((program.findtext("title") or "").split())
+            if (not start or not stop or stop <= now_local or start >= horizon_local
+                    or stop <= start or not title):
+                continue
+            program.set("channel", target_id)
+            program.set("start", fmt_dt(start))
+            program.set("stop", fmt_dt(stop))
+            rows.append(program)
+
+        # Require a meaningful schedule before replacing existing listings.
+        if len(rows) < 8:
+            print(f"{target_id}: FreeEPG {source_id} supplied only {len(rows)} future programmes; keeping existing schedule.")
+            counts[target_id] = 0
+            continue
+
+        first_start = min(parse_dt(p.get("start")) for p in rows)
+        last_stop = max(parse_dt(p.get("stop")) for p in rows)
+        for old in list(root.findall(f"programme[@channel='{target_id}']")):
+            old_start = parse_dt(old.get("start"))
+            old_stop = parse_dt(old.get("stop"))
+            if old_start and old_stop and old_start < last_stop and old_stop > first_start:
+                root.remove(old)
+        root.extend(rows)
+        counts[target_id] = len(rows)
+        print(f"{target_id}: refreshed {len(rows)} programmes from FreeEPG ({source_id}).")
+    return counts
 
 def fill_tfc_unlisted_gaps(root):
     # Preserve known programme titles. For long gaps in the third-party feed,
@@ -384,6 +434,22 @@ def main():
                 print(f"{channel_id}: ClickTheCity unavailable; used {len(fallback)} EPG.PW fallback programmes.")
             else:
                 print(f"{channel_id}: kept previous schedule; ClickTheCity refresh failed: {exc}")
+
+    # FreeEPG is a secondary source for channels missing from the old EPG.PW
+    # all-channel feed. Match by its documented XMLTV channel identifiers.
+    freeepg_targets = {
+        "GMATV.ph": "gma7",
+        "GMALifeTV.ph": "gma_life_tv_410427",
+        "GMANewsTV.ph": "gma_news_tv_410428",
+        "KapamilyaChannel.ph": "kapamilya_channel",
+        "SolarFlix.ph": "solar_flix",
+        "PBO.ph": "pbo",
+    }
+    try:
+        freeepg_counts = refresh_freeepg_channels(current, freeepg_targets)
+        applied_targets.update(target for target, count in freeepg_counts.items() if count >= 8)
+    except Exception as freeepg_exc:
+        print(f"FreeEPG Philippines feed unavailable; retained existing schedules for the six missing channels: {freeepg_exc}")
 
     filler_count = fill_tfc_unlisted_gaps(current)
     print(f"TFC: added {filler_count} clearly labelled blocks where the EPG source has no title.")
