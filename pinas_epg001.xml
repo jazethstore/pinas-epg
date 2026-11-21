@@ -282,16 +282,17 @@
   <programme channel="gma_life_tv_410427" start="20261120154500 -0800" stop="20261120161500 -0800">
     <title>Idol Sa Kusina</title>
   </programme>
-  <programme start="20261120160000 -0800" stop="20261120180000 -0800" channel="cinemaone">
-    <title lang="en">One Two Bato, Three Four Bapor</title>
-    <desc>ClickTheCity Cinema One schedule for Nov 21, 2026; Philippine times converted to Los Angeles</desc>
-  </programme>
   <programme start="20261120160000 -0800" stop="20261120163000 -0800" channel="gma7">
     <title lang="en">Taffy</title>
   </programme>
   <programme start="20261120160000 -0800" channel="solar_flix" stop="20261120210000 -0800">
     <title lang="en">Forbidden Fruit S2</title>
     <desc lang="en">Schedule source: ClickTheCity Solar Flix TV guide. Times converted from Philippine time to Los Angeles time (PST).</desc>
+  </programme>
+  <programme channel="cinemaone" start="20261120160000 -0800" stop="20261120180000 -0800">
+    <title lang="zh">Kusina Kings</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-21</date>
   </programme>
   <programme channel="gma_life_tv_410427" start="20261120161500 -0800" stop="20261120171500 -0800">
     <title>Bubble Gang Fun Size</title>
@@ -338,12 +339,13 @@
   <programme channel="anc_singapore" start="20261120180000 -0800" stop="20261120183000 -0800">
     <title lang="en">Banker After Dark</title>
   </programme>
-  <programme start="20261120180000 -0800" stop="20261120200000 -0800" channel="cinemaone">
-    <title lang="en">Pak! Pak! My Dr. Kwak</title>
-    <desc>ClickTheCity Cinema One schedule for Nov 21, 2026; Philippine times converted to Los Angeles</desc>
-  </programme>
   <programme start="20261120180000 -0800" stop="20261120181500 -0800" channel="gma7">
     <title lang="en">Angry Birds Bubble Trouble</title>
+  </programme>
+  <programme channel="cinemaone" start="20261120180000 -0800" stop="20261120200000 -0800">
+    <title lang="zh">Pinay Pie</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-21</date>
   </programme>
   <programme channel="gma_life_tv_410427" start="20261120181500 -0800" stop="20261120190000 -0800">
     <title>Chika Cart</title>
@@ -396,10 +398,6 @@
   <programme channel="anc_singapore" start="20261120200000 -0800" stop="20261120210000 -0800">
     <title lang="en">Headstart</title>
   </programme>
-  <programme start="20261120200000 -0800" stop="20261120220000 -0800" channel="cinemaone">
-    <title lang="en">Paano Ang Puso Ko</title>
-    <desc>ClickTheCity Cinema One schedule for Nov 21, 2026; Philippine times converted to Los Angeles</desc>
-  </programme>
   <programme channel="gma_news_tv_410428" start="20261120200000 -0800" stop="20261120210000 -0800">
     <title lang="en">Pickle Yard Conference League Season 2</title>
   </programme>
@@ -412,6 +410,11 @@
   <programme channel="kapamilya_channel" start="20261120200000 -0800" stop="20261120223000 -0800">
     <title lang="en">It's Showtime</title>
     <desc lang="en">Schedule source: ClickTheCity Kapamilya Channel TV guide. Times converted from Philippine time to Los Angeles time (PST).</desc>
+  </programme>
+  <programme channel="cinemaone" start="20261120200000 -0800" stop="20261120220000 -0800">
+    <title lang="zh">Type Kita, Walang Kokontra</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-21</date>
   </programme>
   <programme channel="gma_life_tv_410427" start="20261120203000 -0800" stop="20261120211500 -0800">
     <title>I</title>
@@ -446,12 +449,13 @@
   <programme channel="anc_singapore" start="20261120220000 -0800" stop="20261120223000 -0800">
     <title lang="en">Asian Air Safari</title>
   </programme>
-  <programme start="20261120220000 -0800" stop="20261121000000 -0800" channel="cinemaone">
-    <title lang="en">24/7 In Love</title>
-    <desc>ClickTheCity Cinema One schedule for Nov 21, 2026; Philippine times converted to Los Angeles</desc>
-  </programme>
   <programme channel="gma_news_tv_410428" start="20261120220000 -0800" stop="20261120221500 -0800">
     <title lang="en">Pinoy Klasiks</title>
+  </programme>
+  <programme channel="cinemaone" start="20261120220000 -0800" stop="20261121000000 -0800">
+    <title lang="zh">Call Center Girl</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-21</date>
   </programme>
   <programme channel="gma_life_tv_410427" start="20261120221500 -0800" stop="20261120231500 -0800">
     <title>Weekend Getaway</title>
@@ -510,10 +514,6 @@
   <programme channel="anc_singapore" start="20261121000000 -0800" stop="20261121003000 -0800">
     <title lang="en">Casa Daza</title>
   </programme>
-  <programme start="20261121000000 -0800" stop="20261121020000 -0800" channel="cinemaone">
-    <title lang="en">Unexpectedly Yours</title>
-    <desc>ClickTheCity Cinema One schedule for Nov 21, 2026; Philippine times converted to Los Angeles</desc>
-  </programme>
   <programme channel="one_ph" start="20261121000000 -0800" stop="20261121020000 -0800">
     <title lang="zh">Power and Play</title>
     <desc />
@@ -525,6 +525,11 @@
   <programme channel="tfc" start="20261121000000 -0800" stop="20261121013000 -0800">
     <title lang="zh">Direct Response</title>
     <desc />
+    <date>2026-11-21</date>
+  </programme>
+  <programme channel="cinemaone" start="20261121000000 -0800" stop="20261121020000 -0800">
+    <title lang="zh">Here Comes The Bride</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-21</date>
   </programme>
   <programme start="20261121000500 -0800" stop="20261121004500 -0800" channel="gma7">
@@ -587,10 +592,6 @@
   <programme channel="anc_singapore" start="20261121020000 -0800" stop="20261121023000 -0800">
     <title lang="en">Dwellings</title>
   </programme>
-  <programme start="20261121020000 -0800" stop="20261121030000 -0800" channel="cinemaone">
-    <title lang="en">The B Side</title>
-    <desc>ClickTheCity Cinema One schedule for Nov 21, 2026; Philippine times converted to Los Angeles</desc>
-  </programme>
   <programme channel="gma_news_tv_410428" start="20261121020000 -0800" stop="20261121030000 -0800">
     <title lang="en">Pickle Yard Conference League Season 2</title>
   </programme>
@@ -618,6 +619,11 @@
     <desc>Charo Santos-Concio brings to light the extraordinary real-life stories and anecdotes of ordinary people as well as celebrities.</desc>
     <date>2026-11-21</date>
   </programme>
+  <programme channel="cinemaone" start="20261121020000 -0800" stop="20261121040000 -0800">
+    <title lang="zh">Bukas Bibitayin Si Itay</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-21</date>
+  </programme>
   <programme start="20261121021500 -0800" stop="20261121031500 -0800" channel="gma7">
     <title lang="en">Pinoy Big Brother Collab Edition 3.0</title>
   </programme>
@@ -633,10 +639,6 @@
   </programme>
   <programme channel="anc_singapore" start="20261121030000 -0800" stop="20261121033000 -0800">
     <title lang="en">Beyond The Exchange</title>
-  </programme>
-  <programme start="20261121030000 -0800" stop="20261121050000 -0800" channel="cinemaone">
-    <title lang="en">The Amazing Praybeyt Benjamin</title>
-    <desc>ClickTheCity Cinema One schedule for Nov 21, 2026; Philippine times converted to Los Angeles</desc>
   </programme>
   <programme channel="gma_news_tv_410428" start="20261121030000 -0800" stop="20261121034500 -0800">
     <title lang="en">Balitang Bisdak</title>
@@ -721,6 +723,11 @@
     <desc>The host leads conversations exploring current trends in sports, fashion and entertainment; she delves into diverse aspects of popular culture with leading personalities.</desc>
     <date>2026-11-21</date>
   </programme>
+  <programme channel="cinemaone" start="20261121040000 -0800" stop="20261121060000 -0800">
+    <title lang="zh">Kuya Wes</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-21</date>
+  </programme>
   <programme start="20261121041500 -0800" stop="20261121053000 -0800" channel="gma7">
     <title lang="en">Magpakailanman</title>
   </programme>
@@ -744,10 +751,6 @@
   </programme>
   <programme channel="anc_singapore" start="20261121050000 -0800" stop="20261121053000 -0800">
     <title lang="en">Arts.21</title>
-  </programme>
-  <programme start="20261121050000 -0800" stop="20261121070000 -0800" channel="cinemaone">
-    <title lang="en">OTJ: On The Job</title>
-    <desc>ClickTheCity Cinema One schedule for Nov 21, 2026; Philippine times converted to Los Angeles</desc>
   </programme>
   <programme start="20261121050000 -0800" stop="20261121054000 -0800" channel="gmapinoytv_asia">
     <title lang="en">BBLGang</title>
@@ -805,6 +808,11 @@
     <title lang="en">Gising Na Ang Higanteng Natutulog</title>
     <desc lang="en">Schedule source: ClickTheCity VIVA Cinema TV guide. Times converted from Philippine time to Los Angeles time (PST).</desc>
   </programme>
+  <programme channel="cinemaone" start="20261121060000 -0800" stop="20261121080000 -0800">
+    <title lang="zh">Eh Kasi Bata</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-21</date>
+  </programme>
   <programme start="20261121061000 -0800" stop="20261121064000 -0800" channel="gmapinoytv_asia">
     <title lang="en">Born to Shine</title>
   </programme>
@@ -838,10 +846,6 @@
   </programme>
   <programme channel="anc_singapore" start="20261121070000 -0800" stop="20261121080000 -0800">
     <title lang="en">The Crawl</title>
-  </programme>
-  <programme start="20261121070000 -0800" stop="20261121090000 -0800" channel="cinemaone">
-    <title lang="en">Open</title>
-    <desc>ClickTheCity Cinema One schedule for Nov 21, 2026; Philippine times converted to Los Angeles</desc>
   </programme>
   <programme start="20261121070000 -0800" stop="20261121073000 -0800" channel="gma7">
     <title lang="en">Reporter's Notebook</title>
@@ -891,6 +895,11 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme channel="cinemaone" start="20261121080000 -0800" stop="20261121100000 -0800">
+    <title lang="zh">She's The One</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-21</date>
+  </programme>
   <programme channel="tfc" start="20261121083000 -0800" stop="20261121090000 -0800">
     <title lang="zh">MY Puhunan: Kaya Mo!</title>
     <desc>Karen Davila, an award-winning broadcast journalist, talks about different arenas of businesses and the people associated with them.</desc>
@@ -928,6 +937,11 @@
     <desc>A young woman's quiet life is disrupted when she unwillingly becomes the subject of a viral internet scandal.</desc>
     <date>2026-11-21</date>
   </programme>
+  <programme channel="cinemaone" start="20261121100000 -0800" stop="20261121120000 -0800">
+    <title lang="zh">Tag-Ulan Sa Tag-Araw</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-21</date>
+  </programme>
   <programme start="20261121103000 -0800" stop="20261121111500 -0800" channel="gmapinoytv_asia">
     <title lang="en">TBATS On the Go</title>
   </programme>
@@ -950,6 +964,11 @@
   <programme channel="tfc" start="20261121120000 -0800" stop="20261121140000 -0800">
     <title lang="zh">It's Showtime</title>
     <desc>Pinoys strut and display their unique talents for the world.</desc>
+    <date>2026-11-21</date>
+  </programme>
+  <programme channel="cinemaone" start="20261121120000 -0800" stop="20261121140000 -0800">
+    <title lang="zh">Isa Pa With Feelings</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-21</date>
   </programme>
   <programme channel="one_ph" start="20261121123000 -0800" stop="20261121130000 -0800">
@@ -984,6 +1003,11 @@
     <desc>The contestants receive a set of briefcases with randomly assigned amounts of prize money and rely on their luck and wits to win the biggest prize.</desc>
     <date>2026-11-21</date>
   </programme>
+  <programme channel="cinemaone" start="20261121140000 -0800" stop="20261121150000 -0800">
+    <title lang="zh">The B Side</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-21</date>
+  </programme>
   <programme start="20261121141500 -0800" stop="20261121144500 -0800" channel="gmapinoytv_asia">
     <title lang="en">Barangay Love Stories</title>
   </programme>
@@ -1004,6 +1028,11 @@
   <programme channel="tfc" start="20261121150000 -0800" stop="20261121155000 -0800">
     <title lang="zh">Matteo G Primetime</title>
     <desc />
+    <date>2026-11-21</date>
+  </programme>
+  <programme channel="cinemaone" start="20261121150000 -0800" stop="20261121160000 -0800">
+    <title lang="zh">Call Center Girl</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-21</date>
   </programme>
   <programme channel="one_ph" start="20261121153000 -0800" stop="20261121160000 -0800">
@@ -1045,6 +1074,11 @@
     <desc>Professional chef RV Manabat shares some of his signature recipes as he prepares them in the kitchen while sharing useful tips.</desc>
     <date>2026-11-22</date>
   </programme>
+  <programme channel="cinemaone" start="20261121170000 -0800" stop="20261121190000 -0800">
+    <title lang="zh">Aagos Ang Dugo</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme channel="tfc" start="20261121173000 -0800" stop="20261121183000 -0800">
     <title lang="zh">TV Patrol Sabado</title>
     <desc>The host provides news reports and updates on politics and socioeconomic developments.</desc>
@@ -1082,6 +1116,11 @@
     <desc>The contestants receive a set of briefcases with randomly assigned amounts of prize money and rely on their luck and wits to win the biggest prize.</desc>
     <date>2026-11-22</date>
   </programme>
+  <programme channel="cinemaone" start="20261121190000 -0800" stop="20261121210000 -0800">
+    <title lang="zh">Txt</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme channel="one_ph" start="20261121200000 -0800" stop="20261121210000 -0800">
     <title lang="zh">Discovereats</title>
     <desc />
@@ -1111,6 +1150,11 @@
     <desc />
     <date>2026-11-22</date>
   </programme>
+  <programme channel="cinemaone" start="20261121210000 -0800" stop="20261121230000 -0800">
+    <title lang="zh">Tag-Ulan Sa Tag-Araw</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme channel="tfc" start="20261121214500 -0800" stop="20261122000000 -0800">
     <title lang="zh">Labyu With an Accent</title>
     <desc>Gabo and Trisha come from different backgrounds: Trisha has spent 20 years living in the United States, while Gabo has been working different jobs to make ends meet in the Philippines. The two cross paths when Trish returns to the country.</desc>
@@ -1134,6 +1178,11 @@
     <audio>
       <stereo>stereo</stereo>
     </audio>
+  </programme>
+  <programme channel="cinemaone" start="20261121230000 -0800" stop="20261122010000 -0800">
+    <title lang="zh">Isa Pa With Feelings</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-22</date>
   </programme>
   <programme start="20261121233500 -0800" stop="20261122002500 -0800" channel="gmapinoytv_asia">
     <title lang="en">Pepito Manaloto, Tuloy Ang Kuwento</title>
@@ -1165,6 +1214,11 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme channel="cinemaone" start="20261122010000 -0800" stop="20261122020000 -0800">
+    <title lang="zh">The B Side</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme start="20261122013000 -0800" stop="20261122031500 -0800" channel="gmapinoytv_asia">
     <title lang="en">Kapuso Mo Jessica Soho</title>
   </programme>
@@ -1184,6 +1238,11 @@
   <programme channel="tfc" start="20261122020000 -0800" stop="20261122030000 -0800">
     <title lang="zh">Viral Scandal</title>
     <desc>A young woman's quiet life is disrupted when she unwillingly becomes the subject of a viral internet scandal.</desc>
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="cinemaone" start="20261122020000 -0800" stop="20261122040000 -0800">
+    <title lang="zh">Loving In Tandem</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-22</date>
   </programme>
   <programme channel="one_ph" start="20261122023000 -0800" stop="20261122030000 -0800">
@@ -1221,6 +1280,11 @@
   <programme channel="tfc" start="20261122040000 -0800" stop="20261122045000 -0800">
     <title lang="zh">Tulong Ko Pasa Mo</title>
     <desc>An advocacy radio program providing help, helping others and paying it forward; hosted by bestselling authors and motivational speakers, Vic and Avelynn Garcia.</desc>
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="cinemaone" start="20261122040000 -0800" stop="20261122060000 -0800">
+    <title lang="zh">Born To Love You</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-22</date>
   </programme>
   <programme start="20261122041500 -0800" stop="20261122051500 -0800" channel="gmapinoytv_asia">
@@ -1263,6 +1327,11 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme channel="cinemaone" start="20261122060000 -0800" stop="20261122080000 -0800">
+    <title lang="zh">Pak! Pak! My Dr. Kwak</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme start="20261122061500 -0800" stop="20261122070000 -0800" channel="gmapinoytv_asia">
     <title lang="en">Barangay Love Stories</title>
   </programme>
@@ -1300,6 +1369,11 @@
     <desc>ABS-CBN's flagship newscast and the country's leading news program in the past two decades, anchored by the most celebrated news team ever assembled in the history of Philippine broadcasting.</desc>
     <date>2026-11-22</date>
   </programme>
+  <programme channel="cinemaone" start="20261122080000 -0800" stop="20261122100000 -0800">
+    <title lang="zh">Pagpag Siyam Na Buhay</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme channel="one_ph" start="20261122083000 -0800" stop="20261122090000 -0800">
     <title lang="zh">Presinto 5</title>
     <desc />
@@ -1334,6 +1408,11 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme channel="cinemaone" start="20261122100000 -0800" stop="20261122120000 -0800">
+    <title lang="zh">He's Into Her The Moviecut Part 2</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme channel="one_ph" start="20261122110000 -0800" stop="20261122120000 -0800">
     <title lang="zh">Gretchen Ho Reports</title>
     <desc />
@@ -1360,6 +1439,11 @@
     <desc>A lineup of talented Filipino artists showcases their world-class musicality in a series of captivating performances.</desc>
     <date>2026-11-22</date>
   </programme>
+  <programme channel="cinemaone" start="20261122120000 -0800" stop="20261122130000 -0800">
+    <title lang="zh">The B Side</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme channel="one_ph" start="20261122123000 -0800" stop="20261122130000 -0800">
     <title lang="zh">Patriots</title>
     <desc />
@@ -1375,6 +1459,11 @@
     <audio>
       <stereo>stereo</stereo>
     </audio>
+  </programme>
+  <programme channel="cinemaone" start="20261122130000 -0800" stop="20261122150000 -0800">
+    <title lang="zh">Benigno Saulog</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-22</date>
   </programme>
   <programme channel="tfc" start="20261122132000 -0800" stop="20261122140000 -0800">
     <title lang="zh">Are You G? With MJ Felipe</title>
@@ -1415,6 +1504,11 @@
     <desc>The host leads conversations exploring current trends in sports, fashion and entertainment; she delves into diverse aspects of popular culture with leading personalities.</desc>
     <date>2026-11-22</date>
   </programme>
+  <programme channel="cinemaone" start="20261122150000 -0800" stop="20261122160000 -0800">
+    <title lang="zh">Shake, Rattle &amp; Roll X</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme channel="one_ph" start="20261122160000 -0800" stop="20261122170000 -0800">
     <title lang="zh">Woman In Action</title>
     <desc />
@@ -1436,6 +1530,11 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme channel="cinemaone" start="20261122170000 -0800" stop="20261122190000 -0800">
+    <title lang="zh">Bantay-Bahay</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-23</date>
+  </programme>
   <programme channel="one_ph" start="20261122180000 -0800" stop="20261122190000 -0800">
     <title lang="zh">Chink Positive</title>
     <desc />
@@ -1452,6 +1551,11 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme channel="cinemaone" start="20261122190000 -0800" stop="20261122200000 -0800">
+    <title lang="zh">The B Side</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-23</date>
+  </programme>
   <programme channel="one_ph" start="20261122200000 -0800" stop="20261122220000 -0800">
     <title lang="zh">LIVE Good morning, Bayan!</title>
     <desc />
@@ -1460,6 +1564,11 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme channel="cinemaone" start="20261122200000 -0800" stop="20261122220000 -0800">
+    <title lang="zh">Love Is Color Blind</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-23</date>
+  </programme>
   <programme channel="one_ph" start="20261122220000 -0800" stop="20261123030000 -0800">
     <title lang="zh">LIVE Ted Failon DJ Cha Cha Sa Radyo 5</title>
     <desc />
@@ -1467,6 +1576,21 @@
     <audio>
       <stereo>stereo</stereo>
     </audio>
+  </programme>
+  <programme channel="cinemaone" start="20261122220000 -0800" stop="20261123000000 -0800">
+    <title lang="zh">Love Me Tomorrow</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="cinemaone" start="20261123000000 -0800" stop="20261123020000 -0800">
+    <title lang="zh">Foster Child</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="cinemaone" start="20261123020000 -0800" stop="20261123040000 -0800">
+    <title lang="zh">Bala Ko... Bahala Sa'yo</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-23</date>
   </programme>
   <programme channel="one_ph" start="20261123030000 -0800" stop="20261123040000 -0800">
     <title lang="zh">Masaganang Buhay</title>
@@ -1484,6 +1608,11 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme channel="cinemaone" start="20261123040000 -0800" stop="20261123060000 -0800">
+    <title lang="zh">Amorosa: The Revenge</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-23</date>
+  </programme>
   <programme channel="one_ph" start="20261123050000 -0800" stop="20261123060000 -0800">
     <title lang="zh">LIVE Cristy Ferminute</title>
     <desc />
@@ -1500,6 +1629,11 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme channel="cinemaone" start="20261123060000 -0800" stop="20261123080000 -0800">
+    <title lang="zh">Buhawi Jack</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-23</date>
+  </programme>
   <programme channel="one_ph" start="20261123080000 -0800" stop="20261123084500 -0800">
     <title lang="zh">Julius And Tintin</title>
     <desc />
@@ -1507,6 +1641,11 @@
     <audio>
       <stereo>stereo</stereo>
     </audio>
+  </programme>
+  <programme channel="cinemaone" start="20261123080000 -0800" stop="20261123100000 -0800">
+    <title lang="zh">Everyday I Love You</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-23</date>
   </programme>
   <programme channel="one_ph" start="20261123084500 -0800" stop="20261123090000 -0800">
     <title lang="zh">One Balita Bai</title>
@@ -1532,6 +1671,11 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme channel="cinemaone" start="20261123100000 -0800" stop="20261123120000 -0800">
+    <title lang="zh">Can't Help Falling In Love</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-23</date>
+  </programme>
   <programme channel="one_ph" start="20261123103000 -0800" stop="20261123120000 -0800">
     <title lang="zh">LIVE Frontline Pilipinas</title>
     <desc />
@@ -1547,6 +1691,11 @@
     <audio>
       <stereo>stereo</stereo>
     </audio>
+  </programme>
+  <programme channel="cinemaone" start="20261123120000 -0800" stop="20261123140000 -0800">
+    <title lang="zh">Galvez, Hanggang Sa Dulo Ng Mundo Hahanapin Kita</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-23</date>
   </programme>
   <programme channel="one_ph" start="20261123130000 -0800" stop="20261123133000 -0800">
     <title lang="zh">Doctor Next Door</title>
@@ -1572,6 +1721,11 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme channel="cinemaone" start="20261123140000 -0800" stop="20261123160000 -0800">
+    <title lang="zh">Michael &amp; Madonna 2</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-23</date>
+  </programme>
   <programme channel="one_ph" start="20261123144500 -0800" stop="20261123150000 -0800">
     <title lang="zh">Dokumentado</title>
     <desc />
@@ -1595,6 +1749,11 @@
     <audio>
       <stereo>stereo</stereo>
     </audio>
+  </programme>
+  <programme channel="cinemaone" start="20261123160000 -0800" stop="20261124160000 -0800">
+    <title lang="zh">Para Sa Hopeless Romantic</title>
+    <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-24</date>
   </programme>
   <programme channel="one_ph" start="20261123170000 -0800" stop="20261123180000 -0800">
     <title lang="zh">Julius And Tintin</title>
