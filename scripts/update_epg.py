@@ -329,24 +329,23 @@ def main():
         ("pbo", "https://www.clickthecity.com/tv/channels/pbo"),
         ("cinemaone", "https://www.clickthecity.com/tv/channels/cinema-one"),
     ):
+        # Cinema One's primary source is its date-specific EPG.PW feed.
+        # ClickTheCity is retained only as a fallback if EPG.PW is unavailable.
+        if channel_id == "cinemaone":
+            try:
+                count = refresh_epgpw_date_channel(current, "cinemaone", "492842")
+                applied_targets.add("cinemaone")
+                print(f"Cinema One: refreshed {count} entries from primary EPG.PW channel 492842.")
+                continue
+            except Exception as cinema_exc:
+                print(f"Cinema One primary EPG.PW feed unavailable; trying ClickTheCity fallback: {cinema_exc}")
+
         try:
             count = replace_clickthecity_channel(current, channel_id, url)
             applied_targets.add(channel_id)
             print(f"{channel_id}: refreshed {count} ClickTheCity programmes")
         except Exception as exc:
             fallback = replacement.get(channel_id, []) if feed is not None else []
-
-            # Use EPG.PW's date-specific channel API for Cinema One Global.
-            # The date is calculated from the Philippines calendar and the
-            # returned programme times are converted to Los Angeles.
-            if channel_id == "cinemaone":
-                try:
-                    count = refresh_epgpw_date_channel(current, "cinemaone", "492842")
-                    applied_targets.add("cinemaone")
-                    print(f"Cinema One: refreshed {count} entries from EPG.PW channel 492842.")
-                    continue
-                except Exception as cinema_exc:
-                    print(f"Cinema One EPG.PW feed unavailable; retained previous schedule: {cinema_exc}")
 
             # PBO also has a dedicated EPG.PW endpoint. Use it only when it
             # supplies a substantial schedule; never replace a good schedule
