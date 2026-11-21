@@ -93,6 +93,12 @@ def clickthecity_schedule(url):
                 entries.append((match.group(1), title))
 
     if len(entries) < 8:
+        print(
+            f"ClickTheCity debug: html_bytes={len(raw)}, "
+            f"has_am={'AM' in raw}, has_schedule_word={'schedule' in raw.lower()}, "
+            f"has_first_known_title={'Sanggano' in raw}, "
+            f"html_head={raw[:700]!r}"
+        )
         raise RuntimeError(f"ClickTheCity returned only {len(entries)} programme rows")
 
     la_entries = []
