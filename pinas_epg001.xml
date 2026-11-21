@@ -588,19 +588,6 @@
     <title lang="en">Kasangga Kahit Kailan</title>
     <desc lang="en">Schedule source: ClickTheCity VIVA Cinema TV guide. Times converted from Philippine time to Los Angeles time (PST).</desc>
   </programme>
-  <programme channel="one_ph" start="20261121020000 -0800" stop="20261121030000 -0800">
-    <title lang="zh">Inays, Level Up!</title>
-    <desc />
-    <date>20261121</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="tfc" start="20261121020000 -0800" stop="20261121030000 -0800">
-    <title lang="zh">Maalaala Mo Kaya</title>
-    <desc>Charo Santos-Concio brings to light the extraordinary real-life stories and anecdotes of ordinary people as well as celebrities.</desc>
-    <date>2026-11-21</date>
-  </programme>
   <programme channel="cinemaone" start="20261121020000 -0800" stop="20261121040000 -0800">
     <title lang="zh">Bukas Bibitayin Si Itay</title>
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
@@ -629,19 +616,6 @@
     <title lang="en">Anong Ganap?</title>
     <desc>ClickTheCity PBO schedule for Nov 21, 2026; Philippine times converted to Los Angeles</desc>
   </programme>
-  <programme channel="one_ph" start="20261121030000 -0800" stop="20261121033000 -0800">
-    <title lang="zh">Doctor Next Door</title>
-    <desc />
-    <date>20261121</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="tfc" start="20261121030000 -0800" stop="20261121033000 -0800">
-    <title lang="zh">Chef RV's Kitchen</title>
-    <desc>Professional chef RV Manabat shares some of his signature recipes as he prepares them in the kitchen while sharing useful tips.</desc>
-    <date>2026-11-21</date>
-  </programme>
   <programme start="20261121031500 -0800" stop="20261121041500 -0800" channel="gma7">
     <title lang="en">Pepito Manaloto: Tuloy Ang Kuwento</title>
   </programme>
@@ -658,19 +632,6 @@
   <programme start="20261121033000 -0800" stop="20261121053000 -0800" channel="pbo">
     <title lang="en">Expensive Candy</title>
     <desc>ClickTheCity PBO schedule for Nov 21, 2026; Philippine times converted to Los Angeles</desc>
-  </programme>
-  <programme channel="one_ph" start="20261121033000 -0800" stop="20261121040000 -0800">
-    <title lang="zh">LIVE ONE Balita Pilipinas Weekend</title>
-    <desc />
-    <date>20261121</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="tfc" start="20261121033000 -0800" stop="20261121040000 -0800">
-    <title lang="zh">The Loida Lewis Podcast</title>
-    <desc>Host Loida Nicolas Lewis sits down with diverse guests to share inspiring stories of resilience and success, discussing life, love and personal growth.</desc>
-    <date>2026-11-21</date>
   </programme>
   <programme channel="gma_life_tv_410427" start="20261121034500 -0800" stop="20261121043000 -0800">
     <title>Daig Kayo Ng Lola Ko</title>
@@ -691,19 +652,6 @@
   <programme start="20261121040000 -0800" channel="viva_cinema" stop="20261121060000 -0800">
     <title lang="en">Dugong Buhay</title>
     <desc lang="en">Schedule source: ClickTheCity VIVA Cinema TV guide. Times converted from Philippine time to Los Angeles time (PST).</desc>
-  </programme>
-  <programme channel="one_ph" start="20261121040000 -0800" stop="20261121050000 -0800">
-    <title lang="zh">LIVE Holy Mass</title>
-    <desc />
-    <date>20261121</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="tfc" start="20261121040000 -0800" stop="20261121045000 -0800">
-    <title lang="zh">The B Side</title>
-    <desc>The host leads conversations exploring current trends in sports, fashion and entertainment; she delves into diverse aspects of popular culture with leading personalities.</desc>
-    <date>2026-11-21</date>
   </programme>
   <programme channel="cinemaone" start="20261121040000 -0800" stop="20261121060000 -0800">
     <title lang="zh">Kuya Wes</title>
