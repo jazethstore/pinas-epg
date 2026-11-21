@@ -773,34 +773,8 @@
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-21</date>
   </programme>
-  <programme channel="one_ph" start="20261121080000 -0800" stop="20261121090000 -0800">
-    <title lang="zh">LIVE Ride Radio</title>
-    <desc />
-    <date>20261121</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="tfc" start="20261121083000 -0800" stop="20261121090000 -0800">
-    <title lang="zh">MY Puhunan: Kaya Mo!</title>
-    <desc>Karen Davila, an award-winning broadcast journalist, talks about different arenas of businesses and the people associated with them.</desc>
-    <date>2026-11-21</date>
-  </programme>
   <programme start="20261121084500 -0800" stop="20261121093000 -0800" channel="gmapinoytv_asia">
     <title lang="en">BBLGang</title>
-  </programme>
-  <programme channel="one_ph" start="20261121090000 -0800" stop="20261121100000 -0800">
-    <title lang="zh">LIVE Frontline Weekend</title>
-    <desc />
-    <date>20261121</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="tfc" start="20261121090000 -0800" stop="20261121100000 -0800">
-    <title lang="zh">Tabing Ilog</title>
-    <desc />
-    <date>2026-11-21</date>
   </programme>
   <programme start="20261121093000 -0800" stop="20261121103000 -0800" channel="gmapinoytv_asia">
     <title lang="en">Pepito Manaloto, Tuloy Ang Kuwento</title>
@@ -937,9 +911,24 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme channel="gma_news_tv_410428" start="20261121160000 -0800" stop="20261121164500 -0800">
+    <title lang="zh">Agripreneur</title>
+    <desc>Features the local agriculture industry from practical tips on animal raising and planting to stories of entrepreneurs behind the country's most profitable farms and agricultural spaces.</desc>
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261121161500 -0800" stop="20261121170000 -0800">
+    <title lang="zh">Biyahe Ni Drew</title>
+    <desc>Let Drew Arellano be your personal tour guide every week on GMA Life TV's top travel show. Travel hacks, bucket list ideas, and tipid tips for local and international? Biyahero Drew has got you covered!</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme channel="tfc" start="20261121162000 -0800" stop="20261121170000 -0800">
     <title lang="zh">Are You G? With MJ Felipe</title>
     <desc />
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261121164500 -0800" stop="20261121174500 -0800">
+    <title lang="zh">Good News</title>
+    <desc>A program that rounds up the trending feel-good stories in the Philippines and offers fashion tips and affordable healthy recipes for Kapuso viewers on a budget.</desc>
     <date>2026-11-22</date>
   </programme>
   <programme channel="one_ph" start="20261121170000 -0800" stop="20261121180000 -0800">
@@ -960,9 +949,24 @@
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-22</date>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261121170000 -0800" stop="20261121174500 -0800">
+    <title lang="zh">I Juander</title>
+    <desc>A magazine program that delves deep into different aspects of Filipino culture to gain better understanding of traditions, folklore, cuisine, and also demystifying old beliefs and mysteries.</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme channel="tfc" start="20261121173000 -0800" stop="20261121183000 -0800">
     <title lang="zh">TV Patrol Sabado</title>
     <desc>The host provides news reports and updates on politics and socioeconomic developments.</desc>
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261121174500 -0800" stop="20261121181500 -0800">
+    <title lang="zh">I Heart Ph</title>
+    <desc>A travel and lifestyle program that explores beautiful destinations, local culture, food and inspiring stories about Filipino people.</desc>
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261121174500 -0800" stop="20261121180000 -0800">
+    <title lang="zh">Pinoy Klasiks</title>
+    <desc>Explores nostalgic stories, urban legends, and iconic pop culture moments that have left a lasting impact on Philippine history.</desc>
     <date>2026-11-22</date>
   </programme>
   <programme start="20261121180000 -0800" stop="20261121190000 -0800" channel="gmapinoytv_asia">
@@ -976,9 +980,29 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme channel="gma_news_tv_410428" start="20261121180000 -0800" stop="20261121183000 -0800">
+    <title lang="zh">Born Impact</title>
+    <desc>A travel and wildlife program that features breathtaking wildlife encounters and the most extensive archive of nature footages.</desc>
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261121181500 -0800" stop="20261121184500 -0800">
+    <title lang="zh">Sarap 'di Ba?</title>
+    <desc>A talk-variety show hosted by no less than celebrity mom Carmina Villarroel together with her talented twins Mavy and Cassy. Learn new recipes from Carmina and her twins while she shares parenting tips with their Kapuso celebrity guests.</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme channel="tfc" start="20261121183000 -0800" stop="20261121190000 -0800">
     <title lang="zh">Soco: Limited Crime Docu Drama</title>
     <desc />
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261121183000 -0800" stop="20261121193000 -0800">
+    <title lang="zh">Investigative Documentaries</title>
+    <desc>A documentary program that provides in-depth analysis on current national issues.</desc>
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261121184500 -0800" stop="20261121191500 -0800">
+    <title lang="zh">Tunay Na Buhay</title>
+    <desc>Pia Arcanghel takes you on a journey of hope, courage, and determination; real people, real stories providing you with real inspiration.</desc>
     <date>2026-11-22</date>
   </programme>
   <programme start="20261121190000 -0800" stop="20261121210000 -0800" channel="gmapinoytv_asia">
@@ -1002,6 +1026,16 @@
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-22</date>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261121191500 -0800" stop="20261121200000 -0800">
+    <title lang="zh">Heart World</title>
+    <desc>A reality-lifestyle series that follows Heart Evangelista as she opens up about her personal life, relationships, family, fashion career, and experiences around the world.</desc>
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261121193000 -0800" stop="20261121200000 -0800">
+    <title lang="zh">Rescue</title>
+    <desc>A gripping reality-documentary that captures real-time rescue operations and crises, showcasing modern-day heroism in the face of danger.</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme channel="one_ph" start="20261121200000 -0800" stop="20261121210000 -0800">
     <title lang="zh">Discovereats</title>
     <desc />
@@ -1013,6 +1047,16 @@
   <programme channel="tfc" start="20261121200000 -0800" stop="20261121210000 -0800">
     <title lang="zh">Matteo G Primetime</title>
     <desc />
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261121200000 -0800" stop="20261121220000 -0800">
+    <title lang="zh">Reel Life Weekend 'That Boy In The Dark'</title>
+    <desc>A blind teenager experiences strange hauntings while living with his grandfather and uncovers dark family secrets.</desc>
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261121200000 -0800" stop="20261121230000 -0800">
+    <title lang="zh">Dokumentaryo Marathon</title>
+    <desc>A compilation of the award-winning I-Witness documentaries.</desc>
     <date>2026-11-22</date>
   </programme>
   <programme start="20261121210000 -0800" stop="20261121230000 -0800" channel="gmapinoytv_asia">
@@ -1049,6 +1093,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261121220000 -0800" stop="20261121224500 -0800">
+    <title lang="zh">Wish Ko Lang</title>
+    <desc>A public-service program hosted by Vicky Morales that shares real-life stories of Filipinos' struggles and hopes, aiming to inspire and help make meaningful wishes come true.</desc>
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261121224500 -0800" stop="20261121231500 -0800">
+    <title lang="zh">The Final Pitch Dubai</title>
+    <desc>Sixteen ambitious startup founders compete head-to-head in Dubai to secure multi-million dollar investments, mentorship, and strategic partnerships from the Middle East's top venture capitalists and business tycoons.</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme start="20261121230000 -0800" stop="20261121233500 -0800" channel="gmapinoytv_asia">
     <title lang="en">BBLGang</title>
   </programme>
@@ -1065,8 +1119,23 @@
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-22</date>
   </programme>
+  <programme channel="gma_news_tv_410428" start="20261121230000 -0800" stop="20261121234500 -0800">
+    <title lang="zh">Imbestigador</title>
+    <desc>An investigative show highlighting societal issues like corruption, local government problems, illegal activities, poverty, disloyalty, cleanliness, education, wasted public funds, youth, and public health and safety.</desc>
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261121231500 -0800" stop="20261122000000 -0800">
+    <title lang="zh">Biyahe Ni Drew</title>
+    <desc>Let Drew Arellano be your personal tour guide every week on GMA Life TV's top travel show. Travel hacks, bucket list ideas, and tipid tips for local and international? Biyahero Drew has got you covered!</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme start="20261121233500 -0800" stop="20261122002500 -0800" channel="gmapinoytv_asia">
     <title lang="en">Pepito Manaloto, Tuloy Ang Kuwento</title>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261121234500 -0800" stop="20261122003000 -0800">
+    <title lang="zh">Pinoy Crime Stories</title>
+    <desc>The show tackled real-life crimes such as murder, trafficking, and abductions through interviews and dramatizations, offering insight into investigations.</desc>
+    <date>2026-11-22</date>
   </programme>
   <programme channel="one_ph" start="20261122000000 -0800" stop="20261122010000 -0800">
     <title lang="zh">Woman In Action</title>
@@ -1081,8 +1150,18 @@
     <desc />
     <date>2026-11-22</date>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261122000000 -0800" stop="20261122010000 -0800">
+    <title lang="zh">Weekend Getaway</title>
+    <desc>Drew Arellano treats two adventure-seekers to a weekend trip and shows them that traveling can be fun on a budget! Weekend Getaway will showcase affordable, off-the-beaten-track weekend getaway options in the Philippines and around Asia.</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme start="20261122002500 -0800" stop="20261122010000 -0800" channel="gmapinoytv_asia">
     <title lang="en">TBATS On the Go</title>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261122003000 -0800" stop="20261122013000 -0800">
+    <title lang="zh">Investigative Documentaries</title>
+    <desc>A documentary program that provides in-depth analysis on current national issues.</desc>
+    <date>2026-11-22</date>
   </programme>
   <programme start="20261122010000 -0800" stop="20261122013000 -0800" channel="gmapinoytv_asia">
     <title lang="en">I-Witness</title>
@@ -1100,12 +1179,22 @@
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-22</date>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261122010000 -0800" stop="20261122020000 -0800">
+    <title lang="zh">Pinoy M.d.</title>
+    <desc>A public affairs program which provides information on diseases and medical concerns of the people nowadays.</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme start="20261122013000 -0800" stop="20261122031500 -0800" channel="gmapinoytv_asia">
     <title lang="en">Kapuso Mo Jessica Soho</title>
   </programme>
   <programme channel="tfc" start="20261122013000 -0800" stop="20261122020000 -0800">
     <title lang="zh">Soco: Limited Crime Docu Drama</title>
     <desc />
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261122013000 -0800" stop="20261122020000 -0800">
+    <title lang="zh">Front Row</title>
+    <desc>Features a different full-length, cinema verite style documentary that often tackles social issues such as poverty and corruption.</desc>
     <date>2026-11-22</date>
   </programme>
   <programme channel="one_ph" start="20261122020000 -0800" stop="20261122023000 -0800">
@@ -1126,6 +1215,16 @@
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-22</date>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261122020000 -0800" stop="20261122023000 -0800">
+    <title lang="zh">Aha!</title>
+    <desc>An informative and educational program that promises to share interesting facts and trivia about a wide range of topics to the viewers.</desc>
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261122020000 -0800" stop="20261122030000 -0800">
+    <title lang="zh">Pera Paraan</title>
+    <desc>Offers practical tips on handling household finances and earning additional income.</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme channel="one_ph" start="20261122023000 -0800" stop="20261122030000 -0800">
     <title lang="zh">Kiddie Explorers</title>
     <desc />
@@ -1133,6 +1232,11 @@
     <audio>
       <stereo>stereo</stereo>
     </audio>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261122023000 -0800" stop="20261122031500 -0800">
+    <title lang="zh">Regal Studio Presents</title>
+    <desc>A collection of weekly specials which feature timely, feel-good stories.</desc>
+    <date>2026-11-22</date>
   </programme>
   <programme channel="one_ph" start="20261122030000 -0800" stop="20261122043000 -0800">
     <title lang="zh">LIVE Holy Mass</title>
@@ -1147,12 +1251,32 @@
     <desc>A renowned chef reimagines Filipino cuisine with plant-based flavors, honoring its cultural heritage.</desc>
     <date>2026-11-22</date>
   </programme>
+  <programme channel="gma_news_tv_410428" start="20261122030000 -0800" stop="20261122033000 -0800">
+    <title lang="zh">Agripreneur</title>
+    <desc>Features the local agriculture industry from practical tips on animal raising and planting to stories of entrepreneurs behind the country's most profitable farms and agricultural spaces.</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme start="20261122031500 -0800" stop="20261122040000 -0800" channel="gmapinoytv_asia">
     <title lang="en">24 Oras Weekend</title>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261122031500 -0800" stop="20261122034500 -0800">
+    <title lang="zh">Taste Buddies</title>
+    <desc>Solenn and Gil serve up new experiences through mouth-watering food features, trips to the most happening places and explorations on the different facets of Filipino modern living.</desc>
+    <date>2026-11-22</date>
   </programme>
   <programme channel="tfc" start="20261122033000 -0800" stop="20261122040000 -0800">
     <title lang="zh">Ano Na Bev?</title>
     <desc>The host invites prominent personalities from different fields to discuss their journey towards excellence and become an inspiration to many.</desc>
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261122033000 -0800" stop="20261122041500 -0800">
+    <title lang="zh">Imbestigador</title>
+    <desc>An investigative show highlighting societal issues like corruption, local government problems, illegal activities, poverty, disloyalty, cleanliness, education, wasted public funds, youth, and public health and safety.</desc>
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261122034500 -0800" stop="20261122043000 -0800">
+    <title lang="zh">Pop Talk</title>
+    <desc>Delivers unbiased, honest reviews on everything from movies to gadgets; food to events; and destinations to happening places.</desc>
     <date>2026-11-22</date>
   </programme>
   <programme start="20261122040000 -0800" stop="20261122041500 -0800" channel="gmapinoytv_asia">
@@ -1171,6 +1295,11 @@
   <programme start="20261122041500 -0800" stop="20261122051500 -0800" channel="gmapinoytv_asia">
     <title lang="en">Magpakailanman</title>
   </programme>
+  <programme channel="gma_news_tv_410428" start="20261122041500 -0800" stop="20261122050000 -0800">
+    <title lang="zh">Pinoy Crime Stories</title>
+    <desc>The show tackled real-life crimes such as murder, trafficking, and abductions through interviews and dramatizations, offering insight into investigations.</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme channel="one_ph" start="20261122043000 -0800" stop="20261122053000 -0800">
     <title lang="zh">Stars Under Pressure</title>
     <desc />
@@ -1179,13 +1308,28 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261122043000 -0800" stop="20261122051500 -0800">
+    <title lang="zh">I</title>
+    <desc>Features raw, heartfelt, and intimate conversations highlighting extraordinary Filipino stories.</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme channel="tfc" start="20261122045000 -0800" stop="20261122052000 -0800">
     <title lang="zh">Juan Conversations With Rose Eclarinal</title>
     <desc>Not just any ordinary conversation; every episode promises to shine a light on every "Juan" in Europe and around the world.</desc>
     <date>2026-11-22</date>
   </programme>
+  <programme channel="gma_news_tv_410428" start="20261122050000 -0800" stop="20261122053000 -0800">
+    <title lang="zh">Born Impact</title>
+    <desc>A travel and wildlife program that features breathtaking wildlife encounters and the most extensive archive of nature footages.</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme start="20261122051500 -0800" stop="20261122061500 -0800" channel="gmapinoytv_asia">
     <title lang="en">The Voice Kids</title>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261122051500 -0800" stop="20261122060000 -0800">
+    <title lang="zh">Farm To Table</title>
+    <desc>Chef JR gives our viewers a peek into the fascinating process of food preparation -- from picking and harvesting fresh ingredients to cooking and plating a delicious dish.</desc>
+    <date>2026-11-22</date>
   </programme>
   <programme channel="tfc" start="20261122052000 -0800" stop="20261122062000 -0800">
     <title lang="zh">The Healing Eucharist</title>
@@ -1200,6 +1344,11 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme channel="gma_news_tv_410428" start="20261122053000 -0800" stop="20261122103000 -0800">
+    <title lang="zh">Reel Time Marathon</title>
+    <desc>A reality documentary program that features honest and unpretentious stories of simple people and takes an unfiltered look at various social issues.</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme channel="one_ph" start="20261122060000 -0800" stop="20261122063000 -0800">
     <title lang="zh">Dokumentado</title>
     <desc />
@@ -1211,6 +1360,11 @@
   <programme channel="cinemaone" start="20261122060000 -0800" stop="20261122080000 -0800">
     <title lang="zh">Pak! Pak! My Dr. Kwak</title>
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261122060000 -0800" stop="20261122064500 -0800">
+    <title lang="zh">Pinas Sarap</title>
+    <desc>A food and travel program that aims to discover the origins of our favorite Pinoy cuisines by traveling to various places in the country.</desc>
     <date>2026-11-22</date>
   </programme>
   <programme start="20261122061500 -0800" stop="20261122070000 -0800" channel="gmapinoytv_asia">
@@ -1229,12 +1383,22 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261122064500 -0800" stop="20261122071500 -0800">
+    <title lang="zh">I Heart Ph</title>
+    <desc>A travel and lifestyle program that explores beautiful destinations, local culture, food and inspiring stories about Filipino people.</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme start="20261122070000 -0800" stop="20261122080000 -0800" channel="gmapinoytv_asia">
     <title lang="en">Tadhana</title>
   </programme>
   <programme channel="tfc" start="20261122070000 -0800" stop="20261122073000 -0800">
     <title lang="zh">So Jannelle</title>
     <desc>The host, Janelle So, invites politicians, celebrities, chefs, athletes, businessmen, and local experts to discuss various topics concerning the country.</desc>
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261122071500 -0800" stop="20261122081500 -0800">
+    <title lang="zh">Pinoy M.d.</title>
+    <desc>A public affairs program which provides information on diseases and medical concerns of the people nowadays.</desc>
     <date>2026-11-22</date>
   </programme>
   <programme channel="one_ph" start="20261122073000 -0800" stop="20261122083000 -0800">
@@ -1255,6 +1419,11 @@
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-22</date>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261122081500 -0800" stop="20261122084500 -0800">
+    <title lang="zh">Heart World</title>
+    <desc>A reality-lifestyle series that follows Heart Evangelista as she opens up about her personal life, relationships, family, fashion career, and experiences around the world.</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme channel="one_ph" start="20261122083000 -0800" stop="20261122090000 -0800">
     <title lang="zh">Presinto 5</title>
     <desc />
@@ -1266,6 +1435,11 @@
   <programme channel="tfc" start="20261122083000 -0800" stop="20261122090000 -0800">
     <title lang="zh">Kapamilya Journeys of Hope with Fr. Tito Caluag</title>
     <desc />
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261122084500 -0800" stop="20261122091500 -0800">
+    <title lang="zh">The Final Pitch Dubai</title>
+    <desc>Sixteen ambitious startup founders compete head-to-head in Dubai to secure multi-million dollar investments, mentorship, and strategic partnerships from the Middle East's top venture capitalists and business tycoons.</desc>
     <date>2026-11-22</date>
   </programme>
   <programme channel="one_ph" start="20261122090000 -0800" stop="20261122100000 -0800">
@@ -1281,6 +1455,11 @@
     <desc>Gabo and Trisha come from different backgrounds: Trisha has spent 20 years living in the United States, while Gabo has been working different jobs to make ends meet in the Philippines. The two cross paths when Trish returns to the country.</desc>
     <date>2026-11-22</date>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261122091500 -0800" stop="20261122100000 -0800">
+    <title lang="zh">Farm To Table</title>
+    <desc>Chef JR gives our viewers a peek into the fascinating process of food preparation -- from picking and harvesting fresh ingredients to cooking and plating a delicious dish.</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme channel="one_ph" start="20261122100000 -0800" stop="20261122110000 -0800">
     <title lang="zh">Kapatid Mo, Idol Rafy Tulfo</title>
     <desc />
@@ -1294,6 +1473,21 @@
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-22</date>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261122100000 -0800" stop="20261122104500 -0800">
+    <title lang="zh">Biyahe Ni Drew</title>
+    <desc>Let Drew Arellano be your personal tour guide every week on GMA Life TV's top travel show. Travel hacks, bucket list ideas, and tipid tips for local and international? Biyahero Drew has got you covered!</desc>
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261122103000 -0800" stop="20261122133000 -0800">
+    <title lang="zh">Dokumentaryo Marathon</title>
+    <desc>A compilation of the award-winning I-Witness documentaries.</desc>
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261122104500 -0800" stop="20261122113000 -0800">
+    <title lang="zh">Pinas Sarap</title>
+    <desc>A food and travel program that aims to discover the origins of our favorite Pinoy cuisines by traveling to various places in the country.</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme channel="one_ph" start="20261122110000 -0800" stop="20261122120000 -0800">
     <title lang="zh">Gretchen Ho Reports</title>
     <desc />
@@ -1305,6 +1499,11 @@
   <programme channel="tfc" start="20261122110000 -0800" stop="20261122120000 -0800">
     <title lang="zh">Y Speak 2.0</title>
     <desc>A civic education talk show for the next generation of Filipinos, transforming the Filipino youth's voice into something more informed and driven toward purposeful action.</desc>
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261122113000 -0800" stop="20261122120000 -0800">
+    <title lang="zh">Born To Be Wild</title>
+    <desc>A travel and wildlife documentary series that brings viewers up close with nature, wildlife, and environmental conservation issues across the Philippines and beyond.</desc>
     <date>2026-11-22</date>
   </programme>
   <programme channel="one_ph" start="20261122120000 -0800" stop="20261122123000 -0800">
@@ -1325,6 +1524,11 @@
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-22</date>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261122120000 -0800" stop="20261122124500 -0800">
+    <title lang="zh">Wish Ko Lang</title>
+    <desc>A public-service program hosted by Vicky Morales that shares real-life stories of Filipinos' struggles and hopes, aiming to inspire and help make meaningful wishes come true.</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme channel="one_ph" start="20261122123000 -0800" stop="20261122130000 -0800">
     <title lang="zh">Patriots</title>
     <desc />
@@ -1332,6 +1536,11 @@
     <audio>
       <stereo>stereo</stereo>
     </audio>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261122124500 -0800" stop="20261122134500 -0800">
+    <title lang="zh">Kalurks</title>
+    <desc>The show rounds up the top trending topics, hottest issues, and viral content of the week, covering a wide range of stories in showbiz, pop culture, and social media as well as sports, politics and current events.</desc>
+    <date>2026-11-22</date>
   </programme>
   <programme channel="one_ph" start="20261122130000 -0800" stop="20261122133000 -0800">
     <title lang="zh">Ride PH</title>
@@ -1359,9 +1568,29 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme channel="gma_news_tv_410428" start="20261122133000 -0800" stop="20261122141500 -0800">
+    <title lang="zh">Front Row</title>
+    <desc>Features a different full-length, cinema verite style documentary that often tackles social issues such as poverty and corruption.</desc>
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261122134500 -0800" stop="20261122141500 -0800">
+    <title lang="zh">Aha!</title>
+    <desc>An informative and educational program that promises to share interesting facts and trivia about a wide range of topics to the viewers.</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme channel="tfc" start="20261122140000 -0800" stop="20261122150000 -0800">
     <title lang="zh">Kapamilya Deal or No Deal</title>
     <desc>The contestants receive a set of briefcases with randomly assigned amounts of prize money and rely on their luck and wits to win the biggest prize.</desc>
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261122141500 -0800" stop="20261122150000 -0800">
+    <title lang="zh">I Juander</title>
+    <desc>A magazine program that delves deep into different aspects of Filipino culture to gain better understanding of traditions, folklore, cuisine, and also demystifying old beliefs and mysteries.</desc>
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261122141500 -0800" stop="20261122144500 -0800">
+    <title lang="zh">Agripreneur</title>
+    <desc>Features the local agriculture industry from practical tips on animal raising and planting to stories of entrepreneurs behind the country's most profitable farms and agricultural spaces.</desc>
     <date>2026-11-22</date>
   </programme>
   <programme channel="one_ph" start="20261122143000 -0800" stop="20261122150000 -0800">
@@ -1371,6 +1600,11 @@
     <audio>
       <stereo>stereo</stereo>
     </audio>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261122144500 -0800" stop="20261122153000 -0800">
+    <title lang="zh">Good News</title>
+    <desc>A program that rounds up the trending feel-good stories in the Philippines and offers fashion tips and affordable healthy recipes for Kapuso viewers on a budget.</desc>
+    <date>2026-11-22</date>
   </programme>
   <programme channel="one_ph" start="20261122150000 -0800" stop="20261122160000 -0800">
     <title lang="zh">Dokumentado</title>
@@ -1390,6 +1624,21 @@
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-22</date>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261122150000 -0800" stop="20261122153000 -0800">
+    <title lang="zh">I Bilib</title>
+    <desc>The show features scientific experiments and explores different scientific facts and theories surrounding everyday events presented in magical manner. The show also features some cosplay pictures by different cosplayers.</desc>
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261122153000 -0800" stop="20261122160000 -0800">
+    <title lang="zh">Taste Buddies</title>
+    <desc>Solenn and Gil serve up new experiences through mouth-watering food features, trips to the most happening places and explorations on the different facets of Filipino modern living.</desc>
+    <date>2026-11-22</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261122153000 -0800" stop="20261122160000 -0800">
+    <title lang="zh">Dobol B TV</title>
+    <desc>Various newscasts and programs of Super Radyo DZBB delivers the much-needed news and information to its viewers.</desc>
+    <date>2026-11-22</date>
+  </programme>
   <programme channel="one_ph" start="20261122160000 -0800" stop="20261122170000 -0800">
     <title lang="zh">Woman In Action</title>
     <desc />
@@ -1401,6 +1650,16 @@
   <programme channel="tfc" start="20261122160000 -0800" stop="20261123160000 -0800">
     <title lang="zh">Home Away From Home</title>
     <desc>Filipinos settled abroad share their stories and explore cultural exchanges of the community while being away from home.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261122160000 -0800" stop="20261122164500 -0800">
+    <title lang="zh">Farm To Table</title>
+    <desc>Chef JR gives our viewers a peek into the fascinating process of food preparation -- from picking and harvesting fresh ingredients to cooking and plating a delicious dish.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261122164500 -0800" stop="20261122173000 -0800">
+    <title lang="zh">Pinas Sarap</title>
+    <desc>A food and travel program that aims to discover the origins of our favorite Pinoy cuisines by traveling to various places in the country.</desc>
     <date>2026-11-23</date>
   </programme>
   <programme channel="one_ph" start="20261122170000 -0800" stop="20261122180000 -0800">
@@ -1416,6 +1675,11 @@
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-23</date>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261122173000 -0800" stop="20261122183000 -0800">
+    <title lang="zh">Kalurks</title>
+    <desc>The show rounds up the top trending topics, hottest issues, and viral content of the week, covering a wide range of stories in showbiz, pop culture, and social media as well as sports, politics and current events.</desc>
+    <date>2026-11-23</date>
+  </programme>
   <programme channel="one_ph" start="20261122180000 -0800" stop="20261122190000 -0800">
     <title lang="zh">Chink Positive</title>
     <desc />
@@ -1423,6 +1687,16 @@
     <audio>
       <stereo>stereo</stereo>
     </audio>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261122183000 -0800" stop="20261122191500 -0800">
+    <title lang="zh">I</title>
+    <desc>Features raw, heartfelt, and intimate conversations highlighting extraordinary Filipino stories.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261122184500 -0800" stop="20261122193000 -0800">
+    <title lang="zh">Dokumentaryo</title>
+    <desc>A compilation of the award-winning I-Witness documentaries.</desc>
+    <date>2026-11-23</date>
   </programme>
   <programme channel="one_ph" start="20261122190000 -0800" stop="20261122200000 -0800">
     <title lang="zh">Stars Under Pressure</title>
@@ -1435,6 +1709,16 @@
   <programme channel="cinemaone" start="20261122190000 -0800" stop="20261122200000 -0800">
     <title lang="zh">The B Side</title>
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261122191500 -0800" stop="20261122200000 -0800">
+    <title lang="zh">Turbo Zone</title>
+    <desc>A young, dynamic, fresh take motoring show in the Philippines that allows us to satiate our appetite for cars, motoring gadgets and automotive market trends.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261122193000 -0800" stop="20261122203000 -0800">
+    <title lang="zh">Brigada</title>
+    <desc>An award-winning investigative documentary program hosted by multi-awarded broadcast journalist Kara David.</desc>
     <date>2026-11-23</date>
   </programme>
   <programme channel="one_ph" start="20261122200000 -0800" stop="20261122220000 -0800">
@@ -1450,6 +1734,36 @@
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-23</date>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261122200000 -0800" stop="20261122203000 -0800">
+    <title lang="zh">Dami Mong Alam, Kuya Kim!</title>
+    <desc>A family-friendly magazine show that showcases viral videos from social media, offering deeper insights and added value by exploring the stories behind the videos and providing a fresh perspective on the lessons viewers can learn from them.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261122203000 -0800" stop="20261122211500 -0800">
+    <title lang="zh">Heart World</title>
+    <desc>A reality-lifestyle series that follows Heart Evangelista as she opens up about her personal life, relationships, family, fashion career, and experiences around the world.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261122203000 -0800" stop="20261122213000 -0800">
+    <title lang="zh">Good News</title>
+    <desc>A program that rounds up the trending feel-good stories in the Philippines and offers fashion tips and affordable healthy recipes for Kapuso viewers on a budget.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261122211500 -0800" stop="20261122214500 -0800">
+    <title lang="zh">Aha!</title>
+    <desc>An informative and educational program that promises to share interesting facts and trivia about a wide range of topics to the viewers.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261122213000 -0800" stop="20261122221500 -0800">
+    <title lang="zh">Pinoy Crime Stories</title>
+    <desc>The show tackled real-life crimes such as murder, trafficking, and abductions through interviews and dramatizations, offering insight into investigations.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261122214500 -0800" stop="20261122221500 -0800">
+    <title lang="zh">I Bilib</title>
+    <desc>The show features scientific experiments and explores different scientific facts and theories surrounding everyday events presented in magical manner. The show also features some cosplay pictures by different cosplayers.</desc>
+    <date>2026-11-23</date>
+  </programme>
   <programme channel="one_ph" start="20261122220000 -0800" stop="20261123030000 -0800">
     <title lang="zh">LIVE Ted Failon DJ Cha Cha Sa Radyo 5</title>
     <desc />
@@ -1463,14 +1777,74 @@
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-23</date>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261122221500 -0800" stop="20261122231500 -0800">
+    <title lang="zh">Balitanghali</title>
+    <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261122221500 -0800" stop="20261122231500 -0800">
+    <title lang="zh">Investigative Documentaries</title>
+    <desc>A documentary program that provides in-depth analysis on current national issues.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261122231500 -0800" stop="20261123000000 -0800">
+    <title lang="zh">Kalurks</title>
+    <desc>The show rounds up the top trending topics, hottest issues, and viral content of the week, covering a wide range of stories in showbiz, pop culture, and social media as well as sports, politics and current events.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261122231500 -0800" stop="20261122234500 -0800">
+    <title lang="zh">Agripreneur</title>
+    <desc>Features the local agriculture industry from practical tips on animal raising and planting to stories of entrepreneurs behind the country's most profitable farms and agricultural spaces.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261122234500 -0800" stop="20261123001500 -0800">
+    <title lang="zh">Born Impact</title>
+    <desc>A travel and wildlife program that features breathtaking wildlife encounters and the most extensive archive of nature footages.</desc>
+    <date>2026-11-23</date>
+  </programme>
   <programme channel="cinemaone" start="20261123000000 -0800" stop="20261123020000 -0800">
     <title lang="zh">Foster Child</title>
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-23</date>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261123000000 -0800" stop="20261123020000 -0800">
+    <title lang="zh">Reel Life</title>
+    <desc>Movie</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123001500 -0800" stop="20261123010000 -0800">
+    <title lang="zh">Dokumentaryo</title>
+    <desc>A compilation of the award-winning I-Witness documentaries.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123010000 -0800" stop="20261123020000 -0800">
+    <title lang="zh">Balitanghali</title>
+    <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
+    <date>2026-11-23</date>
+  </programme>
   <programme channel="cinemaone" start="20261123020000 -0800" stop="20261123040000 -0800">
     <title lang="zh">Bala Ko... Bahala Sa'yo</title>
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261123020000 -0800" stop="20261123024500 -0800">
+    <title lang="zh">My Father's Wife</title>
+    <desc>A drama about childhood best friends Gina and Betsy whose friendship turns into a bitter rivalry when Gina falls in love with Betsy's boyfriend and Betsy retaliates by marrying Gina's father.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123020000 -0800" stop="20261123024500 -0800">
+    <title lang="zh">Rescue</title>
+    <desc>A gripping reality-documentary that captures real-time rescue operations and crises, showcasing modern-day heroism in the face of danger.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261123024500 -0800" stop="20261123034500 -0800">
+    <title lang="zh">Bubble Gang Fun Size</title>
+    <desc>Features a collection of classic comedy sketches, parodies, and unforgettable moments from the iconic Filipino gag show.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123024500 -0800" stop="20261123030000 -0800">
+    <title lang="zh">Pinoy Klasiks</title>
+    <desc>Explores nostalgic stories, urban legends, and iconic pop culture moments that have left a lasting impact on Philippine history.</desc>
     <date>2026-11-23</date>
   </programme>
   <programme channel="one_ph" start="20261123030000 -0800" stop="20261123040000 -0800">
@@ -1480,6 +1854,21 @@
     <audio>
       <stereo>stereo</stereo>
     </audio>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123030000 -0800" stop="20261123034500 -0800">
+    <title lang="zh">Pinoy Crime Stories</title>
+    <desc>The show tackled real-life crimes such as murder, trafficking, and abductions through interviews and dramatizations, offering insight into investigations.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261123034500 -0800" stop="20261123043000 -0800">
+    <title lang="zh">Idol Sa Kusina</title>
+    <desc>An entertaining and informative cooking program that showcases scrumptious cuisines. Together with the celebrities, the show unfolds topnotch kitchen skills and culinary secrets that will make cooking dishes effortless.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123034500 -0800" stop="20261123043000 -0800">
+    <title lang="zh">Front Row</title>
+    <desc>Features a different full-length, cinema verite style documentary that often tackles social issues such as poverty and corruption.</desc>
+    <date>2026-11-23</date>
   </programme>
   <programme channel="one_ph" start="20261123040000 -0800" stop="20261123050000 -0800">
     <title lang="zh">LIVE One Balita Pilipinas Noon</title>
@@ -1494,6 +1883,16 @@
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-23</date>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261123043000 -0800" stop="20261123051500 -0800">
+    <title lang="zh">Chika Cart</title>
+    <desc>Three vibrant personalities collaborate in one-stop tambayan for your daily celebrity chika, energetic banter, and checkout-worthy finds.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123043000 -0800" stop="20261123051500 -0800">
+    <title lang="zh">Pera Paraan</title>
+    <desc>Offers practical tips on handling household finances and earning additional income.</desc>
+    <date>2026-11-23</date>
+  </programme>
   <programme channel="one_ph" start="20261123050000 -0800" stop="20261123060000 -0800">
     <title lang="zh">LIVE Cristy Ferminute</title>
     <desc />
@@ -1501,6 +1900,16 @@
     <audio>
       <stereo>stereo</stereo>
     </audio>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261123051500 -0800" stop="20261123061500 -0800">
+    <title lang="zh">Kalurks</title>
+    <desc>The show rounds up the top trending topics, hottest issues, and viral content of the week, covering a wide range of stories in showbiz, pop culture, and social media as well as sports, politics and current events.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123051500 -0800" stop="20261123061500 -0800">
+    <title lang="zh">Brigada</title>
+    <desc>An award-winning investigative documentary program hosted by multi-awarded broadcast journalist Kara David.</desc>
+    <date>2026-11-23</date>
   </programme>
   <programme channel="one_ph" start="20261123060000 -0800" stop="20261123080000 -0800">
     <title lang="zh">LIVE Wanted Sa Radyo</title>
@@ -1513,6 +1922,31 @@
   <programme channel="cinemaone" start="20261123060000 -0800" stop="20261123080000 -0800">
     <title lang="zh">Buhawi Jack</title>
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261123061500 -0800" stop="20261123071500 -0800">
+    <title lang="zh">Balitanghali</title>
+    <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123061500 -0800" stop="20261123064500 -0800">
+    <title lang="zh">Usap</title>
+    <desc>A news and information program that will track, test and resolve trending claims, whispers and viral posts. It will investigate what's true, false or unclear and updates as facts develop.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123064500 -0800" stop="20261123074500 -0800">
+    <title lang="zh">Balitanghali</title>
+    <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261123071500 -0800" stop="20261123080000 -0800">
+    <title lang="zh">Born To Be Wild</title>
+    <desc>A travel and wildlife documentary series that brings viewers up close with nature, wildlife, and environmental conservation issues across the Philippines and beyond.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123074500 -0800" stop="20261123084500 -0800">
+    <title lang="zh">Pickle Yard Conference League Season 2</title>
+    <desc>The Philippines' first professional pickleball league, featuring franchise teams and a structured national competition.</desc>
     <date>2026-11-23</date>
   </programme>
   <programme channel="one_ph" start="20261123080000 -0800" stop="20261123084500 -0800">
@@ -1528,6 +1962,11 @@
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-23</date>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261123080000 -0800" stop="20261123084500 -0800">
+    <title lang="zh">Chika Cart</title>
+    <desc>Three vibrant personalities collaborate in one-stop tambayan for your daily celebrity chika, energetic banter, and checkout-worthy finds.</desc>
+    <date>2026-11-23</date>
+  </programme>
   <programme channel="one_ph" start="20261123084500 -0800" stop="20261123090000 -0800">
     <title lang="zh">One Balita Bai</title>
     <desc />
@@ -1536,6 +1975,16 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261123084500 -0800" stop="20261123094500 -0800">
+    <title lang="zh">Bubble Gang Fun Size</title>
+    <desc>Features a collection of classic comedy sketches, parodies, and unforgettable moments from the iconic Filipino gag show.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123084500 -0800" stop="20261123091500 -0800">
+    <title lang="zh">State Of The Nation</title>
+    <desc>The flagship nightly news program that delivers the latest news and happenings around the country.</desc>
+    <date>2026-11-23</date>
+  </programme>
   <programme channel="one_ph" start="20261123090000 -0800" stop="20261123100000 -0800">
     <title lang="zh">LIVE Amoy Chico: Usapang May Tama</title>
     <desc />
@@ -1543,6 +1992,16 @@
     <audio>
       <stereo>stereo</stereo>
     </audio>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123091500 -0800" stop="20261123100000 -0800">
+    <title lang="zh">Good News</title>
+    <desc>A program that rounds up the trending feel-good stories in the Philippines and offers fashion tips and affordable healthy recipes for Kapuso viewers on a budget.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261123094500 -0800" stop="20261123103000 -0800">
+    <title lang="zh">Idol Sa Kusina</title>
+    <desc>An entertaining and informative cooking program that showcases scrumptious cuisines. Together with the celebrities, the show unfolds topnotch kitchen skills and culinary secrets that will make cooking dishes effortless.</desc>
+    <date>2026-11-23</date>
   </programme>
   <programme channel="one_ph" start="20261123100000 -0800" stop="20261123103000 -0800">
     <title lang="zh">LIVE Una sa Lahat</title>
@@ -1557,6 +2016,11 @@
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-23</date>
   </programme>
+  <programme channel="gma_news_tv_410428" start="20261123100000 -0800" stop="20261123103000 -0800">
+    <title lang="zh">Saksi</title>
+    <desc>Brings up-to-the-minute news relentlessly delivering breaking stories and covering live reports.</desc>
+    <date>2026-11-23</date>
+  </programme>
   <programme channel="one_ph" start="20261123103000 -0800" stop="20261123120000 -0800">
     <title lang="zh">LIVE Frontline Pilipinas</title>
     <desc />
@@ -1564,6 +2028,26 @@
     <audio>
       <stereo>stereo</stereo>
     </audio>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261123103000 -0800" stop="20261123123000 -0800">
+    <title lang="zh">Reel Life</title>
+    <desc>Movie</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123103000 -0800" stop="20261123110000 -0800">
+    <title lang="zh">Usap</title>
+    <desc>A news and information program that will track, test and resolve trending claims, whispers and viral posts. It will investigate what's true, false or unclear and updates as facts develop.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123110000 -0800" stop="20261123113000 -0800">
+    <title lang="zh">Balitang Bisdak</title>
+    <desc>Provides news and features around Cebu and the rest of Central Visayas including Negros Oriental, Bohol, and Siquijor.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123113000 -0800" stop="20261123120000 -0800">
+    <title lang="zh">One North Central Luzon</title>
+    <desc>Delivers all the freshest news, events, and updates from North Central Luzon.</desc>
+    <date>2026-11-23</date>
   </programme>
   <programme channel="one_ph" start="20261123120000 -0800" stop="20261123130000 -0800">
     <title lang="zh">Sa Totoo Lang</title>
@@ -1578,6 +2062,21 @@
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-23</date>
   </programme>
+  <programme channel="gma_news_tv_410428" start="20261123120000 -0800" stop="20261123124500 -0800">
+    <title lang="zh">One Mindanao</title>
+    <desc>The newscast covers the most significant news and features in six regions in Mindanao.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261123123000 -0800" stop="20261123131500 -0800">
+    <title lang="zh">My Father's Wife</title>
+    <desc>A drama about childhood best friends Gina and Betsy whose friendship turns into a bitter rivalry when Gina falls in love with Betsy's boyfriend and Betsy retaliates by marrying Gina's father.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123124500 -0800" stop="20261123133000 -0800">
+    <title lang="zh">Ratsada Balita</title>
+    <desc>Brings in-depth and comprehensive news from across Western Visayan region, delivered in Hiligaynon language.</desc>
+    <date>2026-11-23</date>
+  </programme>
   <programme channel="one_ph" start="20261123130000 -0800" stop="20261123133000 -0800">
     <title lang="zh">Doctor Next Door</title>
     <desc />
@@ -1586,6 +2085,11 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261123131500 -0800" stop="20261123141500 -0800">
+    <title lang="zh">Balitanghali</title>
+    <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
+    <date>2026-11-23</date>
+  </programme>
   <programme channel="one_ph" start="20261123133000 -0800" stop="20261123140000 -0800">
     <title lang="zh">Gus Abelgas Forensics</title>
     <desc />
@@ -1593,6 +2097,11 @@
     <audio>
       <stereo>stereo</stereo>
     </audio>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123133000 -0800" stop="20261123141500 -0800">
+    <title lang="zh">State Of The Nation</title>
+    <desc>The flagship nightly news program that delivers the latest news and happenings around the country.</desc>
+    <date>2026-11-23</date>
   </programme>
   <programme channel="one_ph" start="20261123140000 -0800" stop="20261123144500 -0800">
     <title lang="zh">Kapatid Mo Idol Raffy Tulfo</title>
@@ -1607,6 +2116,16 @@
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-23</date>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261123141500 -0800" stop="20261123150000 -0800">
+    <title lang="zh">Chika Cart</title>
+    <desc>Three vibrant personalities collaborate in one-stop tambayan for your daily celebrity chika, energetic banter, and checkout-worthy finds.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123141500 -0800" stop="20261123144500 -0800">
+    <title lang="zh">Saksi</title>
+    <desc>Brings up-to-the-minute news relentlessly delivering breaking stories and covering live reports.</desc>
+    <date>2026-11-23</date>
+  </programme>
   <programme channel="one_ph" start="20261123144500 -0800" stop="20261123150000 -0800">
     <title lang="zh">Dokumentado</title>
     <desc />
@@ -1615,6 +2134,11 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  <programme channel="gma_news_tv_410428" start="20261123144500 -0800" stop="20261123153000 -0800">
+    <title lang="zh">Pinoy Crime Stories</title>
+    <desc>The show tackled real-life crimes such as murder, trafficking, and abductions through interviews and dramatizations, offering insight into investigations.</desc>
+    <date>2026-11-23</date>
+  </programme>
   <programme channel="one_ph" start="20261123150000 -0800" stop="20261123160000 -0800">
     <title lang="zh">Cristy Ferminute</title>
     <desc />
@@ -1622,6 +2146,21 @@
     <audio>
       <stereo>stereo</stereo>
     </audio>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261123150000 -0800" stop="20261123154500 -0800">
+    <title lang="zh">I Juander</title>
+    <desc>A magazine program that delves deep into different aspects of Filipino culture to gain better understanding of traditions, folklore, cuisine, and also demystifying old beliefs and mysteries.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123153000 -0800" stop="20261123160000 -0800">
+    <title lang="zh">Dobol B TV</title>
+    <desc>Various newscasts and programs of Super Radyo DZBB delivers the much-needed news and information to its viewers.</desc>
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261123154500 -0800" stop="20261123160000 -0800">
+    <title lang="zh">Idol Sa Kusina</title>
+    <desc>An entertaining and informative cooking program that showcases scrumptious cuisines. Together with the celebrities, the show unfolds topnotch kitchen skills and culinary secrets that will make cooking dishes effortless.</desc>
+    <date>2026-11-23</date>
   </programme>
   <programme channel="one_ph" start="20261123160000 -0800" stop="20261123170000 -0800">
     <title lang="zh">Woman In Action</title>
@@ -1641,6 +2180,11 @@
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-24</date>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261123161500 -0800" stop="20261123171500 -0800">
+    <title lang="zh">Bubble Gang Fun Size</title>
+    <desc>Features a collection of classic comedy sketches, parodies, and unforgettable moments from the iconic Filipino gag show.</desc>
+    <date>2026-11-24</date>
+  </programme>
   <programme channel="one_ph" start="20261123170000 -0800" stop="20261123180000 -0800">
     <title lang="zh">Julius And Tintin</title>
     <desc />
@@ -1648,6 +2192,11 @@
     <audio>
       <stereo>stereo</stereo>
     </audio>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261123171500 -0800" stop="20261123181500 -0800">
+    <title lang="zh">Balitanghali</title>
+    <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
+    <date>2026-11-24</date>
   </programme>
   <programme channel="one_ph" start="20261123180000 -0800" stop="20261123200000 -0800">
     <title lang="zh">Wanted Sa Radyo</title>
@@ -1660,6 +2209,31 @@
   <programme channel="cinemaone" start="20261123180000 -0800" stop="20261123200000 -0800">
     <title lang="zh">Ang Tag-Araw Ni Twinkle</title>
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261123181500 -0800" stop="20261123190000 -0800">
+    <title lang="zh">Chika Cart</title>
+    <desc>Three vibrant personalities collaborate in one-stop tambayan for your daily celebrity chika, energetic banter, and checkout-worthy finds.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123184500 -0800" stop="20261123193000 -0800">
+    <title lang="zh">Dokumentaryo</title>
+    <desc>A compilation of the award-winning I-Witness documentaries.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261123190000 -0800" stop="20261123194500 -0800">
+    <title lang="zh">My Father's Wife</title>
+    <desc>A drama about childhood best friends Gina and Betsy whose friendship turns into a bitter rivalry when Gina falls in love with Betsy's boyfriend and Betsy retaliates by marrying Gina's father.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123193000 -0800" stop="20261123200000 -0800">
+    <title lang="zh">Usap</title>
+    <desc>A news and information program that will track, test and resolve trending claims, whispers and viral posts. It will investigate what's true, false or unclear and updates as facts develop.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261123194500 -0800" stop="20261123203000 -0800">
+    <title lang="zh">Idol Sa Kusina</title>
+    <desc>An entertaining and informative cooking program that showcases scrumptious cuisines. Together with the celebrities, the show unfolds topnotch kitchen skills and culinary secrets that will make cooking dishes effortless.</desc>
     <date>2026-11-24</date>
   </programme>
   <programme channel="one_ph" start="20261123200000 -0800" stop="20261123220000 -0800">
@@ -1675,6 +2249,31 @@
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-24</date>
   </programme>
+  <programme channel="gma_news_tv_410428" start="20261123200000 -0800" stop="20261123210000 -0800">
+    <title lang="zh">Pickle Yard Conference League Season 2</title>
+    <desc>The Philippines' first professional pickleball league, featuring franchise teams and a structured national competition.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261123203000 -0800" stop="20261123211500 -0800">
+    <title lang="zh">Pop Talk</title>
+    <desc>Delivers unbiased, honest reviews on everything from movies to gadgets; food to events; and destinations to happening places.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123210000 -0800" stop="20261123214500 -0800">
+    <title lang="zh">Imbestigador</title>
+    <desc>An investigative show highlighting societal issues like corruption, local government problems, illegal activities, poverty, disloyalty, cleanliness, education, wasted public funds, youth, and public health and safety.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261123211500 -0800" stop="20261123221500 -0800">
+    <title lang="zh">Bubble Gang Fun Size</title>
+    <desc>Features a collection of classic comedy sketches, parodies, and unforgettable moments from the iconic Filipino gag show.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123214500 -0800" stop="20261123224500 -0800">
+    <title lang="zh">Brigada</title>
+    <desc>An award-winning investigative documentary program hosted by multi-awarded broadcast journalist Kara David.</desc>
+    <date>2026-11-24</date>
+  </programme>
   <programme channel="one_ph" start="20261123220000 -0800" stop="20261124160000 -0800">
     <title lang="zh">LIVE Ted Failon DJ Cha Cha Sa Radyo 5</title>
     <desc />
@@ -1688,9 +2287,44 @@
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-24</date>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261123221500 -0800" stop="20261123231500 -0800">
+    <title lang="zh">Balitanghali</title>
+    <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123224500 -0800" stop="20261123234500 -0800">
+    <title lang="zh">Pera Paraan</title>
+    <desc>Offers practical tips on handling household finances and earning additional income.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261123231500 -0800" stop="20261124000000 -0800">
+    <title lang="zh">Regal Studio Presents</title>
+    <desc>A collection of weekly specials which feature timely, feel-good stories.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261123234500 -0800" stop="20261124001500 -0800">
+    <title lang="zh">Usap</title>
+    <desc>A news and information program that will track, test and resolve trending claims, whispers and viral posts. It will investigate what's true, false or unclear and updates as facts develop.</desc>
+    <date>2026-11-24</date>
+  </programme>
   <programme channel="cinemaone" start="20261124000000 -0800" stop="20261124020000 -0800">
     <title lang="zh">Pera O Bayong (Not Da Tv)</title>
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261124000000 -0800" stop="20261124020000 -0800">
+    <title lang="zh">Reel Life</title>
+    <desc>Movie</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261124001500 -0800" stop="20261124010000 -0800">
+    <title lang="zh">Dokumentaryo</title>
+    <desc>A compilation of the award-winning I-Witness documentaries.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261124010000 -0800" stop="20261124020000 -0800">
+    <title lang="zh">Balitanghali</title>
+    <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
     <date>2026-11-24</date>
   </programme>
   <programme channel="cinemaone" start="20261124020000 -0800" stop="20261124040000 -0800">
@@ -1698,9 +2332,64 @@
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-24</date>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261124020000 -0800" stop="20261124024500 -0800">
+    <title lang="zh">My Father's Wife</title>
+    <desc>A drama about childhood best friends Gina and Betsy whose friendship turns into a bitter rivalry when Gina falls in love with Betsy's boyfriend and Betsy retaliates by marrying Gina's father.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261124020000 -0800" stop="20261124030000 -0800">
+    <title lang="zh">Pickle Yard Conference League Season 2</title>
+    <desc>The Philippines' first professional pickleball league, featuring franchise teams and a structured national competition.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261124024500 -0800" stop="20261124034500 -0800">
+    <title lang="zh">Bubble Gang Fun Size</title>
+    <desc>Features a collection of classic comedy sketches, parodies, and unforgettable moments from the iconic Filipino gag show.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261124030000 -0800" stop="20261124034500 -0800">
+    <title lang="zh">Balitang Bisdak</title>
+    <desc>Provides news and features around Cebu and the rest of Central Visayas including Negros Oriental, Bohol, and Siquijor.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261124034500 -0800" stop="20261124043000 -0800">
+    <title lang="zh">Idol Sa Kusina</title>
+    <desc>An entertaining and informative cooking program that showcases scrumptious cuisines. Together with the celebrities, the show unfolds topnotch kitchen skills and culinary secrets that will make cooking dishes effortless.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261124034500 -0800" stop="20261124043000 -0800">
+    <title lang="zh">One North Central Luzon</title>
+    <desc>Delivers all the freshest news, events, and updates from North Central Luzon.</desc>
+    <date>2026-11-24</date>
+  </programme>
   <programme channel="cinemaone" start="20261124040000 -0800" stop="20261124060000 -0800">
     <title lang="zh">Fly Me To The Moon</title>
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261124043000 -0800" stop="20261124051500 -0800">
+    <title lang="zh">Chika Cart</title>
+    <desc>Three vibrant personalities collaborate in one-stop tambayan for your daily celebrity chika, energetic banter, and checkout-worthy finds.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261124043000 -0800" stop="20261124051500 -0800">
+    <title lang="zh">One Mindanao</title>
+    <desc>The newscast covers the most significant news and features in six regions in Mindanao.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261124051500 -0800" stop="20261124061500 -0800">
+    <title lang="zh">Regal Studio Presents</title>
+    <desc>A collection of weekly specials which feature timely, feel-good stories.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261124051500 -0800" stop="20261124054500 -0800">
+    <title lang="zh">Ratsada Balita</title>
+    <desc>Brings in-depth and comprehensive news from across Western Visayan region, delivered in Hiligaynon language.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261124054500 -0800" stop="20261124061500 -0800">
+    <title lang="zh">Rescue</title>
+    <desc>A gripping reality-documentary that captures real-time rescue operations and crises, showcasing modern-day heroism in the face of danger.</desc>
     <date>2026-11-24</date>
   </programme>
   <programme channel="cinemaone" start="20261124060000 -0800" stop="20261124080000 -0800">
@@ -1708,9 +2397,59 @@
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-24</date>
   </programme>
+  <programme channel="gma_life_tv_410427" start="20261124061500 -0800" stop="20261124071500 -0800">
+    <title lang="zh">Balitanghali</title>
+    <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261124061500 -0800" stop="20261124064500 -0800">
+    <title lang="zh">Usap</title>
+    <desc>A news and information program that will track, test and resolve trending claims, whispers and viral posts. It will investigate what's true, false or unclear and updates as facts develop.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261124064500 -0800" stop="20261124074500 -0800">
+    <title lang="zh">Balitanghali</title>
+    <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261124071500 -0800" stop="20261124080000 -0800">
+    <title lang="zh">The Final Pitch Dubai</title>
+    <desc>Sixteen ambitious startup founders compete head-to-head in Dubai to secure multi-million dollar investments, mentorship, and strategic partnerships from the Middle East's top venture capitalists and business tycoons.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261124074500 -0800" stop="20261124084500 -0800">
+    <title lang="zh">Pickle Yard Conference League Season 2</title>
+    <desc>The Philippines' first professional pickleball league, featuring franchise teams and a structured national competition.</desc>
+    <date>2026-11-24</date>
+  </programme>
   <programme channel="cinemaone" start="20261124080000 -0800" stop="20261124100000 -0800">
     <title lang="zh">A Mother's Story</title>
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261124080000 -0800" stop="20261124084500 -0800">
+    <title lang="zh">Chika Cart</title>
+    <desc>Three vibrant personalities collaborate in one-stop tambayan for your daily celebrity chika, energetic banter, and checkout-worthy finds.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261124084500 -0800" stop="20261124094500 -0800">
+    <title lang="zh">Bubble Gang Fun Size</title>
+    <desc>Features a collection of classic comedy sketches, parodies, and unforgettable moments from the iconic Filipino gag show.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261124084500 -0800" stop="20261124091500 -0800">
+    <title lang="zh">State Of The Nation</title>
+    <desc>The flagship nightly news program that delivers the latest news and happenings around the country.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261124091500 -0800" stop="20261124100000 -0800">
+    <title lang="zh">Pinoy Crime Stories</title>
+    <desc>The show tackled real-life crimes such as murder, trafficking, and abductions through interviews and dramatizations, offering insight into investigations.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261124094500 -0800" stop="20261124103000 -0800">
+    <title lang="zh">Idol Sa Kusina</title>
+    <desc>An entertaining and informative cooking program that showcases scrumptious cuisines. Together with the celebrities, the show unfolds topnotch kitchen skills and culinary secrets that will make cooking dishes effortless.</desc>
     <date>2026-11-24</date>
   </programme>
   <programme channel="cinemaone" start="20261124100000 -0800" stop="20261124120000 -0800">
@@ -1718,14 +2457,94 @@
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-24</date>
   </programme>
+  <programme channel="gma_news_tv_410428" start="20261124100000 -0800" stop="20261124103000 -0800">
+    <title lang="zh">Saksi</title>
+    <desc>Brings up-to-the-minute news relentlessly delivering breaking stories and covering live reports.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261124103000 -0800" stop="20261124123000 -0800">
+    <title lang="zh">Reel Life</title>
+    <desc>Movie</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261124103000 -0800" stop="20261124110000 -0800">
+    <title lang="zh">Usap</title>
+    <desc>A news and information program that will track, test and resolve trending claims, whispers and viral posts. It will investigate what's true, false or unclear and updates as facts develop.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261124110000 -0800" stop="20261124113000 -0800">
+    <title lang="zh">Balitang Bisdak</title>
+    <desc>Provides news and features around Cebu and the rest of Central Visayas including Negros Oriental, Bohol, and Siquijor.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261124113000 -0800" stop="20261124120000 -0800">
+    <title lang="zh">One North Central Luzon</title>
+    <desc>Delivers all the freshest news, events, and updates from North Central Luzon.</desc>
+    <date>2026-11-24</date>
+  </programme>
   <programme channel="cinemaone" start="20261124120000 -0800" stop="20261124140000 -0800">
     <title lang="zh">Hangga't May Hininga</title>
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
     <date>2026-11-24</date>
   </programme>
+  <programme channel="gma_news_tv_410428" start="20261124120000 -0800" stop="20261124124500 -0800">
+    <title lang="zh">One Mindanao</title>
+    <desc>The newscast covers the most significant news and features in six regions in Mindanao.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261124123000 -0800" stop="20261124131500 -0800">
+    <title lang="zh">My Father's Wife</title>
+    <desc>A drama about childhood best friends Gina and Betsy whose friendship turns into a bitter rivalry when Gina falls in love with Betsy's boyfriend and Betsy retaliates by marrying Gina's father.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261124124500 -0800" stop="20261124133000 -0800">
+    <title lang="zh">Ratsada Balita</title>
+    <desc>Brings in-depth and comprehensive news from across Western Visayan region, delivered in Hiligaynon language.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261124131500 -0800" stop="20261124141500 -0800">
+    <title lang="zh">Balitanghali</title>
+    <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261124133000 -0800" stop="20261124141500 -0800">
+    <title lang="zh">State Of The Nation</title>
+    <desc>The flagship nightly news program that delivers the latest news and happenings around the country.</desc>
+    <date>2026-11-24</date>
+  </programme>
   <programme channel="cinemaone" start="20261124140000 -0800" stop="20261124160000 -0800">
     <title lang="zh">My Perfect You</title>
     <desc>Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261124141500 -0800" stop="20261124150000 -0800">
+    <title lang="zh">Chika Cart</title>
+    <desc>Three vibrant personalities collaborate in one-stop tambayan for your daily celebrity chika, energetic banter, and checkout-worthy finds.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261124141500 -0800" stop="20261124144500 -0800">
+    <title lang="zh">Saksi</title>
+    <desc>Brings up-to-the-minute news relentlessly delivering breaking stories and covering live reports.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261124144500 -0800" stop="20261124153000 -0800">
+    <title lang="zh">Pera Paraan</title>
+    <desc>Offers practical tips on handling household finances and earning additional income.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261124150000 -0800" stop="20261124154500 -0800">
+    <title lang="zh">Pinas Sarap</title>
+    <desc>A food and travel program that aims to discover the origins of our favorite Pinoy cuisines by traveling to various places in the country.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_news_tv_410428" start="20261124153000 -0800" stop="20261124160000 -0800">
+    <title lang="zh">Dobol B TV</title>
+    <desc>Various newscasts and programs of Super Radyo DZBB delivers the much-needed news and information to its viewers.</desc>
+    <date>2026-11-24</date>
+  </programme>
+  <programme channel="gma_life_tv_410427" start="20261124154500 -0800" stop="20261124160000 -0800">
+    <title lang="zh">Idol Sa Kusina</title>
+    <desc>An entertaining and informative cooking program that showcases scrumptious cuisines. Together with the celebrities, the show unfolds topnotch kitchen skills and culinary secrets that will make cooking dishes effortless.</desc>
     <date>2026-11-24</date>
   </programme>
   <programme channel="cinemaone" start="20261124160000 -0800" stop="20261125160000 -0800">
