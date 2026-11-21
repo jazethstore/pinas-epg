@@ -54,9 +54,33 @@ def fmt_dt(dt):
 
 
 def clickthecity_schedule(url, minimum_rows=8):
-    req = Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; PinasEPG/1.0)"})
-    with urlopen(req, timeout=45) as response:
-        raw = response.read().decode("utf-8", errors="replace")
+    raw = ""
+    fetch_errors = []
+    # ClickTheCity may serve different HTML to automation clients. Try its
+    # primary host with browser-like headers, then the beta host.
+    candidate_urls = [url]
+    if "www.clickthecity.com" in url:
+        candidate_urls.append(url.replace("www.clickthecity.com", "beta.clickthecity.com"))
+    for candidate in candidate_urls:
+        try:
+            req = Request(candidate, headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                              "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Referer": "https://www.google.com/",
+            })
+            with urlopen(req, timeout=45) as response:
+                candidate_raw = response.read().decode("utf-8", errors="replace")
+            candidate_text = unescape(re.sub(r"<[^>]+>", " ", candidate_raw))
+            if re.search(r"\d{1,2}:\d{2}\s*[AP]M", candidate_text, re.I):
+                raw = candidate_raw
+                break
+            raw = candidate_raw
+        except Exception as exc:
+            fetch_errors.append(f"{candidate}: {exc}")
+    if not raw:
+        raise RuntimeError("Unable to fetch ClickTheCity page: " + "; ".join(fetch_errors))
 
     page_text = unescape(re.sub(r"<[^>]+>", " ", raw))
     page_text = re.sub(r"\s+", " ", page_text)
@@ -438,12 +462,14 @@ def main():
             else:
                 print(f"{channel_id}: kept previous schedule; ClickTheCity refresh failed: {exc}")
 
-    # ClickTheCity channel pages for Kapamilya Channel and Solar Flix.
-    # These pages sometimes expose only a short list; accept four or more
-    # current-day listings, but reject pages whose schedule date is stale.
+    # ClickTheCity channel pages for channels whose EPG.PW/FreeEPG feeds
+    # currently return no future listings. Accept four or more rows, while
+    # rejecting stale pages and preserving old data on parse failures.
     for channel_id, url in (
         ("kapamilya_channel", "https://www.clickthecity.com/tv/channels/kapamilya-channel"),
         ("solar_flix", "https://www.clickthecity.com/tv/channels/solar-flix"),
+        ("viva_cinema", "https://www.clickthecity.com/tv/channels/viva-cinema"),
+        ("gma7", "https://www.clickthecity.com/tv/channels/gma"),
     ):
         try:
             count = replace_clickthecity_channel(current, channel_id, url, minimum_rows=4)
