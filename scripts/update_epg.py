@@ -145,6 +145,52 @@ def replace_clickthecity_channel(root, channel_id, url):
     return len(entries)
 
 
+
+def refresh_epgpw_date_channel(root, target_channel_id, source_channel_id):
+    """Refresh one EPG.PW channel for today and tomorrow in Philippines date."""
+    manila_today = datetime.now(ZoneInfo("Asia/Manila")).date()
+    rows = []
+    for day_offset in (0, 1):
+        schedule_date = manila_today + timedelta(days=day_offset)
+        url = (
+            "https://www.epg.pw/api/epg.xml"
+            f"?lang=en&date={schedule_date:%Y%m%d}&channel_id={source_channel_id}"
+        )
+        req = Request(url, headers={"User-Agent": "pinas-epg-updater/1.0"})
+        with urlopen(req, timeout=60) as response:
+            day_feed = ET.fromstring(response.read())
+        for program in day_feed.findall("programme"):
+            start = parse_dt(program.get("start"))
+            stop = parse_dt(program.get("stop"))
+            if not start or not stop or stop <= start:
+                continue
+            program.set("channel", target_channel_id)
+            program.set("start", fmt_dt(start))
+            program.set("stop", fmt_dt(stop))
+            rows.append(program)
+
+    # Deduplicate by exact interval and title; retain the source programme text.
+    unique = {}
+    for program in rows:
+        title = " ".join((program.findtext("title") or "").split())
+        unique[(program.get("start"), program.get("stop"), title)] = program
+    rows = sorted(unique.values(), key=lambda p: p.get("start", ""))
+    if len(rows) < 8:
+        raise RuntimeError(
+            f"EPG.PW channel {source_channel_id} returned only {len(rows)} programmes"
+        )
+
+    first_start = parse_dt(rows[0].get("start"))
+    last_stop = max(parse_dt(p.get("stop")) for p in rows)
+    for old in list(root.findall(f"programme[@channel='{target_channel_id}']")):
+        old_start = parse_dt(old.get("start"))
+        old_stop = parse_dt(old.get("stop"))
+        if old_start and old_stop and old_start < last_stop and old_stop > first_start:
+            root.remove(old)
+    root.extend(rows)
+    return len(rows)
+
+
 def fill_tfc_unlisted_gaps(root):
     # Preserve known programme titles. For long gaps in the third-party feed,
     # use a clearly labelled generic block rather than leaving the guide blank.
@@ -289,6 +335,18 @@ def main():
             print(f"{channel_id}: refreshed {count} ClickTheCity programmes")
         except Exception as exc:
             fallback = replacement.get(channel_id, []) if feed is not None else []
+
+            # Use EPG.PW's date-specific channel API for Cinema One Global.
+            # The date is calculated from the Philippines calendar and the
+            # returned programme times are converted to Los Angeles.
+            if channel_id == "cinemaone":
+                try:
+                    count = refresh_epgpw_date_channel(current, "cinemaone", "492842")
+                    applied_targets.add("cinemaone")
+                    print(f"Cinema One: refreshed {count} entries from EPG.PW channel 492842.")
+                    continue
+                except Exception as cinema_exc:
+                    print(f"Cinema One EPG.PW feed unavailable; retained previous schedule: {cinema_exc}")
 
             # PBO also has a dedicated EPG.PW endpoint. Use it only when it
             # supplies a substantial schedule; never replace a good schedule
