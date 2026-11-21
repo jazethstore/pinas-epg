@@ -103,7 +103,7 @@ def main():
     for program in current.findall("programme"):
         for attr in ("start", "stop"):
             value = program.get(attr, "")
-            if re.fullmatch(r"\\d{16}\\s*[+-]\\d{4}", value):
+            if re.fullmatch(r"\d{16}\s*[+-]\d{4}", value):
                 program.set(attr, value[:14] + " " + value[-5:])
 
     # Require a substantial live feed before changing anything.
