@@ -16,8 +16,6 @@ TARGET = "pinas_epg001.xml"
 LA = ZoneInfo("America/Los_Angeles")
 ALIASES = {
     "gmapinoytv_asia": ["GMA Pinoy TV", "GMA Pinoy"],
-    "tfc": ["TFC", "The Filipino Channel"],
-    "cinemaone": ["Cinema One", "Cinema 1"],
     "anc_singapore": ["ANC", "ABS-CBN News Channel"],
     "gma_news_tv_410428": ["GMA News TV", "GTV"],
     "gma_life_tv_410427": ["GMA Life TV", "GMA Life"],
@@ -26,7 +24,6 @@ ALIASES = {
     "gma7": ["GMA 7", "GMA", "GMA-7"],
     "kapamilya_channel": ["Kapamilya Channel"],
     "one_ph": ["One PH", "OnePH"],
-    "pbo": ["PBO", "Pinoy Box Office"],
 }
 
 def norm(value):
@@ -110,7 +107,7 @@ def main():
     total_new = sum(len(items) for items in replacement.values())
     if len(matched) < 5 or total_new < 100:
         raise RuntimeError(
-            f"Feed validation failed: matched {len(matched)}/13 channels and "
+            f"Feed validation failed: matched {len(matched)}/9 EPG.PW-managed channels and "
             f"{total_new} future programmes. Existing XML left untouched."
         )
 
@@ -127,7 +124,7 @@ def main():
     with open(TARGET, "wb") as f:
         f.write(output)
 
-    print(f"Matched {len(matched)}/13 channels; loaded {total_new} future programmes.")
+    print(f"Matched {len(matched)}/9 EPG.PW-managed channels; loaded {total_new} future programmes.")
     for target_id in ALIASES:
         print(f"{target_id}: {'updated' if target_id in matched else 'kept existing schedule'}")
 
