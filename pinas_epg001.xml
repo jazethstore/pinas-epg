@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="Pinas EPG - daily refreshed; America/Los_Angeles" generator-info-url="https://epg.pw/">
+<tv generator-info-name="Pinas EPG - refreshed every 3 hours; America/Los_Angeles" generator-info-url="https://epg.pw/">
   <channel id="gmapinoytv_asia">
     <display-name lang="en">GMA Pinoy TV</display-name>
   </channel>
