@@ -56,71 +56,96 @@ def fmt_dt(dt):
 def clickthecity_schedule(url, minimum_rows=8):
     raw = ""
     fetch_errors = []
-    # ClickTheCity may serve different HTML to automation clients. Try its
-    # primary host with browser-like headers, then the beta host.
-    # ClickTheCity often blocks direct automation requests or serves an app shell.
-    # Jina Reader provides a text rendering of the public page as a fallback.
-    candidate_urls = ["https://r.jina.ai/http://" + url.removeprefix("https://").removeprefix("http://") , url]
+    # Prefer Jina's readable rendering, then try the publisher's HTML endpoints.
+    candidate_urls = [
+        "https://r.jina.ai/http://" + url.removeprefix("https://").removeprefix("http://"),
+        url,
+    ]
     if "www.clickthecity.com" in url:
         candidate_urls.append(url.replace("www.clickthecity.com", "beta.clickthecity.com"))
+
     for candidate in candidate_urls:
         try:
             req = Request(candidate, headers={
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                               "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                "Accept": "text/plain,text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
                 "Accept-Language": "en-US,en;q=0.9",
                 "Referer": "https://www.google.com/",
             })
             with urlopen(req, timeout=45) as response:
                 candidate_raw = response.read().decode("utf-8", errors="replace")
-            candidate_text = unescape(re.sub(r"<[^>]+>", " ", candidate_raw))
-            if re.search(r"\d{1,2}:\d{2}\s*[AP]M", candidate_text, re.I):
+            # Keep trying if the response is only an error/interstitial page.
+            if re.search(r"\d{1,2}:\d{2}\s*[AP]M", candidate_raw, re.I):
                 raw = candidate_raw
                 break
-            raw = candidate_raw
+            if candidate_raw:
+                raw = candidate_raw
         except Exception as exc:
             fetch_errors.append(f"{candidate}: {exc}")
-    if not raw:
-        raise RuntimeError("Unable to fetch ClickTheCity page: " + "; ".join(fetch_errors))
 
+    if not raw or not re.search(r"\d{1,2}:\d{2}\s*[AP]M", raw, re.I):
+        raise RuntimeError(
+            "No readable programme times found on ClickTheCity page"
+            + (": " + "; ".join(fetch_errors) if fetch_errors else "")
+        )
+
+    # Jina Reader returns Markdown, while the publisher may return HTML.
+    # Parse each line independently so numbered Markdown rows (e.g.
+    # '1. 2:00 AM – The Bride') are not lost by HTML-only selectors.
     page_text = unescape(re.sub(r"<[^>]+>", " ", raw))
-    page_text = re.sub(r"\s+", " ", page_text)
+    page_text = re.sub(r"[ \t]+", " ", page_text)
     date_match = re.search(r"([A-Za-z]+ \d{1,2}, \d{4})", page_text, re.I)
     if date_match:
         schedule_date = datetime.strptime(date_match.group(1), "%B %d, %Y").date()
     else:
-        # ClickTheCity sometimes omits date metadata from its server-rendered HTML.
-        # Its channel pages show today's schedule, so use the Philippines date.
         schedule_date = datetime.now(ZoneInfo("Asia/Manila")).date()
 
     entries = []
-    # Prefer individual list items so each programme title remains intact.
-    for item in re.findall(r"<li\b[^>]*>(.*?)</li>", raw, re.I | re.S):
-        text = unescape(re.sub(r"<[^>]+>", " ", item))
-        text = re.sub(r"\s+", " ", text).strip()
-        match = re.match(r"(\d{1,2}:\d{2}\s*[AP]M)\s*[–—-]\s*(.+)$", text, re.I)
+    row_re = re.compile(
+        r"^\s*(?:[-*]\s*|\d+[.)]\s*)?"
+        r"(\d{1,2}:\d{2}\s*[AP]M)\s*[–—-]\s*(.*?)\s*$",
+        re.I,
+    )
+    for line in page_text.splitlines():
+        line = unescape(line).strip()
+        match = row_re.match(line)
         if match:
             title = re.sub(r"\s+", " ", match.group(2)).strip(" .")
+            title = re.sub(r"\s*\[[^\]]+\]\s*$", "", title).strip()
             if title and not title.lower().startswith("view full"):
                 entries.append((match.group(1), title))
 
-    # Fallback for markup where schedule rows are not list elements.
-    if len(entries) < 5:
-        entries = []
+    # Some HTML responses place several rows on one line or omit list markers.
+    if len(entries) < minimum_rows:
         pattern = re.compile(
             r"(\d{1,2}:\d{2}\s*[AP]M)\s*[–—-]\s*(.*?)"
-            r"(?=\s+\d{1,2}:\d{2}\s*[AP]M\s*[–—-]|$)", re.I
+            r"(?=(?:\s+\d+[.)]\s*)?\s+\d{1,2}:\d{2}\s*[AP]M\s*[–—-]|$)",
+            re.I | re.S,
         )
         for match in pattern.finditer(page_text):
             title = re.sub(r"\s+", " ", match.group(2)).strip(" .")
-            title = re.sub(r"\s+\d+\.$", "", title)
             title = re.split(r"View Full Philippine TV Schedule", title, flags=re.I)[0].strip()
-            if title:
+            if title and not title.lower().startswith("view full"):
                 entries.append((match.group(1), title))
 
+    # Deduplicate rows collected by the two parsers.
+    unique_entries = []
+    seen_rows = set()
+    for time_text, title in entries:
+        key = (time_text.upper().replace(" ", ""), title.casefold())
+        if key not in seen_rows:
+            unique_entries.append((time_text, title))
+            seen_rows.add(key)
+    entries = unique_entries
+
     if len(entries) < minimum_rows:
-        raise RuntimeError(f"ClickTheCity returned only {len(entries)} programme rows (need {minimum_rows})")
+        preview = re.sub(r"\s+", " ", page_text)[:240]
+        raise RuntimeError(
+            f"ClickTheCity returned only {len(entries)} programme rows (need {minimum_rows}); "
+            f"page preview: {preview}"
+        )
+
     manila_today = datetime.now(ZoneInfo("Asia/Manila")).date()
     if schedule_date < manila_today - timedelta(days=1):
         raise RuntimeError(f"ClickTheCity page is stale ({schedule_date}); Manila date is {manila_today}")
@@ -139,7 +164,6 @@ def clickthecity_schedule(url, minimum_rows=8):
             seen.add(key)
     la_entries.sort(key=lambda item: item[0])
     return la_entries
-
 
 def replace_clickthecity_channel(root, channel_id, url, minimum_rows=8):
     entries = clickthecity_schedule(url, minimum_rows=minimum_rows)
