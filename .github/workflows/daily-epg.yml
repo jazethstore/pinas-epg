@@ -5,6 +5,10 @@ on:
     - cron: "17 4 * * *"
       timezone: "America/Los_Angeles"
   workflow_dispatch:
+  push:
+    paths:
+      - "scripts/**"
+      - ".github/workflows/daily-epg.yml"
 
 permissions:
   contents: write
