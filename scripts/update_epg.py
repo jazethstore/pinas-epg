@@ -289,6 +289,36 @@ def main():
             print(f"{channel_id}: refreshed {count} ClickTheCity programmes")
         except Exception as exc:
             fallback = replacement.get(channel_id, []) if feed is not None else []
+
+            # PBO also has a dedicated EPG.PW endpoint. Use it only when it
+            # supplies a substantial schedule; never replace a good schedule
+            # with a handful of incomplete rows.
+            if channel_id == "pbo":
+                try:
+                    req = Request(
+                        "https://epg.pw/api/epg.xml?channel_id=575516",
+                        headers={"User-Agent": "pinas-epg-updater/1.0"},
+                    )
+                    with urlopen(req, timeout=60) as response:
+                        pbo_feed = ET.fromstring(response.read())
+                    pbo_rows = []
+                    for program in pbo_feed.findall("programme"):
+                        start = parse_dt(program.get("start"))
+                        stop = parse_dt(program.get("stop"))
+                        if not start or not stop or stop <= now or start >= horizon or stop <= start:
+                            continue
+                        program.set("channel", "pbo")
+                        program.set("start", fmt_dt(start))
+                        program.set("stop", fmt_dt(stop))
+                        pbo_rows.append(program)
+                    if len(pbo_rows) >= 8:
+                        fallback = pbo_rows
+                        print(f"PBO: dedicated EPG.PW feed supplied {len(pbo_rows)} programmes.")
+                    else:
+                        print(f"PBO: dedicated EPG.PW feed supplied only {len(pbo_rows)} programmes; not replacing the current schedule.")
+                except Exception as pbo_exc:
+                    print(f"PBO: dedicated EPG.PW feed unavailable: {pbo_exc}")
+
             if len(fallback) >= 8:
                 for old in list(current.findall(f"programme[@channel='{channel_id}']")):
                     current.remove(old)
@@ -308,7 +338,7 @@ def main():
     programme_rows.sort(key=lambda program: program.get("start", ""))
     current.extend(programme_rows)
 
-    current.set("generator-info-name", "Pinas EPG - daily refreshed; America/Los_Angeles")
+    current.set("generator-info-name", "Pinas EPG - refreshed every 3 hours; America/Los_Angeles")
     ET.indent(current, space="  ")
     output = ET.tostring(current, encoding="utf-8", xml_declaration=True)
     with open(TARGET, "wb") as f:
