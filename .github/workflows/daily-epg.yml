@@ -2,8 +2,8 @@ name: Philippines EPG refresh
 
 on:
   schedule:
-    # Run every hour (UTC). This is independent of daylight-saving changes.
-    - cron: "17 * * * *"
+    # Run every 3 hours (UTC). This is independent of daylight-saving changes.
+    - cron: "17 */3 * * *"
   workflow_dispatch:
   push:
     paths:
@@ -39,5 +39,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add pinas_epg001.xml
-          git commit -m "EPG refresh (hourly, Los Angeles time)"
+          git commit -m "EPG refresh (every 3 hours, Los Angeles time)"
           git push
